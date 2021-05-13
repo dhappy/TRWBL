@@ -16,10 +16,10 @@ In realtime, offers are local and shared between the dealer and their plugs.
 
 # Party Favors
 
-This is an idea for an event fasilitation program.
+This is an idea for an event facilitation program.
 
 1. An Owner maps a site and designates availability
-1. A Host selects the site and time period they would like to reseve
+1. A Host selects the site and time period they would like to reserve
 2. A Host invites Guests to pick spaces for the duration
 3. Guests make reservations for spaces
 4. Guests specify substances they are interested in
@@ -27,7 +27,7 @@ This is an idea for an event fasilitation program.
 6. Guests view bids and make specific purchasing requests
 7. Some set of bids are accepted
 8. Dealers individually seal each of the orders and mail it to the Collector
-9. The Collecteor conglomerates all the packages into one parcel
+9. The Collector conglomerates all the packages into one parcel
 10. The Bootlegger picks up the parcel, divides the orders into combination locked bags with a printed nfc card in the lock
   * The front of the nfc card is artwork provided by the Guests
   * The back of the nfc card is a QR code
