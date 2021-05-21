@@ -19,7 +19,8 @@ Many of my concepts are having difficultly of circular dependencies.
 * Raise the social capital to allow Biden to cease the dropping of all bombs.
 * Found a church based on a real, but internal, Holy Spirit.
 * Form a Caliphate to own the spaces. The decision-makers should be more than 50% XX females.
-* Organize the livestreamed search for the leadership of the armed groups in the world.
+* Organize the livestreamed search for the leadership of the armed groups in the world. Provide them with secure communications devices and broker a cessation of armed conflict.
+* With the copious coffers of the US & world militaries, we should have little trouble finishing hunger, homelessness, and boredom.
 
 
 # Problem
@@ -38,9 +39,9 @@ Many of my concepts are having difficultly of circular dependencies.
 
 # Solution
 
-Mïmis is built on a node-sharded graph stored in Ceramic. Each node in the tree is a separate updatable document. Paths are resolved by walking the graph and building a render tree based on the configuration at each position.
+[Mïmis](https://github.com/MetaFam/mimis/) is built on a node-sharded graph stored in Ceramic. Each node in the tree is a separate updatable document. The entire structure is cached in a Neo4j instance running in Docker either on the user's machine or in the cloud.
 
-The output for any path is available as both content and context. The context for a location is produced by traversing the render tree after generation is complete and producing a JSON document. It includes which DIDs were responsible for providing which content and how many contacts' trees included each resource.
+The output for any path is available as both content and context. The context for a location is produced using any of a variety of algorithms provided by Neo4j. They can run a local page rank that is tracking their browsing history with much finer granularity than Google ever could b/c it is a trusted agent.
 
 # Product
 
@@ -54,8 +55,6 @@ Software-wise, there is the client, and Ceramic is really the "server". All the 
 
 # Progress
 
-I have an algorithm for converting a source tree to a render tree. I have maybe 20% of a reasonable visualization.
-
 On the larger front, I can only really focus in depth on one project at a time. I first became convinced I could be an active part of a rapid societal change over a decade ago. I've contemplated hundreds of different use cases for apps in that period, but I really only have the time to reason thoroughly through five or six.
 
 My stretch goal is the end of war, so what percentage of that do I have figured out? 65‒70%. There are three independent striations – the personal, the social, and the planetary – that this change will take place in, and I think I have a reasonably well grounded plan for each.
@@ -68,7 +67,7 @@ As for the Revolution, white people don't think it can happen, and black people 
 
 # Team
 
-I, Will Holcomb, "Δυς", will take anything you give me up to $10k, match it, and give it to Raid Guild.
+I, Will Holcomb, "Δυς", will take anything you give me up to $10k, match it, and focus on finding competent pair programming partners. The core algorithm is still too much in my head and I need to spend time explaining it to someone else to work it out.
 
 # Grant Request
 
@@ -95,5 +94,3 @@ How I would like to see this executed is via recorded pair programming. Eventual
 Help at this point, is finding money to give to other people to give to other people, I guess.
 
 Really, to get my Revolutionary calendar to align with the Gregorian one, such that I'm writing on 0/♈/12 rather than -3/♉/22, because historically Joe Biden's was the first Presidency in the Revolution and not his successor, would be for him to stop the dropping of bombs, and clear the way for us to reform the black market.
-
-# Additional Resources
