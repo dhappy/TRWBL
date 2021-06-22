@@ -67,7 +67,7 @@ As for the Revolution, white people don't think it can happen, and black people 
 
 # Team
 
-I, Will Holcomb, "Δυς", will take anything you give me up to $10k, match it, and focus on finding competent pair programming partners. The core algorithm is still too much in my head and I need to spend time explaining it to someone else to work it out.
+I, Will Holcomb, "δυς", will take anything you give me up to $10k, match it, and focus on finding competent pair programming partners. The core algorithm is still too much in my head and I need to spend time explaining it to someone else to work it out.
 
 # Grant Request
 
