@@ -1,0 +1,32 @@
+* Security
+* Surveillance
+* Communications
+* Substances
+* Food/Water
+* Sex
+* Shelter
+* Tools
+* Transport
+* Housekeeping
+* Time/Record Keeping
+* Transparency
+* Community/Therapy
+
+The concept here is to come up with a 13-way partition that covers everything people want and covers all the services necessary to organize a game.
+
+Yggdrasil is fundamentally about control of space. Spaces are deliniated by 3D maps and preferential token weighting alternates between the alliances. For one round red teams' tokens are worth double, then purple, then blue, then purple, red, repeat.
+
+Because purple is in the queue twice and has a fifth team to red and blue's four, it is strongly preferenced to have access to space.
+
+This is because two of the teams – sex and substances – are illicit. Some of what they provide will be illegal. The ultimate goal is have the establishment actively participating as one of the 13 teams: gold. Until that happens, there is an adversarial relationship that is handled by having contingency plans based frequently around amassing large groups of people to impede the movement of vehicles.
+
+So the gold team exists to identify members of the establishment. All law-enforcement officers should hold gold to signal their allegance to that organization.
+
+Gold would be minted, like Black, from an attestation system where an officer submits a video claiming to be law-enforcement & the approval of others equates to a token transfer.
+
+The 13 teams tokens are minted to represent different things. Black tokens are meant to go to black lives. They will be used to gate access to information useful in building a distribution network for substances to act as a violence-free alternative to the cartels.
+
+```ccard
+type: folder_brief_live
+```
+ 

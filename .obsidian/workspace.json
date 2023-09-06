@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "6fe2284a63a2f18c",
+    "type": "split",
+    "children": [
+      {
+        "id": "facabff7a62fcd1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6aabc0562b70b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funding/Funding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfce13e49159d0a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Yggdrasil.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce8acbd13b2976f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ccfa5d4f91e402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3acd15d6582bdcd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38c877383640aa7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d06cdc68e202712",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32d9900a8175a2c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "10c24377c8a8527a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1170b50d4d52b6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attachments/Yggdrasil.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dac23872ed31c2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Attachments/Yggdrasil.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b85fe00ed80ec1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a313f14f187adbc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Attachments/Yggdrasil.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cfce13e49159d0a2",
+  "lastOpenFiles": [
+    "Attachments/teams.svg",
+    "Attachments/Yggdrasil.png",
+    "Thirteen Thirteens/Thirteen Thirteens.md",
+    "Thirteen Thirteens/Axes/Names/Names.md",
+    "Thirteen Thirteens/Axes/Axes.md",
+    "Thirteen Thirteens/Axes/Names",
+    "Yggdrasil.md",
+    "Thirteen Thirteens/Conglomerations/“Whites”/“Whites”.md",
+    "Thirteen Thirteens/Conglomerations/“Blacks”/“Blacks”.md",
+    "Thirteen Thirteens/Conglomerations/“Whites”",
+    "Timeline/Timeline.md",
+    "Warfare.md",
+    "Thirteen Thirteens/Conglomerations/“Blacks”",
+    "Funding/Funding.md",
+    "Thirteen Thirteens/Conglomerations/Non-Human Life/Non-Human Life.md",
+    "Thirteen Thirteens/Conglomerations/Enforcement/Enforcement.md",
+    "Thirteen Thirteens/Conglomerations/Enforcement",
+    "Thirteen Thirteens/Conglomerations/The Resistance/The Resistance.md",
+    "Thirteen Thirteens/Conglomerations/Non-Human Life",
+    "Thirteen Thirteens/Conglomerations/The Establishment/The Establishment.md",
+    "Thirteen Thirteens/Conglomerations/The Resistance",
+    "Procedures/Party Favors/Party Favors.md",
+    "Thirteen Thirteens/Conglomerations/The Establishment",
+    "Thirteen Thirteens/Conglomerations",
+    "Procedures/Plugging/Plugging.md",
+    "Procedures/Party Favors",
+    "Procedures/Plugging",
+    "The Revolution Will Be Live.md",
+    "Untitled.canvas",
+    "2023-09-06.md",
+    "Thirteen Thirteens/Axes/Timeframes/Timeframes.md",
+    "Thirteen Thirteens/Axes/Spaces/Spaces.md",
+    "Thirteen Thirteens/Axes/Realms/Realms.md",
+    "Thirteen Thirteens/Axes/Projects/Projects.md",
+    "Thirteen Thirteens/Axes/Months/Months.md",
+    "Thirteen Thirteens/Axes/Languages/Languages.md",
+    "Thirteen Thirteens/Axes/Guilds/Guilds.md",
+    "Thirteen Thirteens/Axes/Colors/Colors.md",
+    "Attachments/shifted teams.svg"
+  ]
+}

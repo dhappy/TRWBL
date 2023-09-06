@@ -1,12 +1,10 @@
-# Technoanarchist Warfare
-
 As with most of its systems, the Technoanarchist approach to warfare involves lots of livestreaming.
 
 There are, initially at least, very few soldiers. We could start with a single group, small enough to be non-threatening, say five people.
 
 This team is on a search for the individuals with the most capability of ending gunfire. The goal is not to address the conflicts, but to transition the mechanisms of conflict to ones without violence.
 
-So, initially, to stop all bombing. This group of five would be streamed travelling through conflict areas attempting to explain their purpose to get communications devices into the hands of those giving the orders.
+So, initially, to stop all bombing. This group of five would be streamed traveling through conflict areas attempting to explain their purpose to get communications devices into the hands of those giving the orders.
 
 Devices should make a genuine effort to avoid localizing of the user. "Enemy" leaders should be free to communicate without increasing their risk of reprisal.
 
