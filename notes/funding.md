@@ -2,9 +2,8 @@
 id: ypu9ulohotwrez78fsejofb
 title: Funding
 desc: ''
-updated: 1694081427001
+updated: 1694088293792
 created: 1694070085012
-isDir: false
 nav_order: 20
 ---
 
