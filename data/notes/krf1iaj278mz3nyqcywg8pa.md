@@ -1,10 +1,16 @@
+
+Each of the 13 teams has a leader responsible for making certain early decisions such as who to invite to their team initially.
+
+As the teams grow, these functions should largely be passed on to voting structures of the entire populace though the captain will retain certain benevolent dictator powers necessary for efficient administration.
+
 * δυς
 * Mo'
 * Joe Biden *(President of the U.S.A.)*
 * Timothy L. Nuvangyaoma *(Chairman of the Hopi Tribal Council)*
-* António Guterres *(Secretary General of the U.N.)*
-* _Celebrity \#1_:
-* _Celebrity \#2_:
-* _Celebrity \#3_:
-* Alvaro Tukano *(cacique, Chief of the Tukano Tribe)*
+* _XY Celebrity \#1_:
+* _XY Celebrity \#2_:
+* _XY Celebrity \#3_:
+* _XX Celebrity \#1_:
+* _XX Celebrity \#2_:
+* _XX Celebrity \#3_:
 * ⋮

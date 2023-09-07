@@ -2,7 +2,7 @@
 * _Color_: **Silver**
 * _Need_: **Enforcement**
 
-As [[aforementioned|13-13s]], the game is funadamentally about control of space.
+As [[aforementioned|13-13s]], the game is fundamentally about control of space.
 
 If, during their tenure, a holder of a space wants a player removed from that space and that player refuses to leave, they can call on Enforcement to remove that party to a space where they have permission to be.
 
@@ -20,3 +20,5 @@ There will always be locations of last resort that are available to all players,
 This would only be in the most extreme and well documented cases that alternatives weren't feasible.
 
 So, the role of the Silver team in extreme cases would be to deliver players to a permitted location.
+
+Silver is intended to have a well-known and real threat of the ability to exercise force if necessary. This is selected for through reviews of combat footage where the relative dangerousness of various parties is ranked by observers.

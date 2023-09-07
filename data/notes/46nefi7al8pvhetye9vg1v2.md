@@ -1,4 +1,4 @@
-* **Stay:** Mapping spaces, capturing task descriptions, and coordinating property management, allowing participants to maintain and reserve spaces at a minimum of monetary cost.
+* ^stay **Stay:** Mapping spaces, capturing task descriptions, and coordinating property management, allowing participants to maintain and reserve spaces at a minimum of monetary cost.
   Space is rented by a user under the auspices of a set of teams. The team specifies the expected application of the space.
 
 * **Substances:** An interface for selling things with a digital testing certificate. Aimed in large part at the violence, dilution, & theft-free distribution of substances, be they pharmacetical or psychotropic.

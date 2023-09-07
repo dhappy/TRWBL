@@ -2,6 +2,7 @@
   "version": 5,
   "dev": {
     "enablePreviewV2": true,
+    "enableExportPodV2": true,
     "enableSelfContainedVaults": true
   },
   "commands": {
@@ -113,13 +114,16 @@
     "siteRootDir": "dist",
     "seo": {
       "title": "The Revolution Will Be Live",
-      "description": "A Story About Radical Social Change"
+      "description": "A Story About Radical Social Change",
+      "author": "dysbulic"
     },
     "github": {
+      "cname": "notes.trwb.live",
       "enableEditLink": true,
       "editLinkText": "Edit this page on GitHub.",
       "editBranch": "master",
-      "editViewMode": "tree"
+      "editViewMode": "tree",
+      "editRepository": "https://github.com/dhappy/TRWBL/"
     },
     "enableSiteLastModified": true,
     "enableFrontmatterTags": true,

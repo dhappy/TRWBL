@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1694073594783,
-      "created": 1694073594783,
+      "updated": 1694080734981,
+      "created": 1694080734981,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -22,9 +22,9 @@
     },
     "ycfbd2a8x41gi0smmpufk0o": {
       "id": "ycfbd2a8x41gi0smmpufk0o",
-      "title": "Root",
+      "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694057881305,
+      "updated": 1694078295090,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
@@ -37,32 +37,50 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "13eacec909acca27fb61d14a14a3cb6a",
-      "links": [],
-      "anchors": {
-        "the-revolution-will-be-live": {
-          "type": "header",
-          "text": "The Revolution Will Be Live",
-          "value": "the-revolution-will-be-live",
-          "line": 9,
-          "column": 0,
-          "depth": 1
+      "contentHash": "03ffd8b156404bbb34686c556b3856a4",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "value": "Thirteen Thirteens",
+          "alias": "13-13s",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 84,
+              "offset": 397
+            },
+            "end": {
+              "line": 6,
+              "column": 113,
+              "offset": 426
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Thirteen Thirteens"
+          }
         }
-      },
+      ],
+      "anchors": {},
       "children": [
         "0kpwtvbizo8p5kwm7ut8z4u",
         "ypu9ulohotwrez78fsejofb",
-        "klaq6os2eyeu4zy78gb9hdc",
         "t70n32fovw6k11p2ffwejej",
         "877hdm78cgmgv9e33ly0s4r",
-        "nkh1zbq8zvwq5z5pcuvkebq",
-        "rqqzpesgs6dikknqwlb9svr",
-        "cyi8z3opd7sf5l4ar53529t"
+        "d4s6k4tg2hsa2mlygby7jlu",
+        "9jj9qcwqe8s5egn8nf45hzw"
       ],
       "parent": null,
       "data": {}
     },
-    "cyi8z3opd7sf5l4ar53529t": {
+    "9jj9qcwqe8s5egn8nf45hzw": {
       "fname": "proposals",
       "stub": true,
       "vault": {
@@ -72,20 +90,20 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694071214644,
-      "created": 1694071214644,
-      "id": "cyi8z3opd7sf5l4ar53529t",
+      "updated": 1694078385740,
+      "created": 1694078385740,
+      "id": "9jj9qcwqe8s5egn8nf45hzw",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "f86w4cr8x9v295l1ou8paii"
+        "b523joaxh0cw2ft9e6rc7qm"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {},
       "title": "Proposals"
     },
-    "f86w4cr8x9v295l1ou8paii": {
+    "b523joaxh0cw2ft9e6rc7qm": {
       "fname": "proposals.metacartel",
       "stub": true,
       "vault": {
@@ -95,9 +113,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694071214645,
-      "created": 1694071214645,
-      "id": "f86w4cr8x9v295l1ou8paii",
+      "updated": 1694078385741,
+      "created": 1694078385741,
+      "id": "b523joaxh0cw2ft9e6rc7qm",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +123,7 @@
         "optc00u1kjkfz656tnghfu7",
         "l8g0vja9faraw5vkigrqqmc"
       ],
-      "parent": "cyi8z3opd7sf5l4ar53529t",
+      "parent": "9jj9qcwqe8s5egn8nf45hzw",
       "data": {},
       "title": "Metacartel"
     },
@@ -211,7 +229,7 @@
         }
       },
       "children": [],
-      "parent": "f86w4cr8x9v295l1ou8paii",
+      "parent": "b523joaxh0cw2ft9e6rc7qm",
       "data": {}
     },
     "optc00u1kjkfz656tnghfu7": {
@@ -324,10 +342,10 @@
         }
       },
       "children": [],
-      "parent": "f86w4cr8x9v295l1ou8paii",
+      "parent": "b523joaxh0cw2ft9e6rc7qm",
       "data": {}
     },
-    "rqqzpesgs6dikknqwlb9svr": {
+    "d4s6k4tg2hsa2mlygby7jlu": {
       "fname": "procedures",
       "stub": true,
       "vault": {
@@ -337,9 +355,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694071214526,
-      "created": 1694071214527,
-      "id": "rqqzpesgs6dikknqwlb9svr",
+      "updated": 1694078385724,
+      "created": 1694078385724,
+      "id": "d4s6k4tg2hsa2mlygby7jlu",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -355,7 +373,7 @@
       "id": "i0pi817k4zm201ladz114om",
       "title": "Plugging",
       "desc": "",
-      "updated": 1694071706562,
+      "updated": 1694080305331,
       "created": 1694070085013,
       "isDir": false,
       "custom": {
@@ -368,18 +386,18 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "b89d583a7449a7ab4249d84b15057f6c",
+      "contentHash": "33ff4d0d18c1e4f4927ebbc8a02a9aa4",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "rqqzpesgs6dikknqwlb9svr",
+      "parent": "d4s6k4tg2hsa2mlygby7jlu",
       "data": {}
     },
     "zy2z0cm580djy9r1mv5hfpv": {
       "id": "zy2z0cm580djy9r1mv5hfpv",
       "title": "Party Favors",
       "desc": "",
-      "updated": 1694070085013,
+      "updated": 1694080284419,
       "created": 1694070085013,
       "isDir": false,
       "custom": {
@@ -392,65 +410,18 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "62e26e3eb8abb4eb08dc132e4e2e8704",
+      "contentHash": "6e4e1e3ecea302ca5c6c7fd6fe958e88",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "rqqzpesgs6dikknqwlb9svr",
-      "data": {}
-    },
-    "nkh1zbq8zvwq5z5pcuvkebq": {
-      "id": "nkh1zbq8zvwq5z5pcuvkebq",
-      "title": "Yggdrasil",
-      "desc": "",
-      "updated": 1694070085010,
-      "created": 1694070085010,
-      "isDir": false,
-      "custom": {
-        "isDir": false
-      },
-      "fname": "yggdrasil",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "contentHash": "9332281347d6edc993c73433021100b0",
-      "links": [
-        {
-          "from": {
-            "fname": "13-13s",
-            "id": "0kpwtvbizo8p5kwm7ut8z4u",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 8,
-              "column": 22,
-              "offset": 416
-            },
-            "end": {
-              "line": 8,
-              "column": 35,
-              "offset": 429
-            },
-            "indent": []
-          },
-          "value": "Yggdrasil"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "parent": "d4s6k4tg2hsa2mlygby7jlu",
       "data": {}
     },
     "877hdm78cgmgv9e33ly0s4r": {
       "id": "877hdm78cgmgv9e33ly0s4r",
       "title": "Warfare",
       "desc": "",
-      "updated": 1694070085010,
+      "updated": 1694080246310,
       "created": 1694070085010,
       "isDir": false,
       "custom": {
@@ -463,7 +434,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "1cddb8aab78bc59d9138e64383e9f9fa",
+      "contentHash": "73a3c66802df33a923efc5b50c630b65",
       "links": [],
       "anchors": {},
       "children": [],
@@ -474,11 +445,13 @@
       "id": "t70n32fovw6k11p2ffwejej",
       "title": "Timeline",
       "desc": "",
-      "updated": 1694071826862,
+      "updated": 1694078282293,
       "created": 1694070085012,
       "isDir": false,
+      "nav_order": 10,
       "custom": {
-        "isDir": false
+        "isDir": false,
+        "nav_order": 10
       },
       "fname": "timeline",
       "type": "note",
@@ -487,7 +460,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "063342e82dc34e839b504259b74b3189",
+      "contentHash": "ae2d2739a4861b17da41685dd29610a1",
       "links": [
         {
           "type": "wiki",
@@ -551,67 +524,17 @@
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {}
     },
-    "klaq6os2eyeu4zy78gb9hdc": {
-      "id": "klaq6os2eyeu4zy78gb9hdc",
-      "title": "The Revolution Will Be Live",
-      "desc": "",
-      "updated": 1694071474236,
-      "created": 1694070085010,
-      "isDir": false,
-      "custom": {
-        "isDir": false
-      },
-      "fname": "the-revolution-will-be-live",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "contentHash": "d3c132fa0bab491f5bee97013ed92c94",
-      "links": [
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "the-revolution-will-be-live",
-            "id": "klaq6os2eyeu4zy78gb9hdc",
-            "vaultName": "TRWBL"
-          },
-          "value": "13-13s",
-          "position": {
-            "start": {
-              "line": 6,
-              "column": 84,
-              "offset": 397
-            },
-            "end": {
-              "line": 6,
-              "column": 94,
-              "offset": 407
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "13-13s"
-          }
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "ycfbd2a8x41gi0smmpufk0o",
-      "data": {}
-    },
     "ypu9ulohotwrez78fsejofb": {
       "id": "ypu9ulohotwrez78fsejofb",
       "title": "Funding",
       "desc": "",
-      "updated": 1694070198764,
+      "updated": 1694078326227,
       "created": 1694070085012,
       "isDir": false,
+      "nav_order": 20,
       "custom": {
-        "isDir": false
+        "isDir": false,
+        "nav_order": 20
       },
       "fname": "funding",
       "type": "note",
@@ -620,7 +543,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "7c5e5eec4f03fe98d77c0daefd322e71",
+      "contentHash": "07d9f7d6db39bf13078bdeb029a25089",
       "links": [],
       "anchors": {},
       "children": [],
@@ -631,9 +554,12 @@
       "id": "0kpwtvbizo8p5kwm7ut8z4u",
       "title": "13 13s",
       "desc": "",
-      "updated": 1694060219459,
+      "updated": 1694078349381,
       "created": 1694057960761,
-      "custom": {},
+      "nav_order": 30,
+      "custom": {
+        "nav_order": 30
+      },
       "fname": "13-13s",
       "type": "note",
       "vault": {
@@ -641,7 +567,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "4fdeb5fadbcfd5e4842dbd14c6d35c71",
+      "contentHash": "0fe1a46305716adb8eb699689ee0fb24",
       "links": [
         {
           "type": "wiki",
@@ -650,7 +576,7 @@
             "id": "0kpwtvbizo8p5kwm7ut8z4u",
             "vaultName": "TRWBL"
           },
-          "value": "Yggdrasil",
+          "value": "yggdrasil",
           "position": {
             "start": {
               "line": 8,
@@ -667,7 +593,7 @@
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "Yggdrasil"
+            "fname": "yggdrasil"
           }
         },
         {
@@ -699,50 +625,6 @@
         },
         {
           "from": {
-            "fname": "13-13s.conglomerations.enforcement",
-            "id": "5zhr7nv3gs8w8wma3llj2yr",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 5,
-              "column": 4,
-              "offset": 53
-            },
-            "end": {
-              "line": 5,
-              "column": 29,
-              "offset": 78
-            },
-            "indent": []
-          },
-          "value": "13-13s"
-        },
-        {
-          "from": {
-            "fname": "the-revolution-will-be-live",
-            "id": "klaq6os2eyeu4zy78gb9hdc",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 6,
-              "column": 84,
-              "offset": 397
-            },
-            "end": {
-              "line": 6,
-              "column": 94,
-              "offset": 407
-            },
-            "indent": []
-          },
-          "value": "13-13s"
-        },
-        {
-          "from": {
             "fname": "timeline",
             "id": "t70n32fovw6k11p2ffwejej",
             "vaultName": "TRWBL"
@@ -762,6 +644,28 @@
             "indent": []
           },
           "value": "13-13s"
+        },
+        {
+          "from": {
+            "fname": "13-13s.conglomerations.enforcement",
+            "id": "5zhr7nv3gs8w8wma3llj2yr",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 53
+            },
+            "end": {
+              "line": 5,
+              "column": 29,
+              "offset": 78
+            },
+            "indent": []
+          },
+          "value": "13-13s"
         }
       ],
       "anchors": {
@@ -769,7 +673,7 @@
           "type": "header",
           "text": "Yggdrasil",
           "value": "yggdrasil",
-          "line": 8,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -777,7 +681,7 @@
           "type": "header",
           "text": "Coordinating With The Establishment",
           "value": "coordinating-with-the-establishment",
-          "line": 18,
+          "line": 19,
           "column": 0,
           "depth": 2
         }
@@ -793,9 +697,12 @@
       "id": "1blknwaz6oza7w6k4fyzxxn",
       "title": "Conglomerations",
       "desc": "",
-      "updated": 1694058776421,
+      "updated": 1694079894546,
       "created": 1694058765003,
-      "custom": {},
+      "nav_order": 20,
+      "custom": {
+        "nav_order": 20
+      },
       "fname": "13-13s.conglomerations",
       "type": "note",
       "vault": {
@@ -803,8 +710,37 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "ce589604a03e7259575b1db76c00af0b",
-      "links": [],
+      "contentHash": "1cea443867def9feb2af3c84053d8276",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.conglomerations",
+            "id": "1blknwaz6oza7w6k4fyzxxn",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes",
+          "alias": "13 axes",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 58,
+              "offset": 58
+            },
+            "end": {
+              "line": 2,
+              "column": 81,
+              "offset": 81
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes"
+          }
+        }
+      ],
       "anchors": {},
       "children": [
         "5zhr7nv3gs8w8wma3llj2yr",
@@ -821,9 +757,12 @@
       "id": "pffrzwncoq8j2ygohww07jv",
       "title": "“Whites”",
       "desc": "",
-      "updated": 1694071440364,
+      "updated": 1694080004044,
       "created": 1694058943591,
-      "custom": {},
+      "nav_order": 60,
+      "custom": {
+        "nav_order": 60
+      },
       "fname": "13-13s.conglomerations.“whites”",
       "type": "note",
       "vault": {
@@ -831,7 +770,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "ad7115c8fcdc18e1470bddd58ae49e78",
+      "contentHash": "539e7dd785681e0d6b1dbb54ed40a714",
       "links": [],
       "anchors": {},
       "children": [],
@@ -863,11 +802,11 @@
       "id": "9wteoqynphzgwdmqmmidazz",
       "title": "The Resistance",
       "desc": "",
-      "updated": 1694070519018,
+      "updated": 1694079490862,
       "created": 1694070085016,
-      "isDir": false,
+      "nav_order": 20,
       "custom": {
-        "isDir": false
+        "nav_order": 20
       },
       "fname": "13-13s.conglomerations.the-resistance",
       "type": "note",
@@ -876,22 +815,22 @@
         "selfContained": true,
         "name": "TRWBL"
       },
+      "contentHash": "b144293d068384c29cdbf45ea912ad8a",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "1blknwaz6oza7w6k4fyzxxn",
-      "data": {},
-      "contentHash": "b04c3905fd0afc1b97e33ca2cdfbb713"
+      "data": {}
     },
     "swohjj4oy7pzgx62cxygaca": {
       "id": "swohjj4oy7pzgx62cxygaca",
       "title": "The Establishment",
       "desc": "",
-      "updated": 1694070511749,
+      "updated": 1694079476850,
       "created": 1694070085016,
-      "isDir": false,
+      "nav_order": 10,
       "custom": {
-        "isDir": false
+        "nav_order": 10
       },
       "fname": "13-13s.conglomerations.the-establishment",
       "type": "note",
@@ -900,22 +839,22 @@
         "selfContained": true,
         "name": "TRWBL"
       },
+      "contentHash": "8ad7fe50980a3212db6e81f5f6e5a16a",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "1blknwaz6oza7w6k4fyzxxn",
-      "data": {},
-      "contentHash": "62adea7b8080a6d693ebefa57df65890"
+      "data": {}
     },
     "bxyvpvp4abwhmeb94014cnj": {
       "id": "bxyvpvp4abwhmeb94014cnj",
       "title": "Non Human Life",
       "desc": "",
-      "updated": 1694070085016,
+      "updated": 1694079626599,
       "created": 1694070085016,
-      "isDir": false,
+      "nav_order": 30,
       "custom": {
-        "isDir": false
+        "nav_order": 30
       },
       "fname": "13-13s.conglomerations.non-human-life",
       "type": "note",
@@ -924,20 +863,23 @@
         "selfContained": true,
         "name": "TRWBL"
       },
+      "contentHash": "7cc359e272f93abb58f4350e366f3687",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "1blknwaz6oza7w6k4fyzxxn",
-      "data": {},
-      "contentHash": "cb31f615c27493c11ba957d180f1d9f2"
+      "data": {}
     },
     "5zhr7nv3gs8w8wma3llj2yr": {
       "id": "5zhr7nv3gs8w8wma3llj2yr",
       "title": "Enforcement",
       "desc": "",
-      "updated": 1694067334641,
+      "updated": 1694079831453,
       "created": 1694058990911,
-      "custom": {},
+      "nav_order": 40,
+      "custom": {
+        "nav_order": 40
+      },
       "fname": "13-13s.conglomerations.enforcement",
       "type": "note",
       "vault": {
@@ -945,7 +887,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "7b6cd313c49461aac692f37f3a5f5051",
+      "contentHash": "f3d01108a37292e83acf14ff511749f7",
       "links": [
         {
           "type": "wiki",
@@ -985,11 +927,11 @@
       "id": "u68x9dgujhgq1ode6yce0qh",
       "title": "Axes",
       "desc": "",
-      "updated": 1694071851329,
+      "updated": 1694078817101,
       "created": 1694070085014,
-      "isDir": false,
+      "nav_order": 10,
       "custom": {
-        "isDir": false
+        "nav_order": 10
       },
       "fname": "13-13s.axes",
       "type": "note",
@@ -998,8 +940,31 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "fb512dd52e3fca4bac26d696068fef35",
-      "links": [],
+      "contentHash": "2ab12a5d7160eb9458a9cf4643c60898",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.conglomerations",
+            "id": "1blknwaz6oza7w6k4fyzxxn",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 58,
+              "offset": 58
+            },
+            "end": {
+              "line": 2,
+              "column": 81,
+              "offset": 81
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes"
+        }
+      ],
       "anchors": {},
       "children": [
         "028i5ev6vm12st09fmriclz",
@@ -1022,11 +987,11 @@
       "id": "nmb42ilobl87ccb41ck9j6l",
       "title": "Timeframes",
       "desc": "",
-      "updated": 1694071370633,
+      "updated": 1694079414333,
       "created": 1694070085016,
-      "isDir": false,
+      "nav_order": 100,
       "custom": {
-        "isDir": false
+        "nav_order": 100
       },
       "fname": "13-13s.axes.timeframes",
       "type": "note",
@@ -1035,7 +1000,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "312a4831af0bd206effbb6df735f0bcb",
+      "contentHash": "12062ae2516c2fab0168ea04ebc7ea42",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1046,11 +1011,11 @@
       "id": "b1vftqelffxoswnp70zabq0",
       "title": "Spaces",
       "desc": "",
-      "updated": 1694071360242,
+      "updated": 1694078811520,
       "created": 1694070085016,
-      "isDir": false,
+      "nav_order": 60,
       "custom": {
-        "isDir": false
+        "nav_order": 60
       },
       "fname": "13-13s.axes.spaces",
       "type": "note",
@@ -1059,7 +1024,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "243af4f51f44a383c51a98c39a2e2dae",
+      "contentHash": "e77b8c5174dd5707e4d5e215ddf2a598",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1070,11 +1035,11 @@
       "id": "lm2y34tzmv7uohw20kyly28",
       "title": "Realms",
       "desc": "",
-      "updated": 1694071338291,
+      "updated": 1694079434374,
       "created": 1694070085016,
-      "isDir": false,
+      "nav_order": 110,
       "custom": {
-        "isDir": false
+        "nav_order": 110
       },
       "fname": "13-13s.axes.realms",
       "type": "note",
@@ -1083,7 +1048,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "5703f3a83e29e6fa87ff455ce54ecac1",
+      "contentHash": "6b32242f34cabc48151cb4e8187e707a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1094,11 +1059,11 @@
       "id": "46nefi7al8pvhetye9vg1v2",
       "title": "Projects",
       "desc": "",
-      "updated": 1694071318241,
+      "updated": 1694080110764,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 30,
       "custom": {
-        "isDir": false
+        "nav_order": 30
       },
       "fname": "13-13s.axes.projects",
       "type": "note",
@@ -1107,7 +1072,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "51f6d022317d31f158626a2f0094e054",
+      "contentHash": "6aa00f6b06891ef04117339657d5d8e0",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1118,11 +1083,11 @@
       "id": "t6dplnemakx4uvjlmr12728",
       "title": "Needs",
       "desc": "",
-      "updated": 1694071309108,
+      "updated": 1694078511725,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 20,
       "custom": {
-        "isDir": false
+        "nav_order": 20
       },
       "fname": "13-13s.axes.needs",
       "type": "note",
@@ -1131,7 +1096,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "9146d8cc46776ab6b7e550ef36044945",
+      "contentHash": "f05f2dc9bf30a203a56cc28cf0d8bd31",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1142,11 +1107,11 @@
       "id": "ibxtuq4nuvvglg0luzv15fg",
       "title": "Names",
       "desc": "",
-      "updated": 1694071300883,
+      "updated": 1694079078539,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 90,
       "custom": {
-        "isDir": false
+        "nav_order": 90
       },
       "fname": "13-13s.axes.names",
       "type": "note",
@@ -1155,7 +1120,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "a030c6ecf9f9dc27a1eb2cfcbcfdbffe",
+      "contentHash": "a69275b55574f07a94b01ccc35bf8db8",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1166,11 +1131,11 @@
       "id": "r40billjexhoae4pyxd9dlr",
       "title": "Months",
       "desc": "",
-      "updated": 1694071294038,
+      "updated": 1694078526350,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 40,
       "custom": {
-        "isDir": false
+        "nav_order": 40
       },
       "fname": "13-13s.axes.months",
       "type": "note",
@@ -1179,7 +1144,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "2830c8bd095c7345c4cbe12898b6462e",
+      "contentHash": "98fe4a8e9c41803b3388d7829d51ae43",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1190,11 +1155,11 @@
       "id": "9c3w1355o1t5aicclqwi10o",
       "title": "Languages",
       "desc": "",
-      "updated": 1694071255754,
+      "updated": 1694079008079,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 80,
       "custom": {
-        "isDir": false
+        "nav_order": 80
       },
       "fname": "13-13s.axes.languages",
       "type": "note",
@@ -1203,7 +1168,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "c47d60dcb0eba8d0f896604a9a83208b",
+      "contentHash": "233ce37b4a589b7805c8b7da447d50a4",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1214,11 +1179,11 @@
       "id": "0xpn6uct46il8jlq46b44xq",
       "title": "Guilds",
       "desc": "",
-      "updated": 1694071283870,
+      "updated": 1694078944720,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 70,
       "custom": {
-        "isDir": false
+        "nav_order": 70
       },
       "fname": "13-13s.axes.guilds",
       "type": "note",
@@ -1227,7 +1192,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "3b06b63ea389209708b9a33fbd935e43",
+      "contentHash": "267ba386475400d6695f0360b4aee247",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1238,11 +1203,11 @@
       "id": "plsegjmb7w5pr26udquimph",
       "title": "Colors",
       "desc": "",
-      "updated": 1694070880893,
+      "updated": 1694078482783,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 10,
       "custom": {
-        "isDir": false
+        "nav_order": 10
       },
       "fname": "13-13s.axes.colors",
       "type": "note",
@@ -1251,7 +1216,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "fb2f8a0a1cfc997c6b53c90eed38972e",
+      "contentHash": "4dd7fb2d29979bd9bc2774080f17bb51",
       "links": [
         {
           "type": "wiki",
@@ -1452,11 +1417,11 @@
       "id": "krf1iaj278mz3nyqcywg8pa",
       "title": "Captains",
       "desc": "",
-      "updated": 1694070822286,
+      "updated": 1694078759121,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 50,
       "custom": {
-        "isDir": false
+        "nav_order": 50
       },
       "fname": "13-13s.axes.captains",
       "type": "note",
@@ -1465,7 +1430,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "d8209c8350e6b043ff9fa15acf3612f2",
+      "contentHash": "8aedd23a87e06af0d74e6a78893cb069",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1476,11 +1441,11 @@
       "id": "028i5ev6vm12st09fmriclz",
       "title": "Animals",
       "desc": "",
-      "updated": 1694070816921,
+      "updated": 1694079956563,
       "created": 1694070085015,
-      "isDir": false,
+      "nav_order": 120,
       "custom": {
-        "isDir": false
+        "nav_order": 120
       },
       "fname": "13-13s.axes.animals",
       "type": "note",
@@ -1489,7 +1454,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "ad1c89900430b8b4f633b5c91057df26",
+      "contentHash": "f6cebcc64b25fdda88aa7cb117d42c7c",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1500,90 +1465,126 @@
   "domains": [
     {
       "id": "ycfbd2a8x41gi0smmpufk0o",
-      "title": "Root",
+      "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694057881305,
+      "updated": 1694078295090,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
       "fname": "root",
+      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[13-13s|Thirteen Thirteens]].\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "13eacec909acca27fb61d14a14a3cb6a",
-      "links": [],
-      "anchors": {
-        "the-revolution-will-be-live": {
-          "type": "header",
-          "text": "The Revolution Will Be Live",
-          "value": "the-revolution-will-be-live",
-          "line": 9,
-          "column": 0,
-          "depth": 1
+      "contentHash": "03ffd8b156404bbb34686c556b3856a4",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "value": "Thirteen Thirteens",
+          "alias": "13-13s",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 84,
+              "offset": 397
+            },
+            "end": {
+              "line": 6,
+              "column": 113,
+              "offset": 426
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Thirteen Thirteens"
+          }
         }
-      },
+      ],
+      "anchors": {},
       "children": [
         "0kpwtvbizo8p5kwm7ut8z4u",
         "ypu9ulohotwrez78fsejofb",
-        "klaq6os2eyeu4zy78gb9hdc",
         "t70n32fovw6k11p2ffwejej",
         "877hdm78cgmgv9e33ly0s4r",
-        "nkh1zbq8zvwq5z5pcuvkebq",
-        "rqqzpesgs6dikknqwlb9svr",
-        "cyi8z3opd7sf5l4ar53529t"
+        "d4s6k4tg2hsa2mlygby7jlu",
+        "9jj9qcwqe8s5egn8nf45hzw"
       ],
       "parent": null,
-      "data": {},
-      "body": "# The Revolution Will Be Live\n\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [13-13s](Thirteen%20Thirteens.md).\n\n"
+      "data": {}
     }
   ],
   "noteIndex": {
     "id": "ycfbd2a8x41gi0smmpufk0o",
-    "title": "Root",
+    "title": "The Revolution Will Be Live",
     "desc": "",
-    "updated": 1694057881305,
+    "updated": 1694078295090,
     "created": 1694056545245,
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
     "fname": "root",
+    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[13-13s|Thirteen Thirteens]].\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "TRWBL"
     },
-    "contentHash": "13eacec909acca27fb61d14a14a3cb6a",
-    "links": [],
-    "anchors": {
-      "the-revolution-will-be-live": {
-        "type": "header",
-        "text": "The Revolution Will Be Live",
-        "value": "the-revolution-will-be-live",
-        "line": 9,
-        "column": 0,
-        "depth": 1
+    "contentHash": "03ffd8b156404bbb34686c556b3856a4",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "ycfbd2a8x41gi0smmpufk0o",
+          "vaultName": "TRWBL"
+        },
+        "value": "Thirteen Thirteens",
+        "alias": "13-13s",
+        "position": {
+          "start": {
+            "line": 6,
+            "column": 84,
+            "offset": 397
+          },
+          "end": {
+            "line": 6,
+            "column": 113,
+            "offset": 426
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "Thirteen Thirteens"
+        }
       }
-    },
+    ],
+    "anchors": {},
     "children": [
       "0kpwtvbizo8p5kwm7ut8z4u",
       "ypu9ulohotwrez78fsejofb",
-      "klaq6os2eyeu4zy78gb9hdc",
       "t70n32fovw6k11p2ffwejej",
       "877hdm78cgmgv9e33ly0s4r",
-      "nkh1zbq8zvwq5z5pcuvkebq",
-      "rqqzpesgs6dikknqwlb9svr",
-      "cyi8z3opd7sf5l4ar53529t"
+      "d4s6k4tg2hsa2mlygby7jlu",
+      "9jj9qcwqe8s5egn8nf45hzw"
     ],
     "parent": null,
-    "data": {},
-    "body": "# The Revolution Will Be Live\n\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [13-13s](Thirteen%20Thirteens.md).\n\n"
+    "data": {}
   },
   "vaults": [
     {
