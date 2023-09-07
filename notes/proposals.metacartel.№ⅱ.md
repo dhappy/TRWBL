@@ -2,7 +2,7 @@
 id: l8g0vja9faraw5vkigrqqmc
 title: №ⅱ
 desc: ''
-updated: 1694070085013
+updated: 1694071802101
 created: 1694070085013
 isDir: false
 ---
@@ -11,6 +11,7 @@ isDir: false
 For over a decade now I have been obsessed with the idea that we live in a world of sufficient abundance to support post-scarcity societies, but the structures that brought us to this point take time to evolve.
 
 One of the ways that significant change could rapidly take place is through the propagation of social services enabled by new computer software.
+
 # Manifesto
 
 Many of my concepts are having difficultly of circular dependencies.
@@ -40,6 +41,7 @@ Many of my concepts are having difficultly of circular dependencies.
 * Organize the livestreamed search for the leadership of the armed groups in the world. Provide them with secure communications devices and broker a cessation of armed conflict.
 
 * With the copious coffers of the US & world militaries, we should have little trouble finishing hunger, homelessness, and boredom.
+
 # Problem
 
 * I would like to feed 100,000 books, semantically marked-down, to a chat bot and see how it talks.
@@ -53,11 +55,13 @@ Many of my concepts are having difficultly of circular dependencies.
 * I'd like to be able to edit the files of any website I visit, and have those changes always appear to me locally. Also, allow others to incorporate those changes and bring them to the attention of the original author.
 
 * I'd like for myself and everyone else to have a plethora of options for how to spend our time without the worry of cost, and without the threat of homelessness or starvation.
+
 # Solution
 
 [Mïmis](https://github.com/MetaFam/mimis/) is built on a node-sharded graph stored in Ceramic. Each node in the tree is a separate updatable document. The entire structure is cached in a Neo4j instance running in Docker either on the user's machine or in the cloud.
 
 The output for any path is available as both content and context. The context for a location is produced using any of a variety of algorithms provided by Neo4j. They can run a local page rank that is tracking their browsing history with much finer granularity than Google ever could b/c it is a trusted agent.
+
 # Product
 
 What I can get done is highly dependent on the money. I have an increasingly complete vision for how a group of software systems could interact. [Mïmis](https://github.com/MetaFam/mimis/) is the base of it all.
@@ -67,19 +71,23 @@ Mïmis houses and organizes all the data. As peers are consuming data, they are 
 In addition to Ceramic, I would like users to be able to store a set of nodes locally. These nodes are also used to generate interfaces and manage the cache, but it is not public that the user is hosting them.
 
 Software-wise, there is the client, and Ceramic is really the "server". All the logic for how to expand the source tree to the render tree is local.
+
 # Progress
 
 On the larger front, I can only really focus in depth on one project at a time. I first became convinced I could be an active part of a rapid societal change over a decade ago. I've contemplated hundreds of different use cases for apps in that period, but I really only have the time to reason thoroughly through five or six.
 
 My stretch goal is the end of war, so what percentage of that do I have figured out? 65‒70%. There are three independent striations – the personal, the social, and the planetary – that this change will take place in, and I think I have a reasonably well grounded plan for each.
+
 # Differentiation
 
 No one else is doing this because it tramples over copyright laws, massively simplifies building a child pornography collection, and is great for doxing someone.
 
 As for the Revolution, white people don't think it can happen, and black people don't think it can be done peacefully.
+
 # Team
 
 I, Will Holcomb, "δυς", will take anything you give me up to $10k, match it, and focus on finding competent pair programming partners. The core algorithm is still too much in my head and I need to spend time explaining it to someone else to work it out.
+
 # Grant Request
 
 * MC@$7.5k + Δυς@$7.5k = $15k is about the least I'd want to offer Raid Guid for a client library that can resolve resource paths and a web app for creating and browsing those paths in Ceramic.
@@ -97,6 +105,7 @@ Project development takes place in terms of sprints aligned to the lunar cycle. 
 * $100k + mass-spectroscopy equipment, and it's full-steam ahead. We open a testing facility for drug supplies that serves as the basis for a reformed (violence, theft, and impurity-free) black market.
 
 * $100k + mass-spectroscopy equipment + an aircraft carrier, uh-oh, this is breaking too fast. Too many people are having unpleasant awakenings to the concept that Jesus or Mohammed is just another historical figure and looking for someone to blame. Bullets are cheap, and crazies aplenty. Time to hit the open seas and become unassassinable for a few years.
+
 # Help
 
 How I would like to see this executed is via recorded pair programming. Eventually, I would like the information to be indexed such that I could choose a line of code and see the discussion for when it was created.

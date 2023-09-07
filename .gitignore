@@ -3,4 +3,5 @@ node_modules
 build
 seeds
 .next
-pods/service-connections
+pods/service-connectionsdocs/
+docs/

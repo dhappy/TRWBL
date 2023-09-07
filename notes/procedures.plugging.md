@@ -2,7 +2,7 @@
 id: i0pi817k4zm201ladz114om
 title: Plugging
 desc: ''
-updated: 1694070085013
+updated: 1694071706562
 created: 1694070085013
 isDir: false
 ---
@@ -19,7 +19,3 @@ isDir: false
 11. Couriers deliver the orders.
 
 In realtime, offers are local and shared between the dealer and their plugs.
-```ccard
-type: folder_brief_live
-```
- 

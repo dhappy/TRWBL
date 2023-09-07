@@ -1,0 +1,24 @@
+# description: Where to export to
+# type: string
+# required: true
+dest: dist
+
+# description: should body be included
+# type: boolean
+# includeBody: true
+
+# description: should stubs be included
+# type: boolean
+# includeStubs: TODO
+
+# description: undefined
+# type: array
+# ignore: TODO
+
+# description: include or exclude certain vaults
+# type: object
+# vaults: TODO
+
+# description: options from site config you want to override
+# type: object
+# overrides: TODO
