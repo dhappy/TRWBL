@@ -1,0 +1,1595 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694073594783,
+      "created": 1694073594783,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "ycfbd2a8x41gi0smmpufk0o": {
+      "id": "ycfbd2a8x41gi0smmpufk0o",
+      "title": "Root",
+      "desc": "",
+      "updated": 1694057881305,
+      "created": 1694056545245,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "13eacec909acca27fb61d14a14a3cb6a",
+      "links": [],
+      "anchors": {
+        "the-revolution-will-be-live": {
+          "type": "header",
+          "text": "The Revolution Will Be Live",
+          "value": "the-revolution-will-be-live",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "0kpwtvbizo8p5kwm7ut8z4u",
+        "ypu9ulohotwrez78fsejofb",
+        "klaq6os2eyeu4zy78gb9hdc",
+        "t70n32fovw6k11p2ffwejej",
+        "877hdm78cgmgv9e33ly0s4r",
+        "nkh1zbq8zvwq5z5pcuvkebq",
+        "rqqzpesgs6dikknqwlb9svr",
+        "cyi8z3opd7sf5l4ar53529t"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "cyi8z3opd7sf5l4ar53529t": {
+      "fname": "proposals",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694071214644,
+      "created": 1694071214644,
+      "id": "cyi8z3opd7sf5l4ar53529t",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "f86w4cr8x9v295l1ou8paii"
+      ],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {},
+      "title": "Proposals"
+    },
+    "f86w4cr8x9v295l1ou8paii": {
+      "fname": "proposals.metacartel",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694071214645,
+      "created": 1694071214645,
+      "id": "f86w4cr8x9v295l1ou8paii",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "optc00u1kjkfz656tnghfu7",
+        "l8g0vja9faraw5vkigrqqmc"
+      ],
+      "parent": "cyi8z3opd7sf5l4ar53529t",
+      "data": {},
+      "title": "Metacartel"
+    },
+    "l8g0vja9faraw5vkigrqqmc": {
+      "id": "l8g0vja9faraw5vkigrqqmc",
+      "title": "№ⅱ",
+      "desc": "",
+      "updated": 1694071802101,
+      "created": 1694070085013,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "proposals.metacartel.№ⅱ",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "c560459cf7ab40953a6100dc19c2d0ec",
+      "links": [],
+      "anchors": {
+        "grant-proposal-for-the-revolution-will-be-live": {
+          "type": "header",
+          "text": "Grant Proposal for The Revolution Will Be Live",
+          "value": "grant-proposal-for-the-revolution-will-be-live",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "manifesto": {
+          "type": "header",
+          "text": "Manifesto",
+          "value": "manifesto",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "problem": {
+          "type": "header",
+          "text": "Problem",
+          "value": "problem",
+          "line": 44,
+          "column": 0,
+          "depth": 1
+        },
+        "solution": {
+          "type": "header",
+          "text": "Solution",
+          "value": "solution",
+          "line": 58,
+          "column": 0,
+          "depth": 1
+        },
+        "product": {
+          "type": "header",
+          "text": "Product",
+          "value": "product",
+          "line": 64,
+          "column": 0,
+          "depth": 1
+        },
+        "progress": {
+          "type": "header",
+          "text": "Progress",
+          "value": "progress",
+          "line": 74,
+          "column": 0,
+          "depth": 1
+        },
+        "differentiation": {
+          "type": "header",
+          "text": "Differentiation",
+          "value": "differentiation",
+          "line": 80,
+          "column": 0,
+          "depth": 1
+        },
+        "team": {
+          "type": "header",
+          "text": "Team",
+          "value": "team",
+          "line": 86,
+          "column": 0,
+          "depth": 1
+        },
+        "grant-request": {
+          "type": "header",
+          "text": "Grant Request",
+          "value": "grant-request",
+          "line": 90,
+          "column": 0,
+          "depth": 1
+        },
+        "help": {
+          "type": "header",
+          "text": "Help",
+          "value": "help",
+          "line": 108,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "f86w4cr8x9v295l1ou8paii",
+      "data": {}
+    },
+    "optc00u1kjkfz656tnghfu7": {
+      "id": "optc00u1kjkfz656tnghfu7",
+      "title": "№ⅰ",
+      "desc": "",
+      "updated": 1694071758316,
+      "created": 1694070085013,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "proposals.metacartel.№ⅰ",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "0f9f7e79cbae3bcdcfbc3c193200a322",
+      "links": [],
+      "anchors": {
+        "grant-proposal-for-mïmis": {
+          "type": "header",
+          "text": "Grant Proposal for Mïmis",
+          "value": "grant-proposal-for-mïmis",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "manifesto": {
+          "type": "header",
+          "text": "Manifesto",
+          "value": "manifesto",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "problem": {
+          "type": "header",
+          "text": "Problem",
+          "value": "problem",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        },
+        "solution": {
+          "type": "header",
+          "text": "Solution",
+          "value": "solution",
+          "line": 34,
+          "column": 0,
+          "depth": 1
+        },
+        "product": {
+          "type": "header",
+          "text": "Product",
+          "value": "product",
+          "line": 40,
+          "column": 0,
+          "depth": 1
+        },
+        "progress": {
+          "type": "header",
+          "text": "Progress",
+          "value": "progress",
+          "line": 50,
+          "column": 0,
+          "depth": 1
+        },
+        "differentiation": {
+          "type": "header",
+          "text": "Differentiation",
+          "value": "differentiation",
+          "line": 58,
+          "column": 0,
+          "depth": 1
+        },
+        "team": {
+          "type": "header",
+          "text": "Team",
+          "value": "team",
+          "line": 64,
+          "column": 0,
+          "depth": 1
+        },
+        "grant-request": {
+          "type": "header",
+          "text": "Grant Request",
+          "value": "grant-request",
+          "line": 68,
+          "column": 0,
+          "depth": 1
+        },
+        "help": {
+          "type": "header",
+          "text": "Help",
+          "value": "help",
+          "line": 86,
+          "column": 0,
+          "depth": 1
+        },
+        "additional-resources": {
+          "type": "header",
+          "text": "Additional Resources",
+          "value": "additional-resources",
+          "line": 94,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "f86w4cr8x9v295l1ou8paii",
+      "data": {}
+    },
+    "rqqzpesgs6dikknqwlb9svr": {
+      "fname": "procedures",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694071214526,
+      "created": 1694071214527,
+      "id": "rqqzpesgs6dikknqwlb9svr",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "zy2z0cm580djy9r1mv5hfpv",
+        "i0pi817k4zm201ladz114om"
+      ],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {},
+      "title": "Procedures"
+    },
+    "i0pi817k4zm201ladz114om": {
+      "id": "i0pi817k4zm201ladz114om",
+      "title": "Plugging",
+      "desc": "",
+      "updated": 1694071706562,
+      "created": 1694070085013,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "procedures.plugging",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "b89d583a7449a7ab4249d84b15057f6c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rqqzpesgs6dikknqwlb9svr",
+      "data": {}
+    },
+    "zy2z0cm580djy9r1mv5hfpv": {
+      "id": "zy2z0cm580djy9r1mv5hfpv",
+      "title": "Party Favors",
+      "desc": "",
+      "updated": 1694070085013,
+      "created": 1694070085013,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "procedures.party-favors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "62e26e3eb8abb4eb08dc132e4e2e8704",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rqqzpesgs6dikknqwlb9svr",
+      "data": {}
+    },
+    "nkh1zbq8zvwq5z5pcuvkebq": {
+      "id": "nkh1zbq8zvwq5z5pcuvkebq",
+      "title": "Yggdrasil",
+      "desc": "",
+      "updated": 1694070085010,
+      "created": 1694070085010,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "yggdrasil",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "9332281347d6edc993c73433021100b0",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s",
+            "id": "0kpwtvbizo8p5kwm7ut8z4u",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 22,
+              "offset": 416
+            },
+            "end": {
+              "line": 8,
+              "column": 35,
+              "offset": 429
+            },
+            "indent": []
+          },
+          "value": "Yggdrasil"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "877hdm78cgmgv9e33ly0s4r": {
+      "id": "877hdm78cgmgv9e33ly0s4r",
+      "title": "Warfare",
+      "desc": "",
+      "updated": 1694070085010,
+      "created": 1694070085010,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "warfare",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "1cddb8aab78bc59d9138e64383e9f9fa",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "t70n32fovw6k11p2ffwejej": {
+      "id": "t70n32fovw6k11p2ffwejej",
+      "title": "Timeline",
+      "desc": "",
+      "updated": 1694071826862,
+      "created": 1694070085012,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "timeline",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "063342e82dc34e839b504259b74b3189",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "timeline",
+            "id": "t70n32fovw6k11p2ffwejej",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.month",
+          "alias": "13-sign zodiac",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 96,
+              "offset": 95
+            },
+            "end": {
+              "line": 1,
+              "column": 127,
+              "offset": 126
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.month"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "timeline",
+            "id": "t70n32fovw6k11p2ffwejej",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s",
+          "alias": "Thirteen Thirteens",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 12,
+              "offset": 267
+            },
+            "end": {
+              "line": 7,
+              "column": 41,
+              "offset": 296
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "klaq6os2eyeu4zy78gb9hdc": {
+      "id": "klaq6os2eyeu4zy78gb9hdc",
+      "title": "The Revolution Will Be Live",
+      "desc": "",
+      "updated": 1694071474236,
+      "created": 1694070085010,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "the-revolution-will-be-live",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "d3c132fa0bab491f5bee97013ed92c94",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "the-revolution-will-be-live",
+            "id": "klaq6os2eyeu4zy78gb9hdc",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 84,
+              "offset": 397
+            },
+            "end": {
+              "line": 6,
+              "column": 94,
+              "offset": 407
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "ypu9ulohotwrez78fsejofb": {
+      "id": "ypu9ulohotwrez78fsejofb",
+      "title": "Funding",
+      "desc": "",
+      "updated": 1694070198764,
+      "created": 1694070085012,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "funding",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "7c5e5eec4f03fe98d77c0daefd322e71",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "0kpwtvbizo8p5kwm7ut8z4u": {
+      "id": "0kpwtvbizo8p5kwm7ut8z4u",
+      "title": "13 13s",
+      "desc": "",
+      "updated": 1694060219459,
+      "created": 1694057960761,
+      "custom": {},
+      "fname": "13-13s",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "4fdeb5fadbcfd5e4842dbd14c6d35c71",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s",
+            "id": "0kpwtvbizo8p5kwm7ut8z4u",
+            "vaultName": "TRWBL"
+          },
+          "value": "Yggdrasil",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 22,
+              "offset": 416
+            },
+            "end": {
+              "line": 8,
+              "column": 35,
+              "offset": 429
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Yggdrasil"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s",
+            "id": "0kpwtvbizo8p5kwm7ut8z4u",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-sign zodiac",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 160,
+              "offset": 615
+            },
+            "end": {
+              "line": 10,
+              "column": 178,
+              "offset": 633
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-sign zodiac"
+          }
+        },
+        {
+          "from": {
+            "fname": "13-13s.conglomerations.enforcement",
+            "id": "5zhr7nv3gs8w8wma3llj2yr",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 53
+            },
+            "end": {
+              "line": 5,
+              "column": 29,
+              "offset": 78
+            },
+            "indent": []
+          },
+          "value": "13-13s"
+        },
+        {
+          "from": {
+            "fname": "the-revolution-will-be-live",
+            "id": "klaq6os2eyeu4zy78gb9hdc",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 84,
+              "offset": 397
+            },
+            "end": {
+              "line": 6,
+              "column": 94,
+              "offset": 407
+            },
+            "indent": []
+          },
+          "value": "13-13s"
+        },
+        {
+          "from": {
+            "fname": "timeline",
+            "id": "t70n32fovw6k11p2ffwejej",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 12,
+              "offset": 267
+            },
+            "end": {
+              "line": 7,
+              "column": 41,
+              "offset": 296
+            },
+            "indent": []
+          },
+          "value": "13-13s"
+        }
+      ],
+      "anchors": {
+        "yggdrasil": {
+          "type": "header",
+          "text": "Yggdrasil",
+          "value": "yggdrasil",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "coordinating-with-the-establishment": {
+          "type": "header",
+          "text": "Coordinating With The Establishment",
+          "value": "coordinating-with-the-establishment",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "u68x9dgujhgq1ode6yce0qh",
+        "1blknwaz6oza7w6k4fyzxxn"
+      ],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "1blknwaz6oza7w6k4fyzxxn": {
+      "id": "1blknwaz6oza7w6k4fyzxxn",
+      "title": "Conglomerations",
+      "desc": "",
+      "updated": 1694058776421,
+      "created": 1694058765003,
+      "custom": {},
+      "fname": "13-13s.conglomerations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ce589604a03e7259575b1db76c00af0b",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5zhr7nv3gs8w8wma3llj2yr",
+        "bxyvpvp4abwhmeb94014cnj",
+        "swohjj4oy7pzgx62cxygaca",
+        "9wteoqynphzgwdmqmmidazz",
+        "5aen46xtcdmcupqm8b1h5w3",
+        "pffrzwncoq8j2ygohww07jv"
+      ],
+      "parent": "0kpwtvbizo8p5kwm7ut8z4u",
+      "data": {}
+    },
+    "pffrzwncoq8j2ygohww07jv": {
+      "id": "pffrzwncoq8j2ygohww07jv",
+      "title": "“Whites”",
+      "desc": "",
+      "updated": 1694071440364,
+      "created": 1694058943591,
+      "custom": {},
+      "fname": "13-13s.conglomerations.“whites”",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ad7115c8fcdc18e1470bddd58ae49e78",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "1blknwaz6oza7w6k4fyzxxn",
+      "data": {}
+    },
+    "5aen46xtcdmcupqm8b1h5w3": {
+      "id": "5aen46xtcdmcupqm8b1h5w3",
+      "title": "“Blacks”",
+      "desc": "",
+      "updated": 1694071431739,
+      "created": 1694058896032,
+      "custom": {},
+      "fname": "13-13s.conglomerations.“blacks”",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "a18879d795512e47bff39ed1726daed9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "1blknwaz6oza7w6k4fyzxxn",
+      "data": {}
+    },
+    "9wteoqynphzgwdmqmmidazz": {
+      "id": "9wteoqynphzgwdmqmmidazz",
+      "title": "The Resistance",
+      "desc": "",
+      "updated": 1694070519018,
+      "created": 1694070085016,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.conglomerations.the-resistance",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "1blknwaz6oza7w6k4fyzxxn",
+      "data": {},
+      "contentHash": "b04c3905fd0afc1b97e33ca2cdfbb713"
+    },
+    "swohjj4oy7pzgx62cxygaca": {
+      "id": "swohjj4oy7pzgx62cxygaca",
+      "title": "The Establishment",
+      "desc": "",
+      "updated": 1694070511749,
+      "created": 1694070085016,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.conglomerations.the-establishment",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "1blknwaz6oza7w6k4fyzxxn",
+      "data": {},
+      "contentHash": "62adea7b8080a6d693ebefa57df65890"
+    },
+    "bxyvpvp4abwhmeb94014cnj": {
+      "id": "bxyvpvp4abwhmeb94014cnj",
+      "title": "Non Human Life",
+      "desc": "",
+      "updated": 1694070085016,
+      "created": 1694070085016,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.conglomerations.non-human-life",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "1blknwaz6oza7w6k4fyzxxn",
+      "data": {},
+      "contentHash": "cb31f615c27493c11ba957d180f1d9f2"
+    },
+    "5zhr7nv3gs8w8wma3llj2yr": {
+      "id": "5zhr7nv3gs8w8wma3llj2yr",
+      "title": "Enforcement",
+      "desc": "",
+      "updated": 1694067334641,
+      "created": 1694058990911,
+      "custom": {},
+      "fname": "13-13s.conglomerations.enforcement",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "7b6cd313c49461aac692f37f3a5f5051",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.conglomerations.enforcement",
+            "id": "5zhr7nv3gs8w8wma3llj2yr",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s",
+          "alias": "aforementioned",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 53
+            },
+            "end": {
+              "line": 5,
+              "column": 29,
+              "offset": 78
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "1blknwaz6oza7w6k4fyzxxn",
+      "data": {}
+    },
+    "u68x9dgujhgq1ode6yce0qh": {
+      "id": "u68x9dgujhgq1ode6yce0qh",
+      "title": "Axes",
+      "desc": "",
+      "updated": 1694071851329,
+      "created": 1694070085014,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "fb512dd52e3fca4bac26d696068fef35",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "028i5ev6vm12st09fmriclz",
+        "krf1iaj278mz3nyqcywg8pa",
+        "plsegjmb7w5pr26udquimph",
+        "0xpn6uct46il8jlq46b44xq",
+        "9c3w1355o1t5aicclqwi10o",
+        "r40billjexhoae4pyxd9dlr",
+        "ibxtuq4nuvvglg0luzv15fg",
+        "t6dplnemakx4uvjlmr12728",
+        "46nefi7al8pvhetye9vg1v2",
+        "lm2y34tzmv7uohw20kyly28",
+        "b1vftqelffxoswnp70zabq0",
+        "nmb42ilobl87ccb41ck9j6l"
+      ],
+      "parent": "0kpwtvbizo8p5kwm7ut8z4u",
+      "data": {}
+    },
+    "nmb42ilobl87ccb41ck9j6l": {
+      "id": "nmb42ilobl87ccb41ck9j6l",
+      "title": "Timeframes",
+      "desc": "",
+      "updated": 1694071370633,
+      "created": 1694070085016,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.timeframes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "312a4831af0bd206effbb6df735f0bcb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "b1vftqelffxoswnp70zabq0": {
+      "id": "b1vftqelffxoswnp70zabq0",
+      "title": "Spaces",
+      "desc": "",
+      "updated": 1694071360242,
+      "created": 1694070085016,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.spaces",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "243af4f51f44a383c51a98c39a2e2dae",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "lm2y34tzmv7uohw20kyly28": {
+      "id": "lm2y34tzmv7uohw20kyly28",
+      "title": "Realms",
+      "desc": "",
+      "updated": 1694071338291,
+      "created": 1694070085016,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.realms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "5703f3a83e29e6fa87ff455ce54ecac1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "46nefi7al8pvhetye9vg1v2": {
+      "id": "46nefi7al8pvhetye9vg1v2",
+      "title": "Projects",
+      "desc": "",
+      "updated": 1694071318241,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.projects",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "51f6d022317d31f158626a2f0094e054",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "t6dplnemakx4uvjlmr12728": {
+      "id": "t6dplnemakx4uvjlmr12728",
+      "title": "Needs",
+      "desc": "",
+      "updated": 1694071309108,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.needs",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "9146d8cc46776ab6b7e550ef36044945",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "ibxtuq4nuvvglg0luzv15fg": {
+      "id": "ibxtuq4nuvvglg0luzv15fg",
+      "title": "Names",
+      "desc": "",
+      "updated": 1694071300883,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.names",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "a030c6ecf9f9dc27a1eb2cfcbcfdbffe",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "r40billjexhoae4pyxd9dlr": {
+      "id": "r40billjexhoae4pyxd9dlr",
+      "title": "Months",
+      "desc": "",
+      "updated": 1694071294038,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.months",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "2830c8bd095c7345c4cbe12898b6462e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "9c3w1355o1t5aicclqwi10o": {
+      "id": "9c3w1355o1t5aicclqwi10o",
+      "title": "Languages",
+      "desc": "",
+      "updated": 1694071255754,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.languages",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "c47d60dcb0eba8d0f896604a9a83208b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "0xpn6uct46il8jlq46b44xq": {
+      "id": "0xpn6uct46il8jlq46b44xq",
+      "title": "Guilds",
+      "desc": "",
+      "updated": 1694071283870,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.guilds",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "3b06b63ea389209708b9a33fbd935e43",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "plsegjmb7w5pr26udquimph": {
+      "id": "plsegjmb7w5pr26udquimph",
+      "title": "Colors",
+      "desc": "",
+      "updated": 1694070880893,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.colors",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "fb2f8a0a1cfc997c6b53c90eed38972e",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.FFFFFF",
+          "alias": "#FFFFFF",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 10,
+              "offset": 78
+            },
+            "end": {
+              "line": 6,
+              "column": 17,
+              "offset": 85
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.FFFFFF"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.FFFF00",
+          "alias": "#FFFF00",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 11,
+              "offset": 112
+            },
+            "end": {
+              "line": 8,
+              "column": 18,
+              "offset": 119
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.FFFF00"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.FFDF00",
+          "alias": "#FFDF00",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 9,
+              "offset": 128
+            },
+            "end": {
+              "line": 9,
+              "column": 16,
+              "offset": 135
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.FFDF00"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.C0C0C0",
+          "alias": "#C0C0C0",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 11,
+              "offset": 146
+            },
+            "end": {
+              "line": 10,
+              "column": 18,
+              "offset": 153
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.C0C0C0"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.B87333",
+          "alias": "#B87333",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 11,
+              "offset": 164
+            },
+            "end": {
+              "line": 11,
+              "column": 18,
+              "offset": 171
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.B87333"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.FF007F",
+          "alias": "#FF007F",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 9,
+              "offset": 180
+            },
+            "end": {
+              "line": 12,
+              "column": 16,
+              "offset": 187
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.FF007F"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.FFE5B4",
+          "alias": "#FFE5B4",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 10,
+              "offset": 197
+            },
+            "end": {
+              "line": 13,
+              "column": 17,
+              "offset": 204
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.FFE5B4"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "krf1iaj278mz3nyqcywg8pa": {
+      "id": "krf1iaj278mz3nyqcywg8pa",
+      "title": "Captains",
+      "desc": "",
+      "updated": 1694070822286,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.captains",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "d8209c8350e6b043ff9fa15acf3612f2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "028i5ev6vm12st09fmriclz": {
+      "id": "028i5ev6vm12st09fmriclz",
+      "title": "Animals",
+      "desc": "",
+      "updated": 1694070816921,
+      "created": 1694070085015,
+      "isDir": false,
+      "custom": {
+        "isDir": false
+      },
+      "fname": "13-13s.axes.animals",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ad1c89900430b8b4f633b5c91057df26",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ycfbd2a8x41gi0smmpufk0o",
+      "title": "Root",
+      "desc": "",
+      "updated": 1694057881305,
+      "created": 1694056545245,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "13eacec909acca27fb61d14a14a3cb6a",
+      "links": [],
+      "anchors": {
+        "the-revolution-will-be-live": {
+          "type": "header",
+          "text": "The Revolution Will Be Live",
+          "value": "the-revolution-will-be-live",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "0kpwtvbizo8p5kwm7ut8z4u",
+        "ypu9ulohotwrez78fsejofb",
+        "klaq6os2eyeu4zy78gb9hdc",
+        "t70n32fovw6k11p2ffwejej",
+        "877hdm78cgmgv9e33ly0s4r",
+        "nkh1zbq8zvwq5z5pcuvkebq",
+        "rqqzpesgs6dikknqwlb9svr",
+        "cyi8z3opd7sf5l4ar53529t"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# The Revolution Will Be Live\n\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [13-13s](Thirteen%20Thirteens.md).\n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "ycfbd2a8x41gi0smmpufk0o",
+    "title": "Root",
+    "desc": "",
+    "updated": 1694057881305,
+    "created": 1694056545245,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "TRWBL"
+    },
+    "contentHash": "13eacec909acca27fb61d14a14a3cb6a",
+    "links": [],
+    "anchors": {
+      "the-revolution-will-be-live": {
+        "type": "header",
+        "text": "The Revolution Will Be Live",
+        "value": "the-revolution-will-be-live",
+        "line": 9,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "0kpwtvbizo8p5kwm7ut8z4u",
+      "ypu9ulohotwrez78fsejofb",
+      "klaq6os2eyeu4zy78gb9hdc",
+      "t70n32fovw6k11p2ffwejej",
+      "877hdm78cgmgv9e33ly0s4r",
+      "nkh1zbq8zvwq5z5pcuvkebq",
+      "rqqzpesgs6dikknqwlb9svr",
+      "cyi8z3opd7sf5l4ar53529t"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# The Revolution Will Be Live\n\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [13-13s](Thirteen%20Thirteens.md).\n\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "TRWBL"
+    }
+  ]
+}

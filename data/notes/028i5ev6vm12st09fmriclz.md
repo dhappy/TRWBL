@@ -1,0 +1,13 @@
+* Eagle
+* Squirrel
+* Deer
+* Dragon
+* Bear
+* Horse
+* Whale
+* Fish
+* Ant
+* Cat
+* Dog
+* Platypus
+* Giraffe
