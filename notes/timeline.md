@@ -2,9 +2,10 @@
 id: t70n32fovw6k11p2ffwejej
 title: Timeline
 desc: ''
-updated: 1694071826862
+updated: 1694078282293
 created: 1694070085012
 isDir: false
+nav_order: 10
 ---
 The story is laid out as a series of events aligned with various calendars. The primary is the [[13-sign zodiac|13-13s.month]].
 

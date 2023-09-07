@@ -1,6 +1,7 @@
 version: 5
 dev:
     enablePreviewV2: true
+    enableExportPodV2: true
     enableSelfContainedVaults: true
 commands:
     lookup:
@@ -92,6 +93,7 @@ publishing:
     writeStubs: false
     siteRootDir: dist
     seo:
+        author: dysbulic
         title: The Revolution Will Be Live
         description: A Story About Radical Social Change
     github:
@@ -99,6 +101,8 @@ publishing:
         editLinkText: Edit this page on GitHub.
         editBranch: master
         editViewMode: tree
+        editRepository: https://github.com/dhappy/TRWBL/
+        cname: notes.trwb.live
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
