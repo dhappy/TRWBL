@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a6aabc0562b70b2",
+            "id": "cfce13e49159d0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funding/Funding.md",
+                "file": "Thirteen Thirteens/Thirteen Thirteens.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cfce13e49159d0a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Yggdrasil.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Yggdrasil.png",
+                "file": "Thirteen Thirteens/Thirteen Thirteens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Yggdrasil.png",
+                "file": "Thirteen Thirteens/Thirteen Thirteens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Yggdrasil.png"
+                "file": "Thirteen Thirteens/Thirteen Thirteens.md"
               }
             }
           }
@@ -159,20 +148,27 @@
   },
   "active": "cfce13e49159d0a2",
   "lastOpenFiles": [
-    "Attachments/teams.svg",
+    "dendron.code-workspace",
+    "dendron.yml",
+    "notes/root.schema.yml",
+    "notes/root.md",
+    "notes/assets",
+    "notes",
+    "The Revolution Will Be Live.md",
+    "Warfare.md",
+    "Yggdrasil.md",
     "Attachments/Yggdrasil.png",
+    "Funding/Funding.md",
+    "Attachments/teams.svg",
     "Thirteen Thirteens/Thirteen Thirteens.md",
     "Thirteen Thirteens/Axes/Names/Names.md",
     "Thirteen Thirteens/Axes/Axes.md",
     "Thirteen Thirteens/Axes/Names",
-    "Yggdrasil.md",
     "Thirteen Thirteens/Conglomerations/“Whites”/“Whites”.md",
     "Thirteen Thirteens/Conglomerations/“Blacks”/“Blacks”.md",
     "Thirteen Thirteens/Conglomerations/“Whites”",
     "Timeline/Timeline.md",
-    "Warfare.md",
     "Thirteen Thirteens/Conglomerations/“Blacks”",
-    "Funding/Funding.md",
     "Thirteen Thirteens/Conglomerations/Non-Human Life/Non-Human Life.md",
     "Thirteen Thirteens/Conglomerations/Enforcement/Enforcement.md",
     "Thirteen Thirteens/Conglomerations/Enforcement",
@@ -181,12 +177,7 @@
     "Thirteen Thirteens/Conglomerations/The Establishment/The Establishment.md",
     "Thirteen Thirteens/Conglomerations/The Resistance",
     "Procedures/Party Favors/Party Favors.md",
-    "Thirteen Thirteens/Conglomerations/The Establishment",
-    "Thirteen Thirteens/Conglomerations",
     "Procedures/Plugging/Plugging.md",
-    "Procedures/Party Favors",
-    "Procedures/Plugging",
-    "The Revolution Will Be Live.md",
     "Untitled.canvas",
     "2023-09-06.md",
     "Thirteen Thirteens/Axes/Timeframes/Timeframes.md",
@@ -196,7 +187,6 @@
     "Thirteen Thirteens/Axes/Months/Months.md",
     "Thirteen Thirteens/Axes/Languages/Languages.md",
     "Thirteen Thirteens/Axes/Guilds/Guilds.md",
-    "Thirteen Thirteens/Axes/Colors/Colors.md",
     "Attachments/shifted teams.svg"
   ]
 }
