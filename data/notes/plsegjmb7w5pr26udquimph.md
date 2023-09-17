@@ -7,7 +7,7 @@
 * Cyan: #00FFFF
 * Yellow: #FFFF00
 * Gold: #FFDF00
-* Silver: #C0C0C0
+* [[Silver]]: #C0C0C0
 * Copper: #B87333
 * Pink: #FF007F
 * Peach: #FFE5B4

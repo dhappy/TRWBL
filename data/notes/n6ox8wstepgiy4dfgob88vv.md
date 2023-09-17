@@ -1,0 +1,9 @@
+There are only three hard-and-fast rules in the game:
+
+1. No violence.
+2. No theivery.
+3. Be kind.
+
+Violence is interpreted broadly to be in line with the Non-Aggression Principle *(NAP)* of anarchism.
+
+For example, doing something that is likely to damage the water table is interpreted as violence. It isn't limited to simply physical interactions between players.

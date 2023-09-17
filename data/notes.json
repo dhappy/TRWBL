@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1694081353215,
-      "created": 1694081353215,
+      "updated": 1694909640702,
+      "created": 1694909640702,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "ycfbd2a8x41gi0smmpufk0o",
       "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694078295090,
+      "updated": 1694081432050,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "03ffd8b156404bbb34686c556b3856a4",
+      "contentHash": "874615ba40d9f49318d28f3e7d67b196",
       "links": [
         {
           "type": "wiki",
@@ -46,8 +46,8 @@
             "id": "ycfbd2a8x41gi0smmpufk0o",
             "vaultName": "TRWBL"
           },
-          "value": "Thirteen Thirteens",
-          "alias": "13-13s",
+          "value": "13-13s",
+          "alias": "Yggdrasil",
           "position": {
             "start": {
               "line": 6,
@@ -56,15 +56,15 @@
             },
             "end": {
               "line": 6,
-              "column": 113,
-              "offset": 426
+              "column": 104,
+              "offset": 417
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "Thirteen Thirteens"
+            "fname": "13-13s"
           }
         }
       ],
@@ -74,13 +74,130 @@
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
         "877hdm78cgmgv9e33ly0s4r",
-        "d4s6k4tg2hsa2mlygby7jlu",
-        "9jj9qcwqe8s5egn8nf45hzw"
+        "otfp9itf9ycjy3lf3312gq2",
+        "miefx31q2sgnvrka0v040g7",
+        "yifbw4yupdr2w4qe4qdh6j2"
       ],
       "parent": null,
       "data": {}
     },
-    "9jj9qcwqe8s5egn8nf45hzw": {
+    "yifbw4yupdr2w4qe4qdh6j2": {
+      "fname": "daily",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694907066088,
+      "created": 1694907066088,
+      "id": "yifbw4yupdr2w4qe4qdh6j2",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "3jbdt5q05ucndeybta8a9gs"
+      ],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {},
+      "title": "Daily"
+    },
+    "3jbdt5q05ucndeybta8a9gs": {
+      "fname": "daily.journal",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694907066090,
+      "created": 1694907066090,
+      "id": "3jbdt5q05ucndeybta8a9gs",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "lps7htrkn6tnf6y54x2yxcl"
+      ],
+      "parent": "yifbw4yupdr2w4qe4qdh6j2",
+      "data": {},
+      "title": "Journal"
+    },
+    "lps7htrkn6tnf6y54x2yxcl": {
+      "fname": "daily.journal.2023",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694907066090,
+      "created": 1694907066090,
+      "id": "lps7htrkn6tnf6y54x2yxcl",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "yca7lekculoe2r1es6huv9x"
+      ],
+      "parent": "3jbdt5q05ucndeybta8a9gs",
+      "data": {},
+      "title": "2023"
+    },
+    "yca7lekculoe2r1es6huv9x": {
+      "fname": "daily.journal.2023.09",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694907066090,
+      "created": 1694907066090,
+      "id": "yca7lekculoe2r1es6huv9x",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "p0w0c1aihdizw86x0uhuq4k"
+      ],
+      "parent": "lps7htrkn6tnf6y54x2yxcl",
+      "data": {},
+      "title": "09"
+    },
+    "p0w0c1aihdizw86x0uhuq4k": {
+      "fname": "daily.journal.2023.09.16",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694907066071,
+      "created": 1694907066071,
+      "id": "p0w0c1aihdizw86x0uhuq4k",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "yca7lekculoe2r1es6huv9x",
+      "data": {},
+      "title": "2023-09-16",
+      "traits": [
+        "journalNote"
+      ],
+      "contentHash": "28811bcf651ff69bf07d4fbda6897b84"
+    },
+    "miefx31q2sgnvrka0v040g7": {
       "fname": "proposals",
       "stub": true,
       "vault": {
@@ -90,20 +207,20 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694078385740,
-      "created": 1694078385740,
-      "id": "9jj9qcwqe8s5egn8nf45hzw",
+      "updated": 1694907056025,
+      "created": 1694907056025,
+      "id": "miefx31q2sgnvrka0v040g7",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "b523joaxh0cw2ft9e6rc7qm"
+        "y8vqiu1cguu7cz8fw08ty95"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {},
       "title": "Proposals"
     },
-    "b523joaxh0cw2ft9e6rc7qm": {
+    "y8vqiu1cguu7cz8fw08ty95": {
       "fname": "proposals.metacartel",
       "stub": true,
       "vault": {
@@ -113,9 +230,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694078385741,
-      "created": 1694078385741,
-      "id": "b523joaxh0cw2ft9e6rc7qm",
+      "updated": 1694907056026,
+      "created": 1694907056026,
+      "id": "y8vqiu1cguu7cz8fw08ty95",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -123,7 +240,7 @@
         "optc00u1kjkfz656tnghfu7",
         "l8g0vja9faraw5vkigrqqmc"
       ],
-      "parent": "9jj9qcwqe8s5egn8nf45hzw",
+      "parent": "miefx31q2sgnvrka0v040g7",
       "data": {},
       "title": "Metacartel"
     },
@@ -229,7 +346,7 @@
         }
       },
       "children": [],
-      "parent": "b523joaxh0cw2ft9e6rc7qm",
+      "parent": "y8vqiu1cguu7cz8fw08ty95",
       "data": {}
     },
     "optc00u1kjkfz656tnghfu7": {
@@ -342,10 +459,10 @@
         }
       },
       "children": [],
-      "parent": "b523joaxh0cw2ft9e6rc7qm",
+      "parent": "y8vqiu1cguu7cz8fw08ty95",
       "data": {}
     },
-    "d4s6k4tg2hsa2mlygby7jlu": {
+    "otfp9itf9ycjy3lf3312gq2": {
       "fname": "procedures",
       "stub": true,
       "vault": {
@@ -355,9 +472,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694078385724,
-      "created": 1694078385724,
-      "id": "d4s6k4tg2hsa2mlygby7jlu",
+      "updated": 1694907056016,
+      "created": 1694907056016,
+      "id": "otfp9itf9ycjy3lf3312gq2",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -390,7 +507,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "d4s6k4tg2hsa2mlygby7jlu",
+      "parent": "otfp9itf9ycjy3lf3312gq2",
       "data": {}
     },
     "zy2z0cm580djy9r1mv5hfpv": {
@@ -414,7 +531,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "d4s6k4tg2hsa2mlygby7jlu",
+      "parent": "otfp9itf9ycjy3lf3312gq2",
       "data": {}
     },
     "877hdm78cgmgv9e33ly0s4r": {
@@ -528,12 +645,10 @@
       "id": "ypu9ulohotwrez78fsejofb",
       "title": "Funding",
       "desc": "",
-      "updated": 1694078326227,
+      "updated": 1694088293792,
       "created": 1694070085012,
-      "isDir": false,
       "nav_order": 20,
       "custom": {
-        "isDir": false,
         "nav_order": 20
       },
       "fname": "funding",
@@ -543,7 +658,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "07d9f7d6db39bf13078bdeb029a25089",
+      "contentHash": "17a0b847827ca65be0986ba972ce1f4b",
       "links": [],
       "anchors": {},
       "children": [],
@@ -554,7 +669,7 @@
       "id": "0kpwtvbizo8p5kwm7ut8z4u",
       "title": "13 13s",
       "desc": "",
-      "updated": 1694078349381,
+      "updated": 1694906814311,
       "created": 1694057960761,
       "nav_order": 30,
       "custom": {
@@ -567,7 +682,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "0fe1a46305716adb8eb699689ee0fb24",
+      "contentHash": "1712ceadee90cdca5b6247ca24674ac7",
       "links": [
         {
           "type": "wiki",
@@ -576,7 +691,8 @@
             "id": "0kpwtvbizo8p5kwm7ut8z4u",
             "vaultName": "TRWBL"
           },
-          "value": "yggdrasil",
+          "value": "13-13s",
+          "alias": "Yggdrasil",
           "position": {
             "start": {
               "line": 8,
@@ -585,15 +701,15 @@
             },
             "end": {
               "line": 8,
-              "column": 35,
-              "offset": 429
+              "column": 42,
+              "offset": 436
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "yggdrasil"
+            "fname": "13-13s"
           }
         },
         {
@@ -603,25 +719,48 @@
             "id": "0kpwtvbizo8p5kwm7ut8z4u",
             "vaultName": "TRWBL"
           },
-          "value": "13-sign zodiac",
+          "value": "13-13s.axes.months",
+          "alias": "13-sign zodiac",
           "position": {
             "start": {
               "line": 10,
               "column": 160,
-              "offset": 615
+              "offset": 622
             },
             "end": {
               "line": 10,
-              "column": 178,
-              "offset": 633
+              "column": 197,
+              "offset": 659
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "13-sign zodiac"
+            "fname": "13-13s.axes.months"
           }
+        },
+        {
+          "from": {
+            "fname": "13-13s",
+            "id": "0kpwtvbizo8p5kwm7ut8z4u",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 22,
+              "offset": 416
+            },
+            "end": {
+              "line": 8,
+              "column": 42,
+              "offset": 436
+            },
+            "indent": []
+          },
+          "value": "13-13s"
         },
         {
           "from": {
@@ -634,12 +773,34 @@
             "start": {
               "line": 7,
               "column": 12,
-              "offset": 267
+              "offset": 273
             },
             "end": {
               "line": 7,
               "column": 41,
-              "offset": 296
+              "offset": 302
+            },
+            "indent": []
+          },
+          "value": "13-13s"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 84,
+              "offset": 397
+            },
+            "end": {
+              "line": 6,
+              "column": 104,
+              "offset": 417
             },
             "indent": []
           },
@@ -688,9 +849,31 @@
       },
       "children": [
         "u68x9dgujhgq1ode6yce0qh",
-        "1blknwaz6oza7w6k4fyzxxn"
+        "1blknwaz6oza7w6k4fyzxxn",
+        "n6ox8wstepgiy4dfgob88vv"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "n6ox8wstepgiy4dfgob88vv": {
+      "id": "n6ox8wstepgiy4dfgob88vv",
+      "title": "Rules",
+      "desc": "",
+      "updated": 1694908786187,
+      "created": 1694908578759,
+      "custom": {},
+      "fname": "13-13s.rules",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "eb85d2f3752d164c115a2fcfe82aefab",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "0kpwtvbizo8p5kwm7ut8z4u",
       "data": {}
     },
     "1blknwaz6oza7w6k4fyzxxn": {
@@ -757,7 +940,7 @@
       "id": "pffrzwncoq8j2ygohww07jv",
       "title": "“Whites”",
       "desc": "",
-      "updated": 1694080004044,
+      "updated": 1694081448177,
       "created": 1694058943591,
       "nav_order": 60,
       "custom": {
@@ -770,8 +953,37 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "539e7dd785681e0d6b1dbb54ed40a714",
-      "links": [],
+      "contentHash": "9f247f0d6671c2dce55cf2575250bbfe",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.conglomerations.“whites”",
+            "id": "pffrzwncoq8j2ygohww07jv",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.projects^stay",
+          "alias": "Stay",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 16,
+              "offset": 51
+            },
+            "end": {
+              "line": 4,
+              "column": 50,
+              "offset": 85
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.projects^stay"
+          }
+        }
+      ],
       "anchors": {},
       "children": [],
       "parent": "1blknwaz6oza7w6k4fyzxxn",
@@ -781,9 +993,12 @@
       "id": "5aen46xtcdmcupqm8b1h5w3",
       "title": "“Blacks”",
       "desc": "",
-      "updated": 1694071431739,
+      "updated": 1694081450778,
       "created": 1694058896032,
-      "custom": {},
+      "nav_order": 50,
+      "custom": {
+        "nav_order": 50
+      },
       "fname": "13-13s.conglomerations.“blacks”",
       "type": "note",
       "vault": {
@@ -791,7 +1006,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "a18879d795512e47bff39ed1726daed9",
+      "contentHash": "749c156f1f02c8064a69fb9c2aa54191",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1025,7 +1240,52 @@
         "name": "TRWBL"
       },
       "contentHash": "e77b8c5174dd5707e4d5e215ddf2a598",
-      "links": [],
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.axes.colors.silver",
+            "id": "s4rnqejfacu2h5a1i9d88ql",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 83,
+              "offset": 83
+            },
+            "end": {
+              "line": 2,
+              "column": 123,
+              "offset": 123
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.spaces"
+        },
+        {
+          "from": {
+            "fname": "13-13s.axes.colors.silver",
+            "id": "s4rnqejfacu2h5a1i9d88ql",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 100,
+              "offset": 100
+            },
+            "end": {
+              "line": 2,
+              "column": 140,
+              "offset": 140
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.spaces"
+        }
+      ],
       "anchors": {},
       "children": [],
       "parent": "u68x9dgujhgq1ode6yce0qh",
@@ -1148,6 +1408,28 @@
       "links": [
         {
           "from": {
+            "fname": "13-13s",
+            "id": "0kpwtvbizo8p5kwm7ut8z4u",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 160,
+              "offset": 622
+            },
+            "end": {
+              "line": 10,
+              "column": 197,
+              "offset": 659
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.months"
+        },
+        {
+          "from": {
             "fname": "timeline",
             "id": "t70n32fovw6k11p2ffwejej",
             "vaultName": "TRWBL"
@@ -1178,7 +1460,7 @@
       "id": "9c3w1355o1t5aicclqwi10o",
       "title": "Languages",
       "desc": "",
-      "updated": 1694079008079,
+      "updated": 1694088409875,
       "created": 1694070085015,
       "nav_order": 80,
       "custom": {
@@ -1191,7 +1473,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "233ce37b4a589b7805c8b7da447d50a4",
+      "contentHash": "62b1cbef8ffd5f74a0c3c8c7f8814232",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1226,7 +1508,7 @@
       "id": "plsegjmb7w5pr26udquimph",
       "title": "Colors",
       "desc": "",
-      "updated": 1694078482783,
+      "updated": 1694908816322,
       "created": 1694070085015,
       "nav_order": 10,
       "custom": {
@@ -1239,7 +1521,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "4dd7fb2d29979bd9bc2774080f17bb51",
+      "contentHash": "f9e3a890c0502326f4f5bed3d7a01ac8",
       "links": [
         {
           "type": "wiki",
@@ -1329,18 +1611,45 @@
             "id": "plsegjmb7w5pr26udquimph",
             "vaultName": "TRWBL"
           },
+          "value": "Silver",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 138
+            },
+            "end": {
+              "line": 10,
+              "column": 13,
+              "offset": 148
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Silver"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors",
+            "id": "plsegjmb7w5pr26udquimph",
+            "vaultName": "TRWBL"
+          },
           "value": "tags.C0C0C0",
           "alias": "#C0C0C0",
           "position": {
             "start": {
               "line": 10,
-              "column": 11,
-              "offset": 146
+              "column": 15,
+              "offset": 150
             },
             "end": {
               "line": 10,
-              "column": 18,
-              "offset": 153
+              "column": 22,
+              "offset": 157
             },
             "indent": []
           },
@@ -1362,12 +1671,12 @@
             "start": {
               "line": 11,
               "column": 11,
-              "offset": 164
+              "offset": 168
             },
             "end": {
               "line": 11,
               "column": 18,
-              "offset": 171
+              "offset": 175
             },
             "indent": []
           },
@@ -1389,12 +1698,12 @@
             "start": {
               "line": 12,
               "column": 9,
-              "offset": 180
+              "offset": 184
             },
             "end": {
               "line": 12,
               "column": 16,
-              "offset": 187
+              "offset": 191
             },
             "indent": []
           },
@@ -1416,12 +1725,12 @@
             "start": {
               "line": 13,
               "column": 10,
-              "offset": 197
+              "offset": 201
             },
             "end": {
               "line": 13,
               "column": 17,
-              "offset": 204
+              "offset": 208
             },
             "indent": []
           },
@@ -1432,8 +1741,88 @@
         }
       ],
       "anchors": {},
-      "children": [],
+      "children": [
+        "s4rnqejfacu2h5a1i9d88ql"
+      ],
       "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "s4rnqejfacu2h5a1i9d88ql": {
+      "id": "s4rnqejfacu2h5a1i9d88ql",
+      "title": "Silver",
+      "desc": "",
+      "updated": 1694908540957,
+      "created": 1694906839121,
+      "custom": {},
+      "fname": "13-13s.axes.colors.silver",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "61784c472249ebf52f3c1130ebca4ad0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors.silver",
+            "id": "s4rnqejfacu2h5a1i9d88ql",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.rules",
+          "alias": "rules",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 36,
+              "offset": 36
+            },
+            "end": {
+              "line": 2,
+              "column": 58,
+              "offset": 58
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.rules"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.colors.silver",
+            "id": "s4rnqejfacu2h5a1i9d88ql",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.spaces",
+          "alias": "holders of spaces",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 100,
+              "offset": 100
+            },
+            "end": {
+              "line": 2,
+              "column": 140,
+              "offset": 140
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.spaces"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "plsegjmb7w5pr26udquimph",
       "data": {}
     },
     "krf1iaj278mz3nyqcywg8pa": {
@@ -1490,21 +1879,20 @@
       "id": "ycfbd2a8x41gi0smmpufk0o",
       "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694078295090,
+      "updated": 1694081432050,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
       "fname": "root",
-      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[13-13s|Thirteen Thirteens]].\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "03ffd8b156404bbb34686c556b3856a4",
+      "contentHash": "874615ba40d9f49318d28f3e7d67b196",
       "links": [
         {
           "type": "wiki",
@@ -1513,8 +1901,8 @@
             "id": "ycfbd2a8x41gi0smmpufk0o",
             "vaultName": "TRWBL"
           },
-          "value": "Thirteen Thirteens",
-          "alias": "13-13s",
+          "value": "13-13s",
+          "alias": "Yggdrasil",
           "position": {
             "start": {
               "line": 6,
@@ -1523,15 +1911,15 @@
             },
             "end": {
               "line": 6,
-              "column": 113,
-              "offset": 426
+              "column": 104,
+              "offset": 417
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "Thirteen Thirteens"
+            "fname": "13-13s"
           }
         }
       ],
@@ -1541,32 +1929,33 @@
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
         "877hdm78cgmgv9e33ly0s4r",
-        "d4s6k4tg2hsa2mlygby7jlu",
-        "9jj9qcwqe8s5egn8nf45hzw"
+        "otfp9itf9ycjy3lf3312gq2",
+        "miefx31q2sgnvrka0v040g7",
+        "yifbw4yupdr2w4qe4qdh6j2"
       ],
       "parent": null,
-      "data": {}
+      "data": {},
+      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n"
     }
   ],
   "noteIndex": {
     "id": "ycfbd2a8x41gi0smmpufk0o",
     "title": "The Revolution Will Be Live",
     "desc": "",
-    "updated": 1694078295090,
+    "updated": 1694081432050,
     "created": 1694056545245,
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
     "fname": "root",
-    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[13-13s|Thirteen Thirteens]].\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "TRWBL"
     },
-    "contentHash": "03ffd8b156404bbb34686c556b3856a4",
+    "contentHash": "874615ba40d9f49318d28f3e7d67b196",
     "links": [
       {
         "type": "wiki",
@@ -1575,8 +1964,8 @@
           "id": "ycfbd2a8x41gi0smmpufk0o",
           "vaultName": "TRWBL"
         },
-        "value": "Thirteen Thirteens",
-        "alias": "13-13s",
+        "value": "13-13s",
+        "alias": "Yggdrasil",
         "position": {
           "start": {
             "line": 6,
@@ -1585,15 +1974,15 @@
           },
           "end": {
             "line": 6,
-            "column": 113,
-            "offset": 426
+            "column": 104,
+            "offset": 417
           },
           "indent": []
         },
         "xvault": false,
         "sameFile": false,
         "to": {
-          "fname": "Thirteen Thirteens"
+          "fname": "13-13s"
         }
       }
     ],
@@ -1603,11 +1992,13 @@
       "ypu9ulohotwrez78fsejofb",
       "t70n32fovw6k11p2ffwejej",
       "877hdm78cgmgv9e33ly0s4r",
-      "d4s6k4tg2hsa2mlygby7jlu",
-      "9jj9qcwqe8s5egn8nf45hzw"
+      "otfp9itf9ycjy3lf3312gq2",
+      "miefx31q2sgnvrka0v040g7",
+      "yifbw4yupdr2w4qe4qdh6j2"
     ],
     "parent": null,
-    "data": {}
+    "data": {},
+    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n"
   },
   "vaults": [
     {
