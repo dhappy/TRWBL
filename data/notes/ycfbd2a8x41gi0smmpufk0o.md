@@ -22,4 +22,4 @@ The needs of the network of locations is managed through a 3D interface that als
 * The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.
 * All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.
 * One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.
-* Money, in general, should be funneled into [[Code|13-13s.axes.projects#code]] where it will be converted into computer programs to support various aspects of the process.
+* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.

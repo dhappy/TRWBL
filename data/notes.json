@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1694914695073,
-      "created": 1694914695073,
+      "updated": 1694918759186,
+      "created": 1694918759186,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "ycfbd2a8x41gi0smmpufk0o",
       "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694913598035,
+      "updated": 1694918672898,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "bb83a623cffb263d0ac797138aadd776",
+      "contentHash": "74749a125a259d050ca7d6f84fb2dfcd",
       "links": [
         {
           "type": "wiki",
@@ -112,8 +112,8 @@
             },
             "end": {
               "line": 25,
-              "column": 80,
-              "offset": 2009
+              "column": 81,
+              "offset": 2010
             },
             "indent": []
           },
@@ -121,7 +121,7 @@
           "sameFile": false,
           "to": {
             "fname": "13-13s.axes.projects",
-            "anchorHeader": "code"
+            "anchorHeader": "^code"
           }
         }
       ],
@@ -130,7 +130,7 @@
           "type": "header",
           "text": "Bootstrapping",
           "value": "bootstrapping",
-          "line": 16,
+          "line": 14,
           "column": 0,
           "depth": 2
         },
@@ -138,7 +138,7 @@
           "type": "header",
           "text": "Synopsis",
           "value": "synopsis",
-          "line": 22,
+          "line": 20,
           "column": 0,
           "depth": 2
         },
@@ -146,7 +146,7 @@
           "type": "header",
           "text": "How to Participate",
           "value": "how-to-participate",
-          "line": 28,
+          "line": 26,
           "column": 0,
           "depth": 2
         }
@@ -1705,6 +1705,28 @@
             "indent": []
           },
           "value": "13-13s.axes.projects"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 46,
+              "offset": 1975
+            },
+            "end": {
+              "line": 25,
+              "column": 81,
+              "offset": 2010
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects"
         }
       ],
       "anchors": {
@@ -1837,7 +1859,7 @@
       "id": "r40billjexhoae4pyxd9dlr",
       "title": "Months",
       "desc": "",
-      "updated": 1694078526350,
+      "updated": 1694916767890,
       "created": 1694070085015,
       "nav_order": 40,
       "custom": {
@@ -1850,7 +1872,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "98fe4a8e9c41803b3388d7829d51ae43",
+      "contentHash": "411e4230ddd35599ef4a298b6eca7fae",
       "links": [
         {
           "from": {
@@ -2366,7 +2388,7 @@
       "id": "s4rnqejfacu2h5a1i9d88ql",
       "title": "Silver",
       "desc": "",
-      "updated": 1694908540957,
+      "updated": 1694915708458,
       "created": 1694906839121,
       "custom": {},
       "fname": "13-13s.axes.colors.silver",
@@ -2376,7 +2398,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "61784c472249ebf52f3c1130ebca4ad0",
+      "contentHash": "281984105cce2164a0a0e84b638b915c",
       "links": [
         {
           "type": "wiki",
@@ -2494,21 +2516,21 @@
       "id": "ycfbd2a8x41gi0smmpufk0o",
       "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694913598035,
+      "updated": 1694918672898,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
       "fname": "root",
-      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#code]] where it will be converted into computer programs to support various aspects of the process.\n",
+      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "bb83a623cffb263d0ac797138aadd776",
+      "contentHash": "74749a125a259d050ca7d6f84fb2dfcd",
       "links": [
         {
           "type": "wiki",
@@ -2583,8 +2605,8 @@
             },
             "end": {
               "line": 25,
-              "column": 80,
-              "offset": 2009
+              "column": 81,
+              "offset": 2010
             },
             "indent": []
           },
@@ -2592,7 +2614,7 @@
           "sameFile": false,
           "to": {
             "fname": "13-13s.axes.projects",
-            "anchorHeader": "code"
+            "anchorHeader": "^code"
           }
         }
       ],
@@ -2601,7 +2623,7 @@
           "type": "header",
           "text": "Bootstrapping",
           "value": "bootstrapping",
-          "line": 16,
+          "line": 14,
           "column": 0,
           "depth": 2
         },
@@ -2609,7 +2631,7 @@
           "type": "header",
           "text": "Synopsis",
           "value": "synopsis",
-          "line": 22,
+          "line": 20,
           "column": 0,
           "depth": 2
         },
@@ -2617,7 +2639,7 @@
           "type": "header",
           "text": "How to Participate",
           "value": "how-to-participate",
-          "line": 28,
+          "line": 26,
           "column": 0,
           "depth": 2
         }
@@ -2638,21 +2660,21 @@
     "id": "ycfbd2a8x41gi0smmpufk0o",
     "title": "The Revolution Will Be Live",
     "desc": "",
-    "updated": 1694913598035,
+    "updated": 1694918672898,
     "created": 1694056545245,
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
     "fname": "root",
-    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#code]] where it will be converted into computer programs to support various aspects of the process.\n",
+    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "TRWBL"
     },
-    "contentHash": "bb83a623cffb263d0ac797138aadd776",
+    "contentHash": "74749a125a259d050ca7d6f84fb2dfcd",
     "links": [
       {
         "type": "wiki",
@@ -2727,8 +2749,8 @@
           },
           "end": {
             "line": 25,
-            "column": 80,
-            "offset": 2009
+            "column": 81,
+            "offset": 2010
           },
           "indent": []
         },
@@ -2736,7 +2758,7 @@
         "sameFile": false,
         "to": {
           "fname": "13-13s.axes.projects",
-          "anchorHeader": "code"
+          "anchorHeader": "^code"
         }
       }
     ],
@@ -2745,7 +2767,7 @@
         "type": "header",
         "text": "Bootstrapping",
         "value": "bootstrapping",
-        "line": 16,
+        "line": 14,
         "column": 0,
         "depth": 2
       },
@@ -2753,7 +2775,7 @@
         "type": "header",
         "text": "Synopsis",
         "value": "synopsis",
-        "line": 22,
+        "line": 20,
         "column": 0,
         "depth": 2
       },
@@ -2761,7 +2783,7 @@
         "type": "header",
         "text": "How to Participate",
         "value": "how-to-participate",
-        "line": 28,
+        "line": 26,
         "column": 0,
         "depth": 2
       }
