@@ -1,13 +1,13 @@
 
-* Green: #009900
+* [[Green|13-13s.conglomerations.non-human-life]]: #009900
 * Blaze: #9D3E3F
-* Brown: #663300
-* Black: #000000
-* White: #FFFFFF
+* [[Brown|13-13s.conglomerations.housekeepers]]: #663300
+* [[Black|13-13s.conglomerations.“blacks”]]: #000000
+* [[White|13-13s.conglomerations.“whites”]]: #FFFFFF
 * Cyan: #00FFFF
-* Yellow: #FFFF00
-* Gold: #FFDF00
-* [[Silver]]: #C0C0C0
+* [[Yellow|13-13s.conglomerations.therapists]]: #FFFF00
+* [[Gold|13-13s.conglomerations.the-establishment]]: #FFDF00
+* [[Silver|13-13s.conglomerations.enforcement]]: #C0C0C0
 * Copper: #B87333
 * Pink: #FF007F
 * Peach: #FFE5B4
