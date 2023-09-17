@@ -13,14 +13,14 @@
 
 * **Alignments:** Allow the 13 teams of Yggdrasil to coordinate with each other to allocate the 13 axes. Each teams starts by specifying their optimal layout. This program would also contain other aspects of team coordination such as the various bonding curves for token swapping.
 
-* **Code:** The 13 teams each spearhead a project. Participants may be members of multiple teams to varying extents. Each team has a development group for each of the 13 projects. (Albeit perhaps of size zero.) These dev groups meet in spaces coordinated by [Stay](#stay). [Code](#code) captures livestreamed pair programming sessions encoded with metadata describing tasks, decisions, and bugs. Peers review the process and give kudos and demerits.
+* **Code:** There are 13 projects. Participants may be members of multiple teams to varying extents. Development is through a series of pair programming meetings where the developers pass off control of the codebase from one pair to another. Peers review the process and based on their evaluations reputations are formed.
 
-* **Mïmis:** A stream of JSON-LD documents alter the state of a Neo4j graph. Users navigate the resultant structure.
+* **Mïmis:** A distributed graph database of versioned XML documents holding, initially, bunches of variations of SVGs and unzipped EPub books. In addition to the traditional file tree, other contexts will be available for reference; such as recolorings of SVGs or collections of icons.
 
 * **Reader:** A web-based eReader meant to allow browsing the universal library stored in [Mïmis](#mïmis).
 
 * **Stuff:** What does the world hold and where is it located.
 
-* **When:** 13-Sign Zodiac / Hijri / 5hr + 5hr light & dark / 100 minutes per hour / 100 seconds per minute; coordinated with the housing arrangements from [Stay](#stay) & devs from [Code](#code).
+* **When:** 13-Sign Zodiac / Hijri / 10-hour day w/ 100 minutes per hour / 100 seconds per minute; coordinated with the housing arrangements from [Stay](#stay) & devs from [Code](#code).
 
 * **Ring:** Part of rules enforcement relies on the credible threat of physical force. This is determined by peer-reviewed recordings of fights.

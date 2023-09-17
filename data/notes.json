@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1694909640702,
-      "created": 1694909640702,
+      "updated": 1694913632539,
+      "created": 1694913632539,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "ycfbd2a8x41gi0smmpufk0o",
       "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694081432050,
+      "updated": 1694913598035,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "874615ba40d9f49318d28f3e7d67b196",
+      "contentHash": "bb83a623cffb263d0ac797138aadd776",
       "links": [
         {
           "type": "wiki",
@@ -66,9 +66,91 @@
           "to": {
             "fname": "13-13s"
           }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.conglomerations.enforcement",
+          "alias": "Silver team",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 7,
+              "offset": 1357
+            },
+            "end": {
+              "line": 22,
+              "column": 57,
+              "offset": 1407
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.conglomerations.enforcement"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.projects",
+          "alias": "Code",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 46,
+              "offset": 1975
+            },
+            "end": {
+              "line": 25,
+              "column": 80,
+              "offset": 2009
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.projects",
+            "anchorHeader": "code"
+          }
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "bootstrapping": {
+          "type": "header",
+          "text": "Bootstrapping",
+          "value": "bootstrapping",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "synopsis": {
+          "type": "header",
+          "text": "Synopsis",
+          "value": "synopsis",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-participate": {
+          "type": "header",
+          "text": "How to Participate",
+          "value": "how-to-participate",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [
         "0kpwtvbizo8p5kwm7ut8z4u",
         "ypu9ulohotwrez78fsejofb",
@@ -1131,6 +1213,28 @@
           "to": {
             "fname": "13-13s"
           }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 7,
+              "offset": 1357
+            },
+            "end": {
+              "line": 22,
+              "column": 57,
+              "offset": 1407
+            },
+            "indent": []
+          },
+          "value": "13-13s.conglomerations.enforcement"
         }
       ],
       "anchors": {},
@@ -1319,7 +1423,7 @@
       "id": "46nefi7al8pvhetye9vg1v2",
       "title": "Projects",
       "desc": "",
-      "updated": 1694080110764,
+      "updated": 1694912084757,
       "created": 1694070085015,
       "nav_order": 30,
       "custom": {
@@ -1332,8 +1436,31 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "6aa00f6b06891ef04117339657d5d8e0",
-      "links": [],
+      "contentHash": "83b52c2ecc089290b2ac0bd4553b2636",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 46,
+              "offset": 1975
+            },
+            "end": {
+              "line": 25,
+              "column": 80,
+              "offset": 2009
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects"
+        }
+      ],
       "anchors": {},
       "children": [],
       "parent": "u68x9dgujhgq1ode6yce0qh",
@@ -1879,20 +2006,21 @@
       "id": "ycfbd2a8x41gi0smmpufk0o",
       "title": "The Revolution Will Be Live",
       "desc": "",
-      "updated": 1694081432050,
+      "updated": 1694913598035,
       "created": 1694056545245,
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
       "fname": "root",
+      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#code]] where it will be converted into computer programs to support various aspects of the process.\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "874615ba40d9f49318d28f3e7d67b196",
+      "contentHash": "bb83a623cffb263d0ac797138aadd776",
       "links": [
         {
           "type": "wiki",
@@ -1921,9 +2049,91 @@
           "to": {
             "fname": "13-13s"
           }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.conglomerations.enforcement",
+          "alias": "Silver team",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 7,
+              "offset": 1357
+            },
+            "end": {
+              "line": 22,
+              "column": 57,
+              "offset": 1407
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.conglomerations.enforcement"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "ycfbd2a8x41gi0smmpufk0o",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.projects",
+          "alias": "Code",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 46,
+              "offset": 1975
+            },
+            "end": {
+              "line": 25,
+              "column": 80,
+              "offset": 2009
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.projects",
+            "anchorHeader": "code"
+          }
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "bootstrapping": {
+          "type": "header",
+          "text": "Bootstrapping",
+          "value": "bootstrapping",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "synopsis": {
+          "type": "header",
+          "text": "Synopsis",
+          "value": "synopsis",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-participate": {
+          "type": "header",
+          "text": "How to Participate",
+          "value": "how-to-participate",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [
         "0kpwtvbizo8p5kwm7ut8z4u",
         "ypu9ulohotwrez78fsejofb",
@@ -1934,28 +2144,28 @@
         "yifbw4yupdr2w4qe4qdh6j2"
       ],
       "parent": null,
-      "data": {},
-      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n"
+      "data": {}
     }
   ],
   "noteIndex": {
     "id": "ycfbd2a8x41gi0smmpufk0o",
     "title": "The Revolution Will Be Live",
     "desc": "",
-    "updated": 1694081432050,
+    "updated": 1694913598035,
     "created": 1694056545245,
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
     "fname": "root",
+    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#code]] where it will be converted into computer programs to support various aspects of the process.\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
       "selfContained": true,
       "name": "TRWBL"
     },
-    "contentHash": "874615ba40d9f49318d28f3e7d67b196",
+    "contentHash": "bb83a623cffb263d0ac797138aadd776",
     "links": [
       {
         "type": "wiki",
@@ -1984,9 +2194,91 @@
         "to": {
           "fname": "13-13s"
         }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "ycfbd2a8x41gi0smmpufk0o",
+          "vaultName": "TRWBL"
+        },
+        "value": "13-13s.conglomerations.enforcement",
+        "alias": "Silver team",
+        "position": {
+          "start": {
+            "line": 22,
+            "column": 7,
+            "offset": 1357
+          },
+          "end": {
+            "line": 22,
+            "column": 57,
+            "offset": 1407
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "13-13s.conglomerations.enforcement"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "ycfbd2a8x41gi0smmpufk0o",
+          "vaultName": "TRWBL"
+        },
+        "value": "13-13s.axes.projects",
+        "alias": "Code",
+        "position": {
+          "start": {
+            "line": 25,
+            "column": 46,
+            "offset": 1975
+          },
+          "end": {
+            "line": 25,
+            "column": 80,
+            "offset": 2009
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "13-13s.axes.projects",
+          "anchorHeader": "code"
+        }
       }
     ],
-    "anchors": {},
+    "anchors": {
+      "bootstrapping": {
+        "type": "header",
+        "text": "Bootstrapping",
+        "value": "bootstrapping",
+        "line": 14,
+        "column": 0,
+        "depth": 2
+      },
+      "synopsis": {
+        "type": "header",
+        "text": "Synopsis",
+        "value": "synopsis",
+        "line": 20,
+        "column": 0,
+        "depth": 2
+      },
+      "how-to-participate": {
+        "type": "header",
+        "text": "How to Participate",
+        "value": "how-to-participate",
+        "line": 26,
+        "column": 0,
+        "depth": 2
+      }
+    },
     "children": [
       "0kpwtvbizo8p5kwm7ut8z4u",
       "ypu9ulohotwrez78fsejofb",
@@ -1997,8 +2289,7 @@
       "yifbw4yupdr2w4qe4qdh6j2"
     ],
     "parent": null,
-    "data": {},
-    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n"
+    "data": {}
   },
   "vaults": [
     {
