@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1694918759186,
-      "created": 1694918759186,
+      "updated": 1695019965398,
+      "created": 1695019965398,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -155,14 +155,60 @@
         "0kpwtvbizo8p5kwm7ut8z4u",
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
+        "dr794to5a3oswlo3dpjc8kv",
         "877hdm78cgmgv9e33ly0s4r",
-        "otfp9itf9ycjy3lf3312gq2",
-        "miefx31q2sgnvrka0v040g7"
+        "0a863eozcg4h4pt9v3n27t3",
+        "ml4c4wuhe3e8cr0jnnsmy1x",
+        "bhswvjrpaxt5j7d3fmvagxk"
       ],
       "parent": null,
       "data": {}
     },
-    "miefx31q2sgnvrka0v040g7": {
+    "bhswvjrpaxt5j7d3fmvagxk": {
+      "fname": "Pairs",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1695019824969,
+      "created": 1695019824969,
+      "id": "bhswvjrpaxt5j7d3fmvagxk",
+      "desc": "",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 5,
+              "offset": 1715
+            },
+            "end": {
+              "line": 17,
+              "column": 14,
+              "offset": 1724
+            },
+            "indent": []
+          },
+          "value": "Pairs"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {},
+      "title": "Pairs",
+      "contentHash": "423176a2d2529fd1a43685ecca33376b"
+    },
+    "ml4c4wuhe3e8cr0jnnsmy1x": {
       "fname": "proposals",
       "stub": true,
       "vault": {
@@ -172,20 +218,20 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694907056025,
-      "created": 1694907056025,
-      "id": "miefx31q2sgnvrka0v040g7",
+      "updated": 1695019269319,
+      "created": 1695019269319,
+      "id": "ml4c4wuhe3e8cr0jnnsmy1x",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "y8vqiu1cguu7cz8fw08ty95"
+        "dbwloktwdiw18rkz9s4lu6w"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {},
       "title": "Proposals"
     },
-    "y8vqiu1cguu7cz8fw08ty95": {
+    "dbwloktwdiw18rkz9s4lu6w": {
       "fname": "proposals.metacartel",
       "stub": true,
       "vault": {
@@ -195,9 +241,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694907056026,
-      "created": 1694907056026,
-      "id": "y8vqiu1cguu7cz8fw08ty95",
+      "updated": 1695019269320,
+      "created": 1695019269320,
+      "id": "dbwloktwdiw18rkz9s4lu6w",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -205,7 +251,7 @@
         "optc00u1kjkfz656tnghfu7",
         "l8g0vja9faraw5vkigrqqmc"
       ],
-      "parent": "miefx31q2sgnvrka0v040g7",
+      "parent": "ml4c4wuhe3e8cr0jnnsmy1x",
       "data": {},
       "title": "Metacartel"
     },
@@ -311,7 +357,7 @@
         }
       },
       "children": [],
-      "parent": "y8vqiu1cguu7cz8fw08ty95",
+      "parent": "dbwloktwdiw18rkz9s4lu6w",
       "data": {}
     },
     "optc00u1kjkfz656tnghfu7": {
@@ -424,10 +470,10 @@
         }
       },
       "children": [],
-      "parent": "y8vqiu1cguu7cz8fw08ty95",
+      "parent": "dbwloktwdiw18rkz9s4lu6w",
       "data": {}
     },
-    "otfp9itf9ycjy3lf3312gq2": {
+    "0a863eozcg4h4pt9v3n27t3": {
       "fname": "procedures",
       "stub": true,
       "vault": {
@@ -437,9 +483,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1694907056016,
-      "created": 1694907056016,
-      "id": "otfp9itf9ycjy3lf3312gq2",
+      "updated": 1695019269274,
+      "created": 1695019269274,
+      "id": "0a863eozcg4h4pt9v3n27t3",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -472,7 +518,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "otfp9itf9ycjy3lf3312gq2",
+      "parent": "0a863eozcg4h4pt9v3n27t3",
       "data": {}
     },
     "zy2z0cm580djy9r1mv5hfpv": {
@@ -496,7 +542,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "otfp9itf9ycjy3lf3312gq2",
+      "parent": "0a863eozcg4h4pt9v3n27t3",
       "data": {}
     },
     "877hdm78cgmgv9e33ly0s4r": {
@@ -521,6 +567,158 @@
       "anchors": {},
       "children": [],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "dr794to5a3oswlo3dpjc8kv": {
+      "id": "dr794to5a3oswlo3dpjc8kv",
+      "title": "Vingnettes",
+      "desc": "",
+      "updated": 1694977407440,
+      "created": 1694976020993,
+      "nav_order": 5,
+      "custom": {
+        "nav_order": 5
+      },
+      "fname": "vingnettes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "28ac08503e3a69368c8b783d4602a7be",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hlv2egjfe5h8ee5kzf9cr8s",
+        "nwqfghw85q6a8m8o3xq40wx"
+      ],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "nwqfghw85q6a8m8o3xq40wx": {
+      "id": "nwqfghw85q6a8m8o3xq40wx",
+      "title": "Escape to the Sea",
+      "desc": "",
+      "updated": 1694986509565,
+      "created": 1694977424751,
+      "custom": {},
+      "fname": "vingnettes.escape-to-the-sea",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "a0aaaf09d767863a83fcd9e33fbdae84",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "vingnettes.escape-to-the-sea",
+            "id": "nwqfghw85q6a8m8o3xq40wx",
+            "vaultName": "TRWBL"
+          },
+          "value": "Stay",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 88,
+              "offset": 561
+            },
+            "end": {
+              "line": 7,
+              "column": 96,
+              "offset": 569
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Stay"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "vingnettes.escape-to-the-sea",
+            "id": "nwqfghw85q6a8m8o3xq40wx",
+            "vaultName": "TRWBL"
+          },
+          "value": "Stuff",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 101,
+              "offset": 574
+            },
+            "end": {
+              "line": 7,
+              "column": 110,
+              "offset": 583
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Stuff"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dr794to5a3oswlo3dpjc8kv",
+      "data": {}
+    },
+    "hlv2egjfe5h8ee5kzf9cr8s": {
+      "id": "hlv2egjfe5h8ee5kzf9cr8s",
+      "title": "Arrest Protection",
+      "desc": "",
+      "updated": 1694977288437,
+      "created": 1694976207697,
+      "custom": {},
+      "fname": "vingnettes.arrest-protection",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "d9b8f27a504c8abb1a757da79407e3cc",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "vingnettes.arrest-protection",
+            "id": "hlv2egjfe5h8ee5kzf9cr8s",
+            "vaultName": "TRWBL"
+          },
+          "value": "Courier",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 5,
+              "offset": 4
+            },
+            "end": {
+              "line": 1,
+              "column": 16,
+              "offset": 15
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Courier"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "dr794to5a3oswlo3dpjc8kv",
       "data": {}
     },
     "t70n32fovw6k11p2ffwejej": {
@@ -634,7 +832,7 @@
       "id": "0kpwtvbizo8p5kwm7ut8z4u",
       "title": "13 13s",
       "desc": "",
-      "updated": 1694906814311,
+      "updated": 1694933252677,
       "created": 1694057960761,
       "nav_order": 30,
       "custom": {
@@ -647,7 +845,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "1712ceadee90cdca5b6247ca24674ac7",
+      "contentHash": "f0ac7f05855bcf0d575ec00e46022ac5",
       "links": [
         {
           "type": "wiki",
@@ -660,14 +858,14 @@
           "alias": "Yggdrasil",
           "position": {
             "start": {
-              "line": 8,
+              "line": 11,
               "column": 22,
-              "offset": 416
+              "offset": 460
             },
             "end": {
-              "line": 8,
+              "line": 11,
               "column": 42,
-              "offset": 436
+              "offset": 480
             },
             "indent": []
           },
@@ -688,14 +886,14 @@
           "alias": "13-sign zodiac",
           "position": {
             "start": {
-              "line": 10,
+              "line": 13,
               "column": 160,
-              "offset": 622
+              "offset": 666
             },
             "end": {
-              "line": 10,
+              "line": 13,
               "column": 197,
-              "offset": 659
+              "offset": 703
             },
             "indent": []
           },
@@ -714,14 +912,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 8,
+              "line": 11,
               "column": 22,
-              "offset": 416
+              "offset": 460
             },
             "end": {
-              "line": 8,
+              "line": 11,
               "column": 42,
-              "offset": 436
+              "offset": 480
             },
             "indent": []
           },
@@ -770,28 +968,6 @@
             "indent": []
           },
           "value": "13-13s"
-        },
-        {
-          "from": {
-            "fname": "13-13s.conglomerations.enforcement",
-            "id": "5zhr7nv3gs8w8wma3llj2yr",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 5,
-              "column": 4,
-              "offset": 53
-            },
-            "end": {
-              "line": 5,
-              "column": 29,
-              "offset": 78
-            },
-            "indent": []
-          },
-          "value": "13-13s"
         }
       ],
       "anchors": {
@@ -807,7 +983,7 @@
           "type": "header",
           "text": "Coordinating With The Establishment",
           "value": "coordinating-with-the-establishment",
-          "line": 19,
+          "line": 22,
           "column": 0,
           "depth": 2
         }
@@ -835,7 +1011,30 @@
         "name": "TRWBL"
       },
       "contentHash": "eb85d2f3752d164c115a2fcfe82aefab",
-      "links": [],
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.conglomerations.enforcement",
+            "id": "5zhr7nv3gs8w8wma3llj2yr",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 36,
+              "offset": 85
+            },
+            "end": {
+              "line": 5,
+              "column": 58,
+              "offset": 107
+            },
+            "indent": []
+          },
+          "value": "13-13s.rules"
+        }
+      ],
       "anchors": {},
       "children": [],
       "parent": "0kpwtvbizo8p5kwm7ut8z4u",
@@ -1077,12 +1276,12 @@
             "start": {
               "line": 9,
               "column": 3,
-              "offset": 122
+              "offset": 314
             },
             "end": {
               "line": 9,
               "column": 52,
-              "offset": 171
+              "offset": 363
             },
             "indent": []
           },
@@ -1145,7 +1344,7 @@
       "id": "5zhr7nv3gs8w8wma3llj2yr",
       "title": "Enforcement",
       "desc": "",
-      "updated": 1694079831453,
+      "updated": 1694986665816,
       "created": 1694058990911,
       "nav_order": 40,
       "custom": {
@@ -1158,7 +1357,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "f3d01108a37292e83acf14ff511749f7",
+      "contentHash": "c6743fad7d4f94a99242bf54dd8bc933",
       "links": [
         {
           "type": "wiki",
@@ -1167,25 +1366,53 @@
             "id": "5zhr7nv3gs8w8wma3llj2yr",
             "vaultName": "TRWBL"
           },
-          "value": "13-13s",
-          "alias": "aforementioned",
+          "value": "13-13s.rules",
+          "alias": "rules",
           "position": {
             "start": {
               "line": 5,
-              "column": 4,
-              "offset": 53
+              "column": 36,
+              "offset": 85
             },
             "end": {
               "line": 5,
-              "column": 29,
-              "offset": 78
+              "column": 58,
+              "offset": 107
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "13-13s"
+            "fname": "13-13s.rules"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.conglomerations.enforcement",
+            "id": "5zhr7nv3gs8w8wma3llj2yr",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.spaces",
+          "alias": "holders of spaces",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 100,
+              "offset": 149
+            },
+            "end": {
+              "line": 5,
+              "column": 140,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.spaces"
           }
         },
         {
@@ -1221,12 +1448,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 138
+              "offset": 375
             },
             "end": {
               "line": 10,
               "column": 48,
-              "offset": 183
+              "offset": 420
             },
             "indent": []
           },
@@ -1302,7 +1529,7 @@
       "id": "nmb42ilobl87ccb41ck9j6l",
       "title": "Timeframes",
       "desc": "",
-      "updated": 1694079414333,
+      "updated": 1694933244690,
       "created": 1694070085016,
       "nav_order": 100,
       "custom": {
@@ -1315,7 +1542,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "12062ae2516c2fab0168ea04ebc7ea42",
+      "contentHash": "f3111d133d952bdbdae8a557a4dcfd02",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1343,43 +1570,21 @@
       "links": [
         {
           "from": {
-            "fname": "13-13s.axes.colors.silver",
-            "id": "s4rnqejfacu2h5a1i9d88ql",
+            "fname": "13-13s.conglomerations.enforcement",
+            "id": "5zhr7nv3gs8w8wma3llj2yr",
             "vaultName": "TRWBL"
           },
           "type": "backlink",
           "position": {
             "start": {
-              "line": 2,
-              "column": 83,
-              "offset": 83
-            },
-            "end": {
-              "line": 2,
-              "column": 123,
-              "offset": 123
-            },
-            "indent": []
-          },
-          "value": "13-13s.axes.spaces"
-        },
-        {
-          "from": {
-            "fname": "13-13s.axes.colors.silver",
-            "id": "s4rnqejfacu2h5a1i9d88ql",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 2,
+              "line": 5,
               "column": 100,
-              "offset": 100
+              "offset": 149
             },
             "end": {
-              "line": 2,
+              "line": 5,
               "column": 140,
-              "offset": 140
+              "offset": 189
             },
             "indent": []
           },
@@ -1419,7 +1624,7 @@
       "id": "46nefi7al8pvhetye9vg1v2",
       "title": "Projects",
       "desc": "",
-      "updated": 1694914619031,
+      "updated": 1695019881056,
       "created": 1694070085015,
       "nav_order": 30,
       "custom": {
@@ -1432,7 +1637,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "9528e68b9ee8ba319ab6b0b89849378d",
+      "contentHash": "92a17c9b0322b3b2986f32ffdbf4070f",
       "links": [
         {
           "type": "wiki",
@@ -1497,17 +1702,45 @@
             "id": "46nefi7al8pvhetye9vg1v2",
             "vaultName": "TRWBL"
           },
+          "value": "13-13s.axes.projects.pairs",
+          "alias": "Pairs",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 5,
+              "offset": 1715
+            },
+            "end": {
+              "line": 17,
+              "column": 41,
+              "offset": 1751
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.projects.pairs"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
           "value": "13-13s.axes.projects",
           "position": {
             "start": {
               "line": 21,
               "column": 99,
-              "offset": 2433
+              "offset": 2466
             },
             "end": {
               "line": 21,
               "column": 116,
-              "offset": 2450
+              "offset": 2483
             },
             "indent": []
           },
@@ -1530,12 +1763,12 @@
             "start": {
               "line": 25,
               "column": 153,
-              "offset": 2676
+              "offset": 2709
             },
             "end": {
               "line": 25,
               "column": 168,
-              "offset": 2691
+              "offset": 2724
             },
             "indent": []
           },
@@ -1558,12 +1791,12 @@
             "start": {
               "line": 25,
               "column": 181,
-              "offset": 2704
+              "offset": 2737
             },
             "end": {
               "line": 25,
               "column": 196,
-              "offset": 2719
+              "offset": 2752
             },
             "indent": []
           },
@@ -1589,8 +1822,8 @@
             },
             "end": {
               "line": 25,
-              "column": 80,
-              "offset": 2009
+              "column": 81,
+              "offset": 2010
             },
             "indent": []
           },
@@ -1705,28 +1938,6 @@
             "indent": []
           },
           "value": "13-13s.axes.projects"
-        },
-        {
-          "from": {
-            "fname": "root",
-            "id": "ycfbd2a8x41gi0smmpufk0o",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 25,
-              "column": 46,
-              "offset": 1975
-            },
-            "end": {
-              "line": 25,
-              "column": 81,
-              "offset": 2010
-            },
-            "indent": []
-          },
-          "value": "13-13s.axes.projects"
         }
       ],
       "anchors": {
@@ -1766,11 +1977,11 @@
           "line": 22,
           "column": 16
         },
-        "^code": {
+        "^pairs": {
           "type": "block",
-          "value": "code",
+          "value": "pairs",
           "line": 24,
-          "column": 10
+          "column": 42
         },
         "^mimis": {
           "type": "block",
@@ -1803,8 +2014,95 @@
           "column": 10
         }
       },
-      "children": [],
+      "children": [
+        "i2efue9tpvo904olulmykjp"
+      ],
       "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "i2efue9tpvo904olulmykjp": {
+      "id": "i2efue9tpvo904olulmykjp",
+      "title": "Serial Pairs",
+      "desc": "",
+      "updated": 1695019794282,
+      "created": 1695019466131,
+      "custom": {},
+      "fname": "13-13s.axes.projects.pairs",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "2c27ecb2bd9d2417b0ff434a8b88f39f",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 5,
+              "offset": 1715
+            },
+            "end": {
+              "line": 17,
+              "column": 41,
+              "offset": 1751
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects.pairs"
+        }
+      ],
+      "anchors": {
+        "interfaces": {
+          "type": "header",
+          "text": "Interfaces",
+          "value": "interfaces",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "scheduling": {
+          "type": "header",
+          "text": "Scheduling",
+          "value": "scheduling",
+          "line": 15,
+          "column": 0,
+          "depth": 3
+        },
+        "execution": {
+          "type": "header",
+          "text": "Execution",
+          "value": "execution",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "review": {
+          "type": "header",
+          "text": "Review",
+          "value": "review",
+          "line": 36,
+          "column": 0,
+          "depth": 3
+        },
+        "technologies": {
+          "type": "header",
+          "text": "Technologies",
+          "value": "technologies",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "46nefi7al8pvhetye9vg1v2",
       "data": {}
     },
     "t6dplnemakx4uvjlmr12728": {
@@ -1883,14 +2181,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 10,
+              "line": 13,
               "column": 160,
-              "offset": 622
+              "offset": 666
             },
             "end": {
-              "line": 10,
+              "line": 13,
               "column": 197,
-              "offset": 659
+              "offset": 703
             },
             "indent": []
           },
@@ -2378,88 +2676,8 @@
         }
       ],
       "anchors": {},
-      "children": [
-        "s4rnqejfacu2h5a1i9d88ql"
-      ],
-      "parent": "u68x9dgujhgq1ode6yce0qh",
-      "data": {}
-    },
-    "s4rnqejfacu2h5a1i9d88ql": {
-      "id": "s4rnqejfacu2h5a1i9d88ql",
-      "title": "Silver",
-      "desc": "",
-      "updated": 1694915708458,
-      "created": 1694906839121,
-      "custom": {},
-      "fname": "13-13s.axes.colors.silver",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "contentHash": "281984105cce2164a0a0e84b638b915c",
-      "links": [
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "13-13s.axes.colors.silver",
-            "id": "s4rnqejfacu2h5a1i9d88ql",
-            "vaultName": "TRWBL"
-          },
-          "value": "13-13s.rules",
-          "alias": "rules",
-          "position": {
-            "start": {
-              "line": 2,
-              "column": 36,
-              "offset": 36
-            },
-            "end": {
-              "line": 2,
-              "column": 58,
-              "offset": 58
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "13-13s.rules"
-          }
-        },
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "13-13s.axes.colors.silver",
-            "id": "s4rnqejfacu2h5a1i9d88ql",
-            "vaultName": "TRWBL"
-          },
-          "value": "13-13s.axes.spaces",
-          "alias": "holders of spaces",
-          "position": {
-            "start": {
-              "line": 2,
-              "column": 100,
-              "offset": 100
-            },
-            "end": {
-              "line": 2,
-              "column": 140,
-              "offset": 140
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "13-13s.axes.spaces"
-          }
-        }
-      ],
-      "anchors": {},
       "children": [],
-      "parent": "plsegjmb7w5pr26udquimph",
+      "parent": "u68x9dgujhgq1ode6yce0qh",
       "data": {}
     },
     "krf1iaj278mz3nyqcywg8pa": {
@@ -2523,7 +2741,6 @@
         "permalink": "/"
       },
       "fname": "root",
-      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n",
       "type": "note",
       "vault": {
         "fsPath": ".",
@@ -2648,12 +2865,15 @@
         "0kpwtvbizo8p5kwm7ut8z4u",
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
+        "dr794to5a3oswlo3dpjc8kv",
         "877hdm78cgmgv9e33ly0s4r",
-        "otfp9itf9ycjy3lf3312gq2",
-        "miefx31q2sgnvrka0v040g7"
+        "0a863eozcg4h4pt9v3n27t3",
+        "ml4c4wuhe3e8cr0jnnsmy1x",
+        "bhswvjrpaxt5j7d3fmvagxk"
       ],
       "parent": null,
-      "data": {}
+      "data": {},
+      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n"
     }
   ],
   "noteIndex": {
@@ -2667,7 +2887,6 @@
       "permalink": "/"
     },
     "fname": "root",
-    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n",
     "type": "note",
     "vault": {
       "fsPath": ".",
@@ -2792,12 +3011,15 @@
       "0kpwtvbizo8p5kwm7ut8z4u",
       "ypu9ulohotwrez78fsejofb",
       "t70n32fovw6k11p2ffwejej",
+      "dr794to5a3oswlo3dpjc8kv",
       "877hdm78cgmgv9e33ly0s4r",
-      "otfp9itf9ycjy3lf3312gq2",
-      "miefx31q2sgnvrka0v040g7"
+      "0a863eozcg4h4pt9v3n27t3",
+      "ml4c4wuhe3e8cr0jnnsmy1x",
+      "bhswvjrpaxt5j7d3fmvagxk"
     ],
     "parent": null,
-    "data": {}
+    "data": {},
+    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.\n\nThje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n"
   },
   "vaults": [
     {

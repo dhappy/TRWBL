@@ -1,6 +1,9 @@
 
 # Yggdrasil
 
+![Yggdrasil](assets/images/Yggdrasil.svg)
+
+
 13 13s is the basic structure of the augmented reality game Yggdrasil. There are 13 axes each with 13 elements. There are 13 teams, each of which is mapped to one element on each axis.
 
 There are 13 tokens and 13 essential needs. The token is supposed to exchange very favorably for its associated need. Food, for instance, is really cheap in orange tokens, and shelter in brown.
@@ -12,7 +15,3 @@ All spaces within the system are alloted at each round in proportion to the prev
 ## Coordinating With The Establishment
 
 Two of the needs, Substances and Sex, put the game at potential odds with law enforcement. The other teams, of which the existing establishment is one: the gold team, coordinate to help back credible retaliatory threats.
-
-![Teams](assets/images/teams.svg)
-
-![Shifted Teams](assets/images/shifted%20teams.svg)

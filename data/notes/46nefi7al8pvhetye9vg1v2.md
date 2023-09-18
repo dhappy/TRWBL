@@ -14,7 +14,7 @@
 
 * **Alignments: ^alignments** Allow the 13 teams of Yggdrasil to coordinate with each other to allocate the 13 axes. Each teams starts by specifying their optimal layout. This program would also contain other aspects of team coordination such as the various bonding curves for token swapping.
 
-* **Code: ^code** There are 13 projects. Participants may be members of multiple teams to varying extents. Development is through a series of pair programming meetings where the developers pass off control of the codebase from one pair to another. Peers review the process and based on their evaluations reputations are formed.
+* **[[Pairs|13-13s.axes.projects.pairs]]: ^pairs** There are 13 projects. Participants may be members of multiple teams to varying extents. Development is through a series of pair programming meetings where the developers pass off control of the codebase from one pair to another. Peers review the process and based on their evaluations reputations are formed.
 
 * **Mïmis: ^mimis** A distributed graph database of versioned XML documents holding, initially, bunches of variations of SVGs and unzipped EPub books. In addition to the traditional file tree, other contexts will be available for reference; such as recolorings of SVGs or collections of icons.
 
