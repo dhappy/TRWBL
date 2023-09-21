@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1695019965398,
-      "created": 1695019965398,
+      "updated": 1695291647678,
+      "created": 1695291647678,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -157,58 +157,14 @@
         "t70n32fovw6k11p2ffwejej",
         "dr794to5a3oswlo3dpjc8kv",
         "877hdm78cgmgv9e33ly0s4r",
-        "0a863eozcg4h4pt9v3n27t3",
-        "ml4c4wuhe3e8cr0jnnsmy1x",
-        "bhswvjrpaxt5j7d3fmvagxk"
+        "60txnzgszf25i9dfpy0yi54",
+        "6nyfdtcqpbfu07cbz78q7q9",
+        "lmdejho2n957b3nz10isse8"
       ],
       "parent": null,
       "data": {}
     },
-    "bhswvjrpaxt5j7d3fmvagxk": {
-      "fname": "Pairs",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1695019824969,
-      "created": 1695019824969,
-      "id": "bhswvjrpaxt5j7d3fmvagxk",
-      "desc": "",
-      "links": [
-        {
-          "from": {
-            "fname": "13-13s.axes.projects",
-            "id": "46nefi7al8pvhetye9vg1v2",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 17,
-              "column": 5,
-              "offset": 1715
-            },
-            "end": {
-              "line": 17,
-              "column": 14,
-              "offset": 1724
-            },
-            "indent": []
-          },
-          "value": "Pairs"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "ycfbd2a8x41gi0smmpufk0o",
-      "data": {},
-      "title": "Pairs",
-      "contentHash": "423176a2d2529fd1a43685ecca33376b"
-    },
-    "ml4c4wuhe3e8cr0jnnsmy1x": {
+    "lmdejho2n957b3nz10isse8": {
       "fname": "proposals",
       "stub": true,
       "vault": {
@@ -218,20 +174,20 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1695019269319,
-      "created": 1695019269319,
-      "id": "ml4c4wuhe3e8cr0jnnsmy1x",
+      "updated": 1695291271462,
+      "created": 1695291271462,
+      "id": "lmdejho2n957b3nz10isse8",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "dbwloktwdiw18rkz9s4lu6w"
+        "it0uauqkgag3mqd0emrksra"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {},
       "title": "Proposals"
     },
-    "dbwloktwdiw18rkz9s4lu6w": {
+    "it0uauqkgag3mqd0emrksra": {
       "fname": "proposals.metacartel",
       "stub": true,
       "vault": {
@@ -241,9 +197,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1695019269320,
-      "created": 1695019269320,
-      "id": "dbwloktwdiw18rkz9s4lu6w",
+      "updated": 1695291271462,
+      "created": 1695291271462,
+      "id": "it0uauqkgag3mqd0emrksra",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -251,7 +207,7 @@
         "optc00u1kjkfz656tnghfu7",
         "l8g0vja9faraw5vkigrqqmc"
       ],
-      "parent": "ml4c4wuhe3e8cr0jnnsmy1x",
+      "parent": "lmdejho2n957b3nz10isse8",
       "data": {},
       "title": "Metacartel"
     },
@@ -357,7 +313,7 @@
         }
       },
       "children": [],
-      "parent": "dbwloktwdiw18rkz9s4lu6w",
+      "parent": "it0uauqkgag3mqd0emrksra",
       "data": {}
     },
     "optc00u1kjkfz656tnghfu7": {
@@ -470,10 +426,1648 @@
         }
       },
       "children": [],
-      "parent": "dbwloktwdiw18rkz9s4lu6w",
+      "parent": "it0uauqkgag3mqd0emrksra",
       "data": {}
     },
-    "0a863eozcg4h4pt9v3n27t3": {
+    "6nyfdtcqpbfu07cbz78q7q9": {
+      "fname": "writings",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1695291271432,
+      "created": 1695291271432,
+      "id": "6nyfdtcqpbfu07cbz78q7q9",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "abkcs3vhd5zeg6nitjezndx"
+      ],
+      "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {},
+      "title": "Writings"
+    },
+    "abkcs3vhd5zeg6nitjezndx": {
+      "id": "abkcs3vhd5zeg6nitjezndx",
+      "title": "Discord Quotations",
+      "desc": "",
+      "updated": 1695284139889,
+      "created": 1695260603790,
+      "custom": {},
+      "fname": "writings.discord",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "530c1b5f9c53c2ef26adc1097509ffd2",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord",
+            "id": "abkcs3vhd5zeg6nitjezndx",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server",
+          "alias": "2022–2023⁄09⁄21: Department of Happiness server",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 3,
+              "offset": 2
+            },
+            "end": {
+              "line": 1,
+              "column": 98,
+              "offset": 97
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord",
+            "id": "abkcs3vhd5zeg6nitjezndx",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2023⁄09⁄21-to-travellingthroughtime",
+          "alias": "2023⁄09⁄21: Response to @TravelingThroughTime on the Arkology server",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 100
+            },
+            "end": {
+              "line": 2,
+              "column": 128,
+              "offset": 225
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2023⁄09⁄21-to-travellingthroughtime"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "hydkpabz319dsx1aalftjtu",
+        "9aloo3gwcdcz3x01jk23dkf"
+      ],
+      "parent": "6nyfdtcqpbfu07cbz78q7q9",
+      "data": {}
+    },
+    "9aloo3gwcdcz3x01jk23dkf": {
+      "id": "9aloo3gwcdcz3x01jk23dkf",
+      "title": "2023/09/21𝄈 to @TravelingThroughTime",
+      "desc": "",
+      "updated": 1695276222696,
+      "created": 1695275958017,
+      "custom": {},
+      "fname": "writings.discord.2023⁄09⁄21-to-travelingthroughtime",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "404d49399e2c52ec6ac25071cfaa2d1b",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2023⁄09⁄21-to-travelingthroughtime",
+            "id": "9aloo3gwcdcz3x01jk23dkf",
+            "vaultName": "TRWBL"
+          },
+          "value": "a Dendron notebook describing the story",
+          "alias": "root",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 441,
+              "offset": 3162
+            },
+            "end": {
+              "line": 15,
+              "column": 489,
+              "offset": 3210
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "a Dendron notebook describing the story"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "abkcs3vhd5zeg6nitjezndx",
+      "data": {}
+    },
+    "hydkpabz319dsx1aalftjtu": {
+      "id": "hydkpabz319dsx1aalftjtu",
+      "title": "2022–2023/09/21𝄈 Dept. of Happiness' Server",
+      "desc": "",
+      "updated": 1695291299502,
+      "created": 1695277240403,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "e4c4900bd2563772efd26cdff450a8ed",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 5,
+              "offset": 4
+            },
+            "end": {
+              "line": 1,
+              "column": 15,
+              "offset": 14
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.gold",
+          "alias": "🥇︱gold︱🥇",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 5,
+              "offset": 70
+            },
+            "end": {
+              "line": 4,
+              "column": 74,
+              "offset": 139
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.gold"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.blaze",
+          "alias": "🍊︱blaze︱🍊",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 5,
+              "offset": 144
+            },
+            "end": {
+              "line": 5,
+              "column": 76,
+              "offset": 215
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.blaze"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.green",
+          "alias": "🥬︱green︱🥗",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 220
+            },
+            "end": {
+              "line": 6,
+              "column": 76,
+              "offset": 291
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.green"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.brown",
+          "alias": "🧸︱brown︱🐻",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 296
+            },
+            "end": {
+              "line": 7,
+              "column": 76,
+              "offset": 367
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.brown"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.silver",
+          "alias": "🥈︱silver︱⚔",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 372
+            },
+            "end": {
+              "line": 8,
+              "column": 77,
+              "offset": 444
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.silver"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+          "alias": "🥉︱bronze︱¢",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 5,
+              "offset": 449
+            },
+            "end": {
+              "line": 9,
+              "column": 77,
+              "offset": 521
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.cyan",
+          "alias": "🏙︱cyan︱🌊",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 5,
+              "offset": 526
+            },
+            "end": {
+              "line": 10,
+              "column": 74,
+              "offset": 595
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.cyan"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.grey",
+          "alias": "👴︱grey︱👵",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 5,
+              "offset": 600
+            },
+            "end": {
+              "line": 11,
+              "column": 74,
+              "offset": 669
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.grey"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.white",
+          "alias": "👻︱white︱☠",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 5,
+              "offset": 674
+            },
+            "end": {
+              "line": 12,
+              "column": 75,
+              "offset": 744
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.white"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.black",
+          "alias": "🧑🏿︱black︱🙆🏿",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 5,
+              "offset": 749
+            },
+            "end": {
+              "line": 13,
+              "column": 80,
+              "offset": 824
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.black"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.yellow",
+          "alias": "🐈︱yellow︱🐱",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 5,
+              "offset": 829
+            },
+            "end": {
+              "line": 14,
+              "column": 78,
+              "offset": 902
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.yellow"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.peach",
+          "alias": "🍑︱peach︱🦚",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 5,
+              "offset": 907
+            },
+            "end": {
+              "line": 15,
+              "column": 76,
+              "offset": 978
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.peach"
+          }
+        },
+        {
+          "from": {
+            "fname": "writings.discord",
+            "id": "abkcs3vhd5zeg6nitjezndx",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 3,
+              "offset": 2
+            },
+            "end": {
+              "line": 1,
+              "column": 98,
+              "offset": 97
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "m7vrwmqe0i72vktq5q2e4sk"
+      ],
+      "parent": "abkcs3vhd5zeg6nitjezndx",
+      "data": {}
+    },
+    "m7vrwmqe0i72vktq5q2e4sk": {
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1695291271513,
+      "created": 1695291271514,
+      "id": "m7vrwmqe0i72vktq5q2e4sk",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hsshcsx6c6s6eyp1a5vw5gv",
+        "1teo9zcbmkrenphwe3fjjng",
+        "0qe94zkyg5q55w5zekwy68q",
+        "1nnk806678ervpcclnay7qk",
+        "1tr9c4s8irsvbp3g46p4lw1",
+        "zpg2rc5m1gvo4kmdugpynrk",
+        "25y7hl8a0untoe61g290244",
+        "2peg2v4chufb18fbyrwx2c0",
+        "nrehjonc271kpj7vqt3si55",
+        "9ua2j4t5mk0e3g771s1redv",
+        "g3qgyc04tqczqtndsk92o12",
+        "yhya7dsl3puh82wuskwjk32"
+      ],
+      "parent": "hydkpabz319dsx1aalftjtu",
+      "data": {},
+      "title": "Color"
+    },
+    "yhya7dsl3puh82wuskwjk32": {
+      "id": "yhya7dsl3puh82wuskwjk32",
+      "title": "Yellow Team",
+      "desc": "",
+      "updated": 1695291210264,
+      "created": 1695291154631,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.yellow",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "9a66413efcad5441a0daccd3bb126164",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 5,
+              "offset": 829
+            },
+            "end": {
+              "line": 14,
+              "column": 78,
+              "offset": 902
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.yellow"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "g3qgyc04tqczqtndsk92o12": {
+      "id": "g3qgyc04tqczqtndsk92o12",
+      "title": "White Team",
+      "desc": "",
+      "updated": 1695291434175,
+      "created": 1695290988063,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.white",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "c1c9b96c5b9ee30a305c4dc1e8c5b7ba",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 5,
+              "offset": 674
+            },
+            "end": {
+              "line": 12,
+              "column": 75,
+              "offset": 744
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.white"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "9ua2j4t5mk0e3g771s1redv": {
+      "id": "9ua2j4t5mk0e3g771s1redv",
+      "title": "Silver Team",
+      "desc": "",
+      "updated": 1695291315473,
+      "created": 1695290513042,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.silver",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "cad6735fd1e7009ac3680391e4e81c96",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 372
+            },
+            "end": {
+              "line": 8,
+              "column": 77,
+              "offset": 444
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.silver"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "nrehjonc271kpj7vqt3si55": {
+      "id": "nrehjonc271kpj7vqt3si55",
+      "title": "Peach Team",
+      "desc": "",
+      "updated": 1695291427662,
+      "created": 1695291242091,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.peach",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "1b0a5072155fb05c2f766c97755a5cbf",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 5,
+              "offset": 907
+            },
+            "end": {
+              "line": 15,
+              "column": 76,
+              "offset": 978
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.peach"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "2peg2v4chufb18fbyrwx2c0": {
+      "id": "2peg2v4chufb18fbyrwx2c0",
+      "title": "Grey Team",
+      "desc": "",
+      "updated": 1695291419966,
+      "created": 1695290767689,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.grey",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "a8ac215f7d01e37bc937fa1959302f75",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 5,
+              "offset": 600
+            },
+            "end": {
+              "line": 11,
+              "column": 74,
+              "offset": 669
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.grey"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "25y7hl8a0untoe61g290244": {
+      "id": "25y7hl8a0untoe61g290244",
+      "title": "Green Team",
+      "desc": "",
+      "updated": 1695291403652,
+      "created": 1695278492134,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.green",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "878dc2f59fbb06a96db28b8fa488ada0",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 220
+            },
+            "end": {
+              "line": 6,
+              "column": 76,
+              "offset": 291
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.green"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "zpg2rc5m1gvo4kmdugpynrk": {
+      "id": "zpg2rc5m1gvo4kmdugpynrk",
+      "title": "Gold Team",
+      "desc": "",
+      "updated": 1695291504940,
+      "created": 1695278170333,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.gold",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "d6affe7fe62c3a2e0ca3b98ef846a893",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.gold",
+            "id": "zpg2rc5m1gvo4kmdugpynrk",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🐽︱pink︱🐽",
+          "alias": "#🐽︱pink︱🐽",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 115,
+              "offset": 129
+            },
+            "end": {
+              "line": 3,
+              "column": 126,
+              "offset": 140
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🐽︱pink︱🐽"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.gold",
+            "id": "zpg2rc5m1gvo4kmdugpynrk",
+            "vaultName": "TRWBL"
+          },
+          "value": "user.Heterotic",
+          "alias": "@Heterotic",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 16,
+              "offset": 1255
+            },
+            "end": {
+              "line": 19,
+              "column": 26,
+              "offset": 1265
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.Heterotic"
+          }
+        },
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 5,
+              "offset": 70
+            },
+            "end": {
+              "line": 4,
+              "column": 74,
+              "offset": 139
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.gold"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "1tr9c4s8irsvbp3g46p4lw1": {
+      "id": "1tr9c4s8irsvbp3g46p4lw1",
+      "title": "Cyan Team",
+      "desc": "",
+      "updated": 1695291389029,
+      "created": 1695290721358,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.cyan",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "82be9c012ab208518aeb438ec2633f94",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 5,
+              "offset": 526
+            },
+            "end": {
+              "line": 10,
+              "column": 74,
+              "offset": 595
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.cyan"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "1nnk806678ervpcclnay7qk": {
+      "id": "1nnk806678ervpcclnay7qk",
+      "title": "Brown Team",
+      "desc": "",
+      "updated": 1695291488828,
+      "created": 1695278597455,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.brown",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "4ccb9fd44ff8711f21274a3e8306f5fc",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 296
+            },
+            "end": {
+              "line": 7,
+              "column": 76,
+              "offset": 367
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.brown"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "0qe94zkyg5q55w5zekwy68q": {
+      "id": "0qe94zkyg5q55w5zekwy68q",
+      "title": "Bronze Team",
+      "desc": "",
+      "updated": 1695291473759,
+      "created": 1695290616642,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ac1d8fd634b23ab32ae7702fe99b2eb9",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🥇︱gold︱🥇",
+          "alias": "#🥇︱gold︱🥇",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 40,
+              "offset": 196
+            },
+            "end": {
+              "line": 7,
+              "column": 51,
+              "offset": 207
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🥇︱gold︱🥇"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🐽︱pink︱🐽",
+          "alias": "#🐽︱pink︱🐽",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 53,
+              "offset": 209
+            },
+            "end": {
+              "line": 7,
+              "column": 64,
+              "offset": 220
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🐽︱pink︱🐽"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🍊︱blaze︱🍊.",
+          "alias": "#🍊︱blaze︱🍊.",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 68,
+              "offset": 224
+            },
+            "end": {
+              "line": 7,
+              "column": 81,
+              "offset": 237
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🍊︱blaze︱🍊."
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🥬︱green︱🥗",
+          "alias": "#🥬︱green︱🥗",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 115,
+              "offset": 271
+            },
+            "end": {
+              "line": 7,
+              "column": 127,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🥬︱green︱🥗"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🧸︱brown︱🐻",
+          "alias": "#🧸︱brown︱🐻",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 129,
+              "offset": 285
+            },
+            "end": {
+              "line": 7,
+              "column": 141,
+              "offset": 297
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🧸︱brown︱🐻"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🥈︱silver︱⚔.",
+          "alias": "#🥈︱silver︱⚔.",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 145,
+              "offset": 301
+            },
+            "end": {
+              "line": 7,
+              "column": 158,
+              "offset": 314
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🥈︱silver︱⚔."
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🥉︱bronze︱¢",
+          "alias": "#🥉︱bronze︱¢",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 219,
+              "offset": 375
+            },
+            "end": {
+              "line": 7,
+              "column": 231,
+              "offset": 387
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🥉︱bronze︱¢"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🏙︱cyan︱🌊",
+          "alias": "#🏙︱cyan︱🌊",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 233,
+              "offset": 389
+            },
+            "end": {
+              "line": 7,
+              "column": 244,
+              "offset": 400
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🏙︱cyan︱🌊"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.👴︱grey︱👵",
+          "alias": "#👴︱grey︱👵",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 246,
+              "offset": 402
+            },
+            "end": {
+              "line": 7,
+              "column": 257,
+              "offset": 413
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.👴︱grey︱👵"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.👻︱white︱☠",
+          "alias": "#👻︱white︱☠",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 259,
+              "offset": 415
+            },
+            "end": {
+              "line": 7,
+              "column": 270,
+              "offset": 426
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.👻︱white︱☠"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🧑🏿︱black︱🙆🏿",
+          "alias": "#🧑🏿︱black︱🙆🏿",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 272,
+              "offset": 428
+            },
+            "end": {
+              "line": 7,
+              "column": 288,
+              "offset": 444
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🧑🏿︱black︱🙆🏿"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🐈︱yellow︱🐱",
+          "alias": "#🐈︱yellow︱🐱",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 290,
+              "offset": 446
+            },
+            "end": {
+              "line": 7,
+              "column": 303,
+              "offset": 459
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🐈︱yellow︱🐱"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze",
+            "id": "0qe94zkyg5q55w5zekwy68q",
+            "vaultName": "TRWBL"
+          },
+          "value": "tags.🍑︱peach︱🦚.",
+          "alias": "#🍑︱peach︱🦚.",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 307,
+              "offset": 463
+            },
+            "end": {
+              "line": 7,
+              "column": 320,
+              "offset": 476
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.🍑︱peach︱🦚."
+          }
+        },
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 5,
+              "offset": 449
+            },
+            "end": {
+              "line": 9,
+              "column": 77,
+              "offset": 521
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.bronze"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "1teo9zcbmkrenphwe3fjjng": {
+      "id": "1teo9zcbmkrenphwe3fjjng",
+      "title": "Blaze Team",
+      "desc": "",
+      "updated": 1695291465737,
+      "created": 1695278397744,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.blaze",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "2c4c5c26013cfd97faf59dd07bffe0ac",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 5,
+              "offset": 144
+            },
+            "end": {
+              "line": 5,
+              "column": 76,
+              "offset": 215
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.blaze"
+        }
+      ],
+      "anchors": {
+        "20220905": {
+          "type": "header",
+          "text": "2022⁄09⁄05",
+          "value": "20220905",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "hsshcsx6c6s6eyp1a5vw5gv": {
+      "id": "hsshcsx6c6s6eyp1a5vw5gv",
+      "title": "Black Team",
+      "desc": "",
+      "updated": 1695291127887,
+      "created": 1695291044703,
+      "custom": {},
+      "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color.black",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "4e922e69e1ba266f78a72d563ca0c59a",
+      "links": [
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 5,
+              "offset": 749
+            },
+            "end": {
+              "line": 13,
+              "column": 80,
+              "offset": 824
+            },
+            "indent": []
+          },
+          "value": "writings.discord.2022-2023⁄09⁄21-doh-server.color.black"
+        }
+      ],
+      "anchors": {
+        "20220629": {
+          "type": "header",
+          "text": "2022⁄06⁄29",
+          "value": "20220629",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "m7vrwmqe0i72vktq5q2e4sk",
+      "data": {}
+    },
+    "60txnzgszf25i9dfpy0yi54": {
       "fname": "procedures",
       "stub": true,
       "vault": {
@@ -483,9 +2077,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1695019269274,
-      "created": 1695019269274,
-      "id": "0a863eozcg4h4pt9v3n27t3",
+      "updated": 1695291271413,
+      "created": 1695291271413,
+      "id": "60txnzgszf25i9dfpy0yi54",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -518,7 +2112,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "0a863eozcg4h4pt9v3n27t3",
+      "parent": "60txnzgszf25i9dfpy0yi54",
       "data": {}
     },
     "zy2z0cm580djy9r1mv5hfpv": {
@@ -542,7 +2136,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "0a863eozcg4h4pt9v3n27t3",
+      "parent": "60txnzgszf25i9dfpy0yi54",
       "data": {}
     },
     "877hdm78cgmgv9e33ly0s4r": {
@@ -591,9 +2185,31 @@
       "anchors": {},
       "children": [
         "hlv2egjfe5h8ee5kzf9cr8s",
-        "nwqfghw85q6a8m8o3xq40wx"
+        "nwqfghw85q6a8m8o3xq40wx",
+        "05zmvq61uzjbtj46528oq5u"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "05zmvq61uzjbtj46528oq5u": {
+      "id": "05zmvq61uzjbtj46528oq5u",
+      "title": "Kite in the Air",
+      "desc": "",
+      "updated": 1695260511332,
+      "created": 1695259875193,
+      "custom": {},
+      "fname": "vingnettes.kite-in-the-air",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "b8d854f266da114ef1e53b3d8cebb373",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dr794to5a3oswlo3dpjc8kv",
       "data": {}
     },
     "nwqfghw85q6a8m8o3xq40wx": {
@@ -964,6 +2580,28 @@
               "line": 6,
               "column": 104,
               "offset": 417
+            },
+            "indent": []
+          },
+          "value": "13-13s"
+        },
+        {
+          "from": {
+            "fname": "writings.discord.2022-2023⁄09⁄21-doh-server",
+            "id": "hydkpabz319dsx1aalftjtu",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 5,
+              "offset": 4
+            },
+            "end": {
+              "line": 1,
+              "column": 15,
+              "offset": 14
             },
             "indent": []
           },
@@ -1624,7 +3262,7 @@
       "id": "46nefi7al8pvhetye9vg1v2",
       "title": "Projects",
       "desc": "",
-      "updated": 1695019881056,
+      "updated": 1695289645759,
       "created": 1694070085015,
       "nav_order": 30,
       "custom": {
@@ -1637,8 +3275,64 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "92a17c9b0322b3b2986f32ffdbf4070f",
+      "contentHash": "4de4b4a337059b091bcd78619296d573",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.projects.market",
+          "alias": "The New Black Market",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 4,
+              "column": 57,
+              "offset": 366
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.projects.market"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "value": "13-13s.axes.projects.courier",
+          "alias": "Courier",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 575
+            },
+            "end": {
+              "line": 6,
+              "column": 45,
+              "offset": 615
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "13-13s.axes.projects.courier"
+          }
+        },
         {
           "type": "wiki",
           "from": {
@@ -1651,12 +3345,12 @@
             "start": {
               "line": 12,
               "column": 115,
-              "offset": 1251
+              "offset": 1326
             },
             "end": {
               "line": 12,
               "column": 136,
-              "offset": 1272
+              "offset": 1347
             },
             "indent": []
           },
@@ -1679,12 +3373,12 @@
             "start": {
               "line": 13,
               "column": 40,
-              "offset": 1312
+              "offset": 1387
             },
             "end": {
               "line": 13,
               "column": 57,
-              "offset": 1329
+              "offset": 1404
             },
             "indent": []
           },
@@ -1708,12 +3402,12 @@
             "start": {
               "line": 17,
               "column": 5,
-              "offset": 1715
+              "offset": 1790
             },
             "end": {
               "line": 17,
               "column": 41,
-              "offset": 1751
+              "offset": 1826
             },
             "indent": []
           },
@@ -1735,12 +3429,12 @@
             "start": {
               "line": 21,
               "column": 99,
-              "offset": 2466
+              "offset": 2541
             },
             "end": {
               "line": 21,
               "column": 116,
-              "offset": 2483
+              "offset": 2558
             },
             "indent": []
           },
@@ -1763,12 +3457,12 @@
             "start": {
               "line": 25,
               "column": 153,
-              "offset": 2709
+              "offset": 2784
             },
             "end": {
               "line": 25,
               "column": 168,
-              "offset": 2724
+              "offset": 2799
             },
             "indent": []
           },
@@ -1791,12 +3485,12 @@
             "start": {
               "line": 25,
               "column": 181,
-              "offset": 2737
+              "offset": 2812
             },
             "end": {
               "line": 25,
               "column": 196,
-              "offset": 2752
+              "offset": 2827
             },
             "indent": []
           },
@@ -1840,12 +3534,12 @@
             "start": {
               "line": 12,
               "column": 115,
-              "offset": 1251
+              "offset": 1326
             },
             "end": {
               "line": 12,
               "column": 136,
-              "offset": 1272
+              "offset": 1347
             },
             "indent": []
           },
@@ -1862,12 +3556,12 @@
             "start": {
               "line": 13,
               "column": 40,
-              "offset": 1312
+              "offset": 1387
             },
             "end": {
               "line": 13,
               "column": 57,
-              "offset": 1329
+              "offset": 1404
             },
             "indent": []
           },
@@ -1884,12 +3578,12 @@
             "start": {
               "line": 21,
               "column": 99,
-              "offset": 2433
+              "offset": 2541
             },
             "end": {
               "line": 21,
               "column": 116,
-              "offset": 2450
+              "offset": 2558
             },
             "indent": []
           },
@@ -1906,12 +3600,12 @@
             "start": {
               "line": 25,
               "column": 153,
-              "offset": 2676
+              "offset": 2784
             },
             "end": {
               "line": 25,
               "column": 168,
-              "offset": 2691
+              "offset": 2799
             },
             "indent": []
           },
@@ -1928,12 +3622,12 @@
             "start": {
               "line": 25,
               "column": 181,
-              "offset": 2704
+              "offset": 2812
             },
             "end": {
               "line": 25,
               "column": 196,
-              "offset": 2719
+              "offset": 2827
             },
             "indent": []
           },
@@ -1951,13 +3645,13 @@
           "type": "block",
           "value": "substances",
           "line": 11,
-          "column": 16
+          "column": 58
         },
         "^courier": {
           "type": "block",
           "value": "courier",
           "line": 13,
-          "column": 13
+          "column": 46
         },
         "^dashcam": {
           "type": "block",
@@ -2015,6 +3709,8 @@
         }
       },
       "children": [
+        "a3wx4f4ohmne8lcka59gkdu",
+        "950aqp7aas21glbho4mlvxj",
         "i2efue9tpvo904olulmykjp"
       ],
       "parent": "u68x9dgujhgq1ode6yce0qh",
@@ -2024,7 +3720,7 @@
       "id": "i2efue9tpvo904olulmykjp",
       "title": "Serial Pairs",
       "desc": "",
-      "updated": 1695019794282,
+      "updated": 1695284182770,
       "created": 1695019466131,
       "custom": {},
       "fname": "13-13s.axes.projects.pairs",
@@ -2034,7 +3730,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "2c27ecb2bd9d2417b0ff434a8b88f39f",
+      "contentHash": "2740cfa8f26630c965526e9890b32751",
       "links": [
         {
           "from": {
@@ -2047,12 +3743,12 @@
             "start": {
               "line": 17,
               "column": 5,
-              "offset": 1715
+              "offset": 1790
             },
             "end": {
               "line": 17,
               "column": 41,
-              "offset": 1751
+              "offset": 1826
             },
             "indent": []
           },
@@ -2064,7 +3760,7 @@
           "type": "header",
           "text": "Interfaces",
           "value": "interfaces",
-          "line": 11,
+          "line": 13,
           "column": 0,
           "depth": 2
         },
@@ -2072,7 +3768,23 @@
           "type": "header",
           "text": "Scheduling",
           "value": "scheduling",
-          "line": 15,
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "scheduling-incentives": {
+          "type": "header",
+          "text": "Scheduling Incentives",
+          "value": "scheduling-incentives",
+          "line": 48,
+          "column": 0,
+          "depth": 4
+        },
+        "transition": {
+          "type": "header",
+          "text": "Transition",
+          "value": "transition",
+          "line": 52,
           "column": 0,
           "depth": 3
         },
@@ -2080,7 +3792,7 @@
           "type": "header",
           "text": "Execution",
           "value": "execution",
-          "line": 26,
+          "line": 68,
           "column": 0,
           "depth": 3
         },
@@ -2088,19 +3800,115 @@
           "type": "header",
           "text": "Review",
           "value": "review",
-          "line": 36,
+          "line": 76,
           "column": 0,
           "depth": 3
+        },
+        "incentives": {
+          "type": "header",
+          "text": "Incentives",
+          "value": "incentives",
+          "line": 84,
+          "column": 0,
+          "depth": 4
         },
         "technologies": {
           "type": "header",
           "text": "Technologies",
           "value": "technologies",
-          "line": 46,
+          "line": 90,
           "column": 0,
           "depth": 2
         }
       },
+      "children": [],
+      "parent": "46nefi7al8pvhetye9vg1v2",
+      "data": {}
+    },
+    "950aqp7aas21glbho4mlvxj": {
+      "id": "950aqp7aas21glbho4mlvxj",
+      "title": "The New Black Market",
+      "desc": "",
+      "updated": 1695291323607,
+      "created": 1695285069053,
+      "custom": {},
+      "fname": "13-13s.axes.projects.market",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ec4393891fcf62605580ad181b219514",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 4,
+              "column": 57,
+              "offset": 366
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects.market"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "46nefi7al8pvhetye9vg1v2",
+      "data": {}
+    },
+    "a3wx4f4ohmne8lcka59gkdu": {
+      "id": "a3wx4f4ohmne8lcka59gkdu",
+      "title": "Courier Service",
+      "desc": "",
+      "updated": 1695285010430,
+      "created": 1695284612841,
+      "custom": {},
+      "fname": "13-13s.axes.projects.courier",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "532f1bf238fbff06c7eb4266a2d4ca0f",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 575
+            },
+            "end": {
+              "line": 6,
+              "column": 45,
+              "offset": 615
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects.courier"
+        }
+      ],
+      "anchors": {},
       "children": [],
       "parent": "46nefi7al8pvhetye9vg1v2",
       "data": {}
@@ -2867,9 +4675,9 @@
         "t70n32fovw6k11p2ffwejej",
         "dr794to5a3oswlo3dpjc8kv",
         "877hdm78cgmgv9e33ly0s4r",
-        "0a863eozcg4h4pt9v3n27t3",
-        "ml4c4wuhe3e8cr0jnnsmy1x",
-        "bhswvjrpaxt5j7d3fmvagxk"
+        "60txnzgszf25i9dfpy0yi54",
+        "6nyfdtcqpbfu07cbz78q7q9",
+        "lmdejho2n957b3nz10isse8"
       ],
       "parent": null,
       "data": {},
@@ -3013,9 +4821,9 @@
       "t70n32fovw6k11p2ffwejej",
       "dr794to5a3oswlo3dpjc8kv",
       "877hdm78cgmgv9e33ly0s4r",
-      "0a863eozcg4h4pt9v3n27t3",
-      "ml4c4wuhe3e8cr0jnnsmy1x",
-      "bhswvjrpaxt5j7d3fmvagxk"
+      "60txnzgszf25i9dfpy0yi54",
+      "6nyfdtcqpbfu07cbz78q7q9",
+      "lmdejho2n957b3nz10isse8"
     ],
     "parent": null,
     "data": {},

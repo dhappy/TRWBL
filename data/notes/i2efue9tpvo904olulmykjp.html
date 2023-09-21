@@ -1,33 +1,63 @@
 <h1 id="serial-pairs">Serial Pairs<a aria-hidden="true" class="anchor-heading icon-link" href="#serial-pairs"></a></h1>
-<p>This is a framework to support the organization of continual work on a project by scheduling a series of overlapping pair programming sessions. Adjacent pairs of developers have an overlap to allow the departing pair to commit all their work &#x26; brief the incoming pair of their progress. All work is both streamed and recorded. Participants receive a base payment for being present for a session and recording a video. That compensation, however, can be more than doubled based on peer review performed either live or on the recording of the event.</p>
+<p>This is a framework to support the organization of continual work on a project by scheduling a series of overlapping pair programming sessions. Adjacent pairs of developers have an overlap to allow the departing pair to brief the incoming pair of their progress.</p>
+<p>All work is both streamed and recorded. Participants receive a base payment for being present for a session and recording a video. That compensation, however, can be more than doubled based on peer review of the session stream.</p>
 <p>The goal is to provide a resource for architects who have a reasonably well structured project description, but don't have the resources to build a development organization. Also, the recordings will capture the entire development process for the program, and, when combined with the review metadata should provide interested parties a live "blame" view of the author's thinking for each piece of code.</p>
 <h2 id="interfaces">Interfaces<a aria-hidden="true" class="anchor-heading icon-link" href="#interfaces"></a></h2>
-<p>There are three primary interfaces used to orchestrate the endeavor: scheduling, execution, and review.</p>
-<h3 id="scheduling">Scheduling<a aria-hidden="true" class="anchor-heading icon-link" href="#scheduling"></a></h3>
-<p>A session has at least two participants: the Navigator and the Driver. The Navigator described the code to be written while the Driver operates the keyboard. Pairs apply for sessions by providing a bid that includes:</p>
+<p>There are four primary interfaces used to orchestrate the endeavor:</p>
 <ul>
-<li>the time period they desire; both windows for start time and duration they would like the driver's seat</li>
-<li>a set of GitHub issues they intend to address</li>
-<li>an estimate of the progres they will make</li>
+<li><a href="#scheduling">Scheduling</a></li>
+<li><a href="#transition">Transition</a></li>
+<li><a href="/execution">Execution</a></li>
+<li><a href="#review">Review</a></li>
 </ul>
-<p>The community selects which applicants fill slots via a token-gated voting interface where decisions are ratified in sync with a rolling window. There is a basic participation token that anyone can mint. Beyond that though there are multiplier tokens which increase voters' influence. A project has a single primary architect who has the ability to distribute tokens <em>(and convey the ability for someone else to distribute tokens)</em>. Tokens can be destroyed via collective action.</p>
+<h3 id="scheduling">Scheduling<a aria-hidden="true" class="anchor-heading icon-link" href="#scheduling"></a></h3>
+<p>A session has at least three participants: the Navigator, the Driver, and a Witness. The Navigator described the code to be written while the Driver operates the keyboard.</p>
+<p>Navigators apply for sessions by providing:</p>
+<ul>
+<li>a minimum hourly rate they will accept</li>
+<li>the time slot they desire; because the time is dependant on the session before, they specify what they want as:
+<ul>
+<li>a minimum start time</li>
+<li>a maximum end time</li>
+<li>a minimum duration</li>
+<li>a preferred duration</li>
+<li>a maximum duration</li>
+</ul>
+</li>
+<li>a set of GitHub issues they intend to address</li>
+<li>a set of tasks they expect to accomplish</li>
+</ul>
+<p>Members of a planning circle maintain a GitHub project to rank issues and tasks so that would be Navigators know what to prioritize.</p>
+<p>Navigators are chosen using ranked choice ratings voted on by token holders. Drivers and Witnesses are then chosen by the Navigators. Once complete, the cost has to be approved for the entire set.</p>
+<p>There is a rolling window of five days by which a team should have been chosen. A backup team may also have a conditional bid approved.</p>
+<p>There are multiplier tokens which increase voters' influence. A project has a single primary Architect who has the ability to distribute tokens <em>(and the ability to distribute the ability to distribute tokens)</em>. Tokens can be destroyed via collective action.</p>
 <p>Five days in advance of a slot being worked, bids are chosen both for a worker and an on-call backup to take the session if the selected group doesn't make check-in.</p>
+<h4 id="scheduling-incentives">Scheduling Incentives<a aria-hidden="true" class="anchor-heading icon-link" href="#scheduling-incentives"></a></h4>
+<p>The expected minimum pay is $15 / hour for everyone with bonuses based on the result of the evaluation of the recording.</p>
+<h3 id="transition">Transition<a aria-hidden="true" class="anchor-heading icon-link" href="#transition"></a></h3>
+<p>An hour before the previous pair leaves, the next pair checks in and joins the stream of the departing pair.</p>
+<p>The Navigator has a ten minute window to make checkin. After that the system will attempt to replace the team with its backup.</p>
+<p>During the hour of overlap the incoming pair will get a stream key for the Driver to configure OBS on their system. The viewing key will be encrypted using Lit &#x26; made accessible to appropriate token and address holders.</p>
+<p>All participants in the call are encouraged to record in case there's some issue with the Driver's stream.</p>
+<p>Calls take place via a Discord video chat that has a bot bouncer limiting access to holders of specific addresses and tokens.</p>
+<p>The two pairs use the overlapping hour for the departing team to summarize their accomplishments &#x26; any outstanding tasks. Based on this feedback the coming pair may choose to alter the tasks they play to address.</p>
+<p>Eventually, the leaving pair makes a final commit and control passes to the new team.</p>
 <h3 id="execution">Execution<a aria-hidden="true" class="anchor-heading icon-link" href="#execution"></a></h3>
-<p>Once a session is slated to start, an hour before the intended start time, the pair have to check in and signal their continued intention to attempt to satisfy their bid. At the point they check in, they will receive stream keys necessary to configure OBS to broadcast their session to the internet where it is captured.</p>
-<p>The actual coding will be done via a Discord video chat for screen share, and sources shared using <a href="https://codesandbox.io">CodeSandbox</a> which allows collaborative editing either in the browser or VS Code.</p>
-<p>Once a pair's session starts there is an initial period where they join the previous pair's session. They get a brief of what progress was made, the departing team commits the state of their code, and summarizes their progress.</p>
-<p>If the departing team is in the midst of a coding push that can be completed within a relatively short period, they can request an extension if the current team agrees to reconvene to do a merge.</p>
+<p>A major component of compensation is based on input from a program that semantically breaks down the video into time periods of activities like debugging or new development or testing.</p>
+<p>Periods when the pair goes off track are marked as well as events like discovering a solution and writing code that doesn't conform to the syntax standards.</p>
+<p>During their session the participants have access to this review interface to create a first pass at marking the recording in real time.</p>
 <h3 id="review">Review<a aria-hidden="true" class="anchor-heading icon-link" href="#review"></a></h3>
-<p>A major component of compensation is based on input from a program that semantically breaks down the video into time periods of events like debugging or new development or testing. Periods when the pair goes off track are recorded as well as events like discovering a solution and writing code that doesn't conform to the syntax standards.</p>
-<p>During their session the participants have access to the review interface. Also participants watching via the livestream and then those watching recordings.</p>
-<p>As well as an objective description of the events, reviewers are also able to make subjective assessments: both descriptive statements and also weighted terms. It will also be possible to review reviews and rate the veracity of the reviewer.</p>
-<p>Reviewers after the fact will have the option of watching the stream in an abbreviated mode where sections unimportant to the progress of development are sped up or skipped entirely.</p>
+<p>One of the dangers of this system is that the development pair will accidentally reveal secret information to the stream that will be used by an attacker to perform an exploit.</p>
+<p>To avoid this, until the video has undergone a set of trusted full reviews where the interface allows the flagging for blurring of secret data review will be limited to sets of token holders.</p>
+<p>As well as an objective description of the events, reviewers are also able to make subjective assessments: both descriptive statements and also weighted terms. It will also be possible to review reviews and rate the veracity of an assessment.</p>
+<h4 id="incentives">Incentives<a aria-hidden="true" class="anchor-heading icon-link" href="#incentives"></a></h4>
+<p>The pair of programmers receive a fixed rate that is moderated by the reviews of their session.</p>
 <h2 id="technologies">Technologies<a aria-hidden="true" class="anchor-heading icon-link" href="#technologies"></a></h2>
 <ul>
-<li>Livepeer will be used for steaming the sessions &#x26; capturing recordings.</li>
-<li>Ceramic will be used for storing review information.</li>
-<li>The FEVM will be used for an ERC-1155 deployed for token-based permissions.</li>
-<li>IPFS will be used for the storage of video streams.</li>
+<li><a href="https://livepeer.org">Livepeer</a> will be used for steaming the sessions &#x26; capturing recordings.</li>
+<li><a href="https://ceramic.network">Ceramic</a> will be used for storing review information.</li>
+<li>The FEVM will be used for an ERC-1155 deployed for token-based accomplishment tracking and permissions.</li>
+<li><a href="https://ipfs.io">IPFS</a> will be used for the storage of video streams.</li>
 <li>Postgresql will be used for querying bids to determine potential schedules.</li>
 </ul>
 <hr>

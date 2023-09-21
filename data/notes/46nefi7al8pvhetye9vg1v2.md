@@ -1,9 +1,9 @@
 * **Stay: ^stay** Mapping spaces, capturing task descriptions, and coordinating property management, allowing participants to maintain and reserve spaces at a minimum of monetary cost.
   Space is rented by a user under the auspices of a set of teams. The team specifies the expected application of the space.
 
-* **Substances: ^substances** An interface for selling things with a digital testing certificate. Aimed in large part at the violence, dilution, & theft-free distribution of substances, regardless of their provenance.
+* **[[The New Black Market|13-13s.axes.projects.market]]: ^substances** An interface for selling things with a digital testing certificate. Aimed in large part at the violence, dilution, & theft-free distribution of substances, regardless of their provenance.
 
-* **Courier: ^courier** Rather than most substances being delivered through the mail, there could be a person-to-person blind delivery service. Couriers are pairs of people in a vehicle. They serve a variety of tasks dependent on the need:
+* **[[Courier|13-13s.axes.projects.courier]]: ^courier** Rather than most substances being delivered through the mail, there could be a person-to-person blind delivery service. Couriers are pairs of people in a vehicle. They serve a variety of tasks dependent on the need:
 
   This includes:
    * **Dashcam: ^dashcam** An Android app for recording driving with an active operator to be called in times of emergency. The same application is used when a pair is called on as camerapeople. One of the main rule enforcement mechanisms is to send camerapeople to investigate disturbances.
