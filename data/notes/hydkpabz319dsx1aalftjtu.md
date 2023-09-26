@@ -16,19 +16,19 @@ The [[13-13s]] were described as categories & channels.
   * [[🍑︱peach︱🦚|writings.discord.2022-2023⁄09⁄21-doh-server.color.peach]]
 
 * 🍖-Needs-🦴
-  * [[🥫︱food︱🍲|writings.discord.2022-2023⁄09⁄21-doh-server.need.food]]
-  * [[🌊︱water︱🎏|writings.discord.2022-2023⁄09⁄21-doh-server.need.water]]
+  * 🥫︱food︱🍲
+  * 🌊︱water︱🎏
   * [[👯︱sex︱👯♂|writings.discord.2022-2023⁄09⁄21-doh-server.need.sex]]
   * [[👩🏿🎤︱drugs︱🧑🏿🎤|writings.discord.2022-2023⁄09⁄21-doh-server.need.drugs]]
-  * [[🔫︱security︱🌋|writings.discord.2022-2023⁄09⁄21-doh-server.need.security]]
-  * [[🏡︱shelter︱🏘|writings.discord.2022-2023⁄09⁄21-doh-server.need.shelter]]
-  * [[🛋︱therapy︱🏥|writings.discord.2022-2023⁄09⁄21-doh-server.need.therapy]]
-  * [[☎︱comms︱🎙|writings.discord.2022-2023⁄09⁄21-doh-server.need.comms]]
-  * [[🧹︱housekeeping︱🎄|writings.discord.2022-2023⁄09⁄21-doh-server.need.housekeeping]]
-  * [[⚒︱tools︱🛠|writings.discord.2022-2023⁄09⁄21-doh-server.need.tools]]
-  * [[🚗︱transport︱🚙|writings.discord.2022-2023⁄09⁄21-doh-server.need.transport]]
-  * [[⏱︱timekeeping︱⏰|writings.discord.2022-2023⁄09⁄21-doh-server.need.timekeeping]]
-  * [[🔍︱transparency︱🔎|writings.discord.2022-2023⁄09⁄21-doh-server.need.transparency]]
+  * 🔫︱security︱🌋  
+  * 🏡︱shelter︱🏘
+  * 🛋︱therapy︱🏥
+  * ☎︱comms︱🎙
+  * 🧹︱housekeeping︱🎄
+  * ⚒︱tools︱🛠
+  * 🚗︱transport︱🚙
+  * ⏱︱timekeeping︱⏰
+  * 🔍︱transparency︱🔎
 
 * 🎉-Parties-🍾
   * ࿋｜all｜☮

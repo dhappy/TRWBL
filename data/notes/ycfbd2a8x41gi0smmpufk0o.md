@@ -7,9 +7,9 @@ The main vehicle for execution is the creation of an augmented reality game call
 
 ## Bootstrapping
 
-Conceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history like marching at Selma or against Vietnam.
+Conceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history much like marching at Selma or against Vietnam.
 
-Thje desire for historical significance will be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.
+Thje desire for historical significance will then be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.
 
 ## Synopsis
 
