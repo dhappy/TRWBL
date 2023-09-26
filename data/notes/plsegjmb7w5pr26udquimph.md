@@ -1,5 +1,5 @@
 
-* [[Green|13-13s.conglomerations.non-human-life]]: #009900
+* [[Green|13-13s.conglomerations.non-human-life]]: <span style="color: #009900">#009900</span>
 
 ![Tree](/assets/images/tree.svg){max-height: 250px}
 
@@ -35,7 +35,7 @@
 
 ![Sword](/assets/images/sword.svg){max-height: 250px}
 
-* [[Copper|13-13s.conglomerations.gaianism]]: #B87333
+* [[Copper|philosophy.gaianism]]: #B87333
 
 ![Rabbit](/assets/images/rabbit.svg){max-height: 250px}
 
