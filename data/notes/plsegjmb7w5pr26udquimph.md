@@ -5,7 +5,7 @@
 
 * [[Blaze|13-13s.conglomerations.guides]]: #9D3E3F
 
-![Squirrel](/assets/images/squirel.svg){max-height: 250px}
+![Squirrel](/assets/images/squirrel.svg){max-height: 250px}
 
 * [[Brown|13-13s.conglomerations.housekeepers]]: #663300
 
