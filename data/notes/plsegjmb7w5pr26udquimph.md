@@ -3,50 +3,50 @@
 
 ![Tree](/assets/images/tree.svg){max-height: 250px}
 
-* [[Blaze|13-13s.conglomerations.guides]]: #9D3E3F
+* [[Blaze|13-13s.conglomerations.guides]]: <span style="color: #9D3E3F">#9D3E3F</span>
 
 ![Squirrel](/assets/images/squirrel.svg){max-height: 250px}
 
-* [[Brown|13-13s.conglomerations.housekeepers]]: #663300
+* [[Brown|13-13s.conglomerations.housekeepers]]: <span style="color: #663300">#663300</span>
 
 ![Broom](/assets/images/broom.svg){max-height: 250px}
 
-* [[Black|13-13s.conglomerations.“blacks”]]: #000000
+* [[Black|13-13s.conglomerations.“blacks”]]: <span style="color: #000">#000</span>
 
 ![Fist](/assets/images/fist.svg){max-height: 250px}
 
-* [[White|13-13s.conglomerations.“whites”]]: #FFFFFF
+* [[White|13-13s.conglomerations.“whites”]]: <span style="color: #FFF">#FFF</span>
 
 ![Snowman](/assets/images/snowman.svg){max-height: 250px}
 
-* [[Cyan|13-13s.conglomerations.builders]]: #00FFFF
+* [[Cyan|13-13s.conglomerations.builders]]: <span style="color: #00FFFF">#00FFFF</span>
 
 ![Linux Fox](/assets/images/fox.svg){max-height: 250px}
 
-* [[Yellow|13-13s.conglomerations.therapists]]: #FFFF00
+* [[Yellow|13-13s.conglomerations.therapists]]: <span style="color: #FFFF00">#FFFF00</span>
 
 ![MW Grin](/assets/images/grin.svg){max-height: 250px}
 
-* [[Gold|13-13s.conglomerations.the-establishment]]: #FFDF00
+* [[Gold|13-13s.conglomerations.the-establishment]]: <span style="color: #FFDF00">#FFDF00</span>
 
 ![Badge](/assets/images/badge.svg){max-height: 250px}
 
-* [[Silver|13-13s.conglomerations.enforcement]]: #C0C0C0
+* [[Silver|13-13s.conglomerations.enforcement]]: <span style="color: #C0C0C0">#C0C0C0</span>
 
 ![Sword](/assets/images/sword.svg){max-height: 250px}
 
-* [[Copper|philosophy.gaianism]]: #B87333
+* [[Copper|philosophy.gaianism]]: <span style="color: #B87333">#B87333</span>
 
 ![Rabbit](/assets/images/rabbit.svg){max-height: 250px}
 
-* [[Pink|13-13s.conglomerations.administration]]: #FF007F
+* <span style="color: #FF007F">[[Pink|13-13s.conglomerations.administration]]: #FF007F</span>
 
 ![Purse](/assets/images/purse.svg){max-height: 250px}
 
-* [[Peach|13-13s.conglomerations.drivers]]: #FFE5B4
+* <span style="color: #FFE5B4">[[Peach|13-13s.conglomerations.drivers]]: #FFE5B4</span>
 
 ![Couriers](/assets/images/courier.svg){max-height: 250px}
 
-* [[Gray|13-13s.conglomerations.transparency]]: #808080
+* [[Gray|13-13s.conglomerations.transparency]]: <span style="color: #808080">#808080</span>
 
 ![Telescope](/assets/images/telescope.svg){max-height: 250px}
