@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1695701408591,
-      "created": 1695701408591,
+      "updated": 1695702043343,
+      "created": 1695702043343,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -130,7 +130,7 @@
           "type": "header",
           "text": "Bootstrapping",
           "value": "bootstrapping",
-          "line": 14,
+          "line": 16,
           "column": 0,
           "depth": 2
         },
@@ -138,7 +138,7 @@
           "type": "header",
           "text": "Synopsis",
           "value": "synopsis",
-          "line": 20,
+          "line": 22,
           "column": 0,
           "depth": 2
         },
@@ -146,7 +146,7 @@
           "type": "header",
           "text": "How to Participate",
           "value": "how-to-participate",
-          "line": 26,
+          "line": 28,
           "column": 0,
           "depth": 2
         }
@@ -4386,12 +4386,33 @@
       "anchors": {},
       "children": [
         "hlv2egjfe5h8ee5kzf9cr8s",
-        "fay8dplbnlnvitchyky8k2c",
         "nwqfghw85q6a8m8o3xq40wx",
         "r39ra3kz9zwathqozwnb4nv",
-        "05zmvq61uzjbtj46528oq5u"
+        "05zmvq61uzjbtj46528oq5u",
+        "fay8dplbnlnvitchyky8k2c"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
+      "data": {}
+    },
+    "fay8dplbnlnvitchyky8k2c": {
+      "id": "fay8dplbnlnvitchyky8k2c",
+      "title": "The Caliphate",
+      "desc": "",
+      "updated": 1695698405706,
+      "created": 1695698073137,
+      "custom": {},
+      "fname": "vingnettes.caliphate",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ba172e0225558502486bae94c1db4672",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dr794to5a3oswlo3dpjc8kv",
       "data": {}
     },
     "05zmvq61uzjbtj46528oq5u": {
@@ -4507,27 +4528,6 @@
           }
         }
       ],
-      "anchors": {},
-      "children": [],
-      "parent": "dr794to5a3oswlo3dpjc8kv",
-      "data": {}
-    },
-    "fay8dplbnlnvitchyky8k2c": {
-      "id": "fay8dplbnlnvitchyky8k2c",
-      "title": "The Caliphate",
-      "desc": "",
-      "updated": 1695698405706,
-      "created": 1695698073137,
-      "custom": {},
-      "fname": "vingnettes.caliphate",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "contentHash": "ba172e0225558502486bae94c1db4672",
-      "links": [],
       "anchors": {},
       "children": [],
       "parent": "dr794to5a3oswlo3dpjc8kv",
@@ -6132,10 +6132,54 @@
       },
       "children": [
         "a3wx4f4ohmne8lcka59gkdu",
-        "950aqp7aas21glbho4mlvxj",
-        "i2efue9tpvo904olulmykjp"
+        "i2efue9tpvo904olulmykjp",
+        "950aqp7aas21glbho4mlvxj"
       ],
       "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "950aqp7aas21glbho4mlvxj": {
+      "id": "950aqp7aas21glbho4mlvxj",
+      "title": "The New Black Market",
+      "desc": "",
+      "updated": 1695291323607,
+      "created": 1695285069053,
+      "custom": {},
+      "fname": "13-13s.axes.projects.market",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "ec4393891fcf62605580ad181b219514",
+      "links": [
+        {
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 4,
+              "column": 57,
+              "offset": 366
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects.market"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "46nefi7al8pvhetye9vg1v2",
       "data": {}
     },
     "i2efue9tpvo904olulmykjp": {
@@ -6243,50 +6287,6 @@
           "depth": 2
         }
       },
-      "children": [],
-      "parent": "46nefi7al8pvhetye9vg1v2",
-      "data": {}
-    },
-    "950aqp7aas21glbho4mlvxj": {
-      "id": "950aqp7aas21glbho4mlvxj",
-      "title": "The New Black Market",
-      "desc": "",
-      "updated": 1695291323607,
-      "created": 1695285069053,
-      "custom": {},
-      "fname": "13-13s.axes.projects.market",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "contentHash": "ec4393891fcf62605580ad181b219514",
-      "links": [
-        {
-          "from": {
-            "fname": "13-13s.axes.projects",
-            "id": "46nefi7al8pvhetye9vg1v2",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 4,
-              "column": 5,
-              "offset": 314
-            },
-            "end": {
-              "line": 4,
-              "column": 57,
-              "offset": 366
-            },
-            "indent": []
-          },
-          "value": "13-13s.axes.projects.market"
-        }
-      ],
-      "anchors": {},
       "children": [],
       "parent": "46nefi7al8pvhetye9vg1v2",
       "data": {}
@@ -6504,7 +6504,7 @@
       "id": "plsegjmb7w5pr26udquimph",
       "title": "Colors",
       "desc": "",
-      "updated": 1695701368581,
+      "updated": 1695702004748,
       "created": 1694070085015,
       "nav_order": 10,
       "custom": {
@@ -6517,7 +6517,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "28e9e7509f24b7354b608a38bb55ba56",
+      "contentHash": "76a535973f0bea7b05e77ad89d303313",
       "links": [
         {
           "type": "wiki",
@@ -6560,12 +6560,12 @@
             "start": {
               "line": 6,
               "column": 3,
-              "offset": 96
+              "offset": 97
             },
             "end": {
               "line": 6,
               "column": 42,
-              "offset": 135
+              "offset": 136
             },
             "indent": []
           },
@@ -6588,12 +6588,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 188
+              "offset": 190
             },
             "end": {
               "line": 10,
               "column": 48,
-              "offset": 233
+              "offset": 235
             },
             "indent": []
           },
@@ -6616,12 +6616,12 @@
             "start": {
               "line": 14,
               "column": 3,
-              "offset": 281
+              "offset": 284
             },
             "end": {
               "line": 14,
               "column": 44,
-              "offset": 322
+              "offset": 325
             },
             "indent": []
           },
@@ -6644,12 +6644,12 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 368
+              "offset": 372
             },
             "end": {
               "line": 18,
               "column": 44,
-              "offset": 409
+              "offset": 413
             },
             "indent": []
           },
@@ -6672,12 +6672,12 @@
             "start": {
               "line": 18,
               "column": 46,
-              "offset": 411
+              "offset": 415
             },
             "end": {
               "line": 18,
               "column": 53,
-              "offset": 418
+              "offset": 422
             },
             "indent": []
           },
@@ -6699,12 +6699,12 @@
             "start": {
               "line": 22,
               "column": 3,
-              "offset": 461
+              "offset": 466
             },
             "end": {
               "line": 22,
               "column": 43,
-              "offset": 501
+              "offset": 506
             },
             "indent": []
           },
@@ -6727,12 +6727,12 @@
             "start": {
               "line": 26,
               "column": 3,
-              "offset": 551
+              "offset": 557
             },
             "end": {
               "line": 26,
               "column": 47,
-              "offset": 595
+              "offset": 601
             },
             "indent": []
           },
@@ -6755,12 +6755,12 @@
             "start": {
               "line": 26,
               "column": 49,
-              "offset": 597
+              "offset": 603
             },
             "end": {
               "line": 26,
               "column": 56,
-              "offset": 604
+              "offset": 610
             },
             "indent": []
           },
@@ -6782,12 +6782,12 @@
             "start": {
               "line": 30,
               "column": 3,
-              "offset": 644
+              "offset": 651
             },
             "end": {
               "line": 30,
               "column": 52,
-              "offset": 693
+              "offset": 700
             },
             "indent": []
           },
@@ -6810,12 +6810,12 @@
             "start": {
               "line": 30,
               "column": 54,
-              "offset": 695
+              "offset": 702
             },
             "end": {
               "line": 30,
               "column": 61,
-              "offset": 702
+              "offset": 709
             },
             "indent": []
           },
@@ -6837,12 +6837,12 @@
             "start": {
               "line": 34,
               "column": 3,
-              "offset": 741
+              "offset": 749
             },
             "end": {
               "line": 34,
               "column": 48,
-              "offset": 786
+              "offset": 794
             },
             "indent": []
           },
@@ -6865,12 +6865,12 @@
             "start": {
               "line": 34,
               "column": 50,
-              "offset": 788
+              "offset": 796
             },
             "end": {
               "line": 34,
               "column": 57,
-              "offset": 795
+              "offset": 803
             },
             "indent": []
           },
@@ -6892,12 +6892,12 @@
             "start": {
               "line": 38,
               "column": 3,
-              "offset": 834
+              "offset": 843
             },
             "end": {
               "line": 38,
               "column": 45,
-              "offset": 876
+              "offset": 885
             },
             "indent": []
           },
@@ -6920,12 +6920,12 @@
             "start": {
               "line": 38,
               "column": 47,
-              "offset": 878
+              "offset": 887
             },
             "end": {
               "line": 38,
               "column": 54,
-              "offset": 885
+              "offset": 894
             },
             "indent": []
           },
@@ -6947,12 +6947,12 @@
             "start": {
               "line": 42,
               "column": 3,
-              "offset": 926
+              "offset": 936
             },
             "end": {
               "line": 42,
               "column": 49,
-              "offset": 972
+              "offset": 982
             },
             "indent": []
           },
@@ -6975,12 +6975,12 @@
             "start": {
               "line": 42,
               "column": 51,
-              "offset": 974
+              "offset": 984
             },
             "end": {
               "line": 42,
               "column": 58,
-              "offset": 981
+              "offset": 991
             },
             "indent": []
           },
@@ -7002,12 +7002,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1020
+              "offset": 1031
             },
             "end": {
               "line": 46,
               "column": 43,
-              "offset": 1060
+              "offset": 1071
             },
             "indent": []
           },
@@ -7030,12 +7030,12 @@
             "start": {
               "line": 46,
               "column": 45,
-              "offset": 1062
+              "offset": 1073
             },
             "end": {
               "line": 46,
               "column": 52,
-              "offset": 1069
+              "offset": 1080
             },
             "indent": []
           },
@@ -7057,12 +7057,12 @@
             "start": {
               "line": 50,
               "column": 3,
-              "offset": 1113
+              "offset": 1125
             },
             "end": {
               "line": 50,
               "column": 47,
-              "offset": 1157
+              "offset": 1169
             },
             "indent": []
           },
@@ -7239,7 +7239,7 @@
           "type": "header",
           "text": "Bootstrapping",
           "value": "bootstrapping",
-          "line": 14,
+          "line": 16,
           "column": 0,
           "depth": 2
         },
@@ -7247,7 +7247,7 @@
           "type": "header",
           "text": "Synopsis",
           "value": "synopsis",
-          "line": 20,
+          "line": 22,
           "column": 0,
           "depth": 2
         },
@@ -7255,7 +7255,7 @@
           "type": "header",
           "text": "How to Participate",
           "value": "how-to-participate",
-          "line": 26,
+          "line": 28,
           "column": 0,
           "depth": 2
         }
@@ -7385,7 +7385,7 @@
         "type": "header",
         "text": "Bootstrapping",
         "value": "bootstrapping",
-        "line": 14,
+        "line": 16,
         "column": 0,
         "depth": 2
       },
@@ -7393,7 +7393,7 @@
         "type": "header",
         "text": "Synopsis",
         "value": "synopsis",
-        "line": 20,
+        "line": 22,
         "column": 0,
         "depth": 2
       },
@@ -7401,7 +7401,7 @@
         "type": "header",
         "text": "How to Participate",
         "value": "how-to-participate",
-        "line": 26,
+        "line": 28,
         "column": 0,
         "depth": 2
       }
