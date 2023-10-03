@@ -1,7 +1,8 @@
+Each of the [[13 teams|13-13s]] has a leader responsible for making certain early decisions such as who will populate their team initially.
 
-Each of the 13 teams has a leader responsible for making certain early decisions such as who to invite to their team initially.
+There are three alliances: red, blue, and purple. Red is made of three teams that *must* be Captained by XX people, Blue is three XY-led teams, and Purple is seven teams led by anyone.
 
-As the teams grow, these functions should largely be passed on to voting structures of the entire populace though the captain will retain certain benevolent dictator powers necessary for efficient administration.
+As the teams grow, most decisions should largely be passed on to voting structures of the entire populace though the captain will retain certain benevolent dictator powers necessary for efficient administration.
 
 * δυς
 * Mo'

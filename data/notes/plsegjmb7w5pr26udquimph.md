@@ -39,11 +39,11 @@
 
 ![Rabbit](/assets/images/rabbit.svg){max-height: 250px}
 
-* <span style="color: #FF007F">[[Pink|13-13s.conglomerations.administration]]: #FF007F</span>
+* [[Pink|13-13s.conglomerations.administration]]: <span style="color: #FF007F">#FF007F</span>
 
 ![Purse](/assets/images/purse.svg){max-height: 250px}
 
-* <span style="color: #FFE5B4">[[Peach|13-13s.conglomerations.drivers]]: #FFE5B4</span>
+* [[Peach|13-13s.conglomerations.drivers]]: <span style="color: #FFE5B4">#FFE5B4</span>
 
 ![Couriers](/assets/images/courier.svg){max-height: 250px}
 

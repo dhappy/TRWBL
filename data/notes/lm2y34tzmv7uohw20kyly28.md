@@ -1,5 +1,4 @@
-
-The teams are named after aspects of Norse cosmology:
+The teams are themed after aspects of Norse cosmology:
 
 * ᛗ ― Miðgarðr: Humans
 * ᚫ ― Ásgarðr: Heroes

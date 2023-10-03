@@ -10,7 +10,7 @@ There are four primary interfaces used to orchestrate the endeavor:
 
   * [Scheduling](#scheduling)
   * [Transition](#transition)
-  * [Execution](execution)
+  * [Execution](#execution)
   * [Review](#review)
 
 ### Scheduling
@@ -79,7 +79,9 @@ As well as an objective description of the events, reviewers are also able to ma
 
 The pair of programmers receive a fixed rate that is moderated by the reviews of their session.
 
+The initial three reviewers will earn at the same rate as the other participants. In general the idea is we are buying people's time and that is worth roughly the same amount *(~$15⁄hr)* regardless of whose time it is.
 
+After the initial reviews, compensation will be for establishing consensus on the evaluation of the video. Adding annotations that weren't present previously & are voted meaningful by a quorum of voters will be rewarded.
 
 ## Technologies
 

@@ -1,4 +1,3 @@
-
 Each team has a specialized skill set that they offer to the game as a whole.
 
 * Gardeners'

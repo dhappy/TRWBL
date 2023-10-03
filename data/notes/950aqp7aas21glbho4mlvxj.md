@@ -1,6 +1,8 @@
-Shopper access is mediated through token access. Shops can be token-gated, but the metadata for a token also contains information about how to sync with that shop's state.
+We don't supplant the gangs. We give them a more effective mechanism for making money that disincentivizes violence. Ultimately we seek to eliminate the one major impediment to their operation: law enforcement.
 
-Sales data is public. A shopper knows how much the seller paid for their supply. This is so that the most accurate models possible can be derived for the market as a whole. Zero knowledge is used to protect the anonymity of both parties.
+## Process
+
+Shopper access is mediated through token access. Shops can be token-gated, but the metadata for a token also contains information about how to sync with that shop's state.
 
 When items are sold the buyer is responsible for creating a delivery plan.
 
