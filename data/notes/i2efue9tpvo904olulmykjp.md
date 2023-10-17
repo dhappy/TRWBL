@@ -1,4 +1,6 @@
-This is a framework to support the organization of continual work on a project by scheduling a series of overlapping pair programming sessions. Adjacent pairs of developers have an overlap to allow the departing pair to brief the incoming pair of their progress.
+This is a framework to support the organization of continual work on a project by scheduling a series of overlapping mob programming sessions where mob programming is like pairing, but generally involves three or four people.
+
+So development continues 24 hours a day with developers swapping in and out of the mob both programming and helping to create [a marked up recording](https://pairs.trwb.live) that captures major threads in the process such as someone finding a bug or not following the coding styles or coming up with an inventive design.
 
 All work is both streamed and recorded. Participants receive a base payment for being present for a session and recording a video. That compensation, however, can be more than doubled based on peer review of the session stream.
 
@@ -8,10 +10,10 @@ The goal is to provide a resource for architects who have a reasonably well stru
 
 There are four primary interfaces used to orchestrate the endeavor:
 
-  * [Scheduling](#scheduling)
-  * [Transition](#transition)
-  * [Execution](#execution)
-  * [Review](#review)
+* [Scheduling](#scheduling)
+* [Transition](#transition)
+* [Execution](#execution)
+* [Review](#review)
 
 ### Scheduling
 
@@ -87,6 +89,6 @@ After the initial reviews, compensation will be for establishing consensus on th
 
 * [Livepeer](https://livepeer.org) will be used for steaming the sessions & capturing recordings.
 * [Ceramic](https://ceramic.network) will be used for storing review information.
-* The FEVM will be used for an ERC-1155 deployed for token-based accomplishment tracking and permissions.
+* The FVM will be used for token-based accomplishment tracking and permissions using [Hypercerts](https://hypercerts.org).
 * [IPFS](https://ipfs.io) will be used for the storage of video streams.
 * Postgresql will be used for querying bids to determine potential schedules.
