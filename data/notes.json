@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1697521721664,
-      "created": 1697521721664,
+      "updated": 1704104114840,
+      "created": 1704104114840,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "aaf678b782264ed02915d893cbcc6922",
+      "contentHash": "ba84691ee0563ec3a9f7ad441dcadd7a",
       "links": [
         {
           "type": "wiki",
@@ -80,12 +80,12 @@
             "start": {
               "line": 22,
               "column": 7,
-              "offset": 1367
+              "offset": 1366
             },
             "end": {
               "line": 22,
               "column": 57,
-              "offset": 1417
+              "offset": 1416
             },
             "indent": []
           },
@@ -108,12 +108,12 @@
             "start": {
               "line": 25,
               "column": 46,
-              "offset": 1985
+              "offset": 1984
             },
             "end": {
               "line": 25,
               "column": 81,
-              "offset": 2020
+              "offset": 2019
             },
             "indent": []
           },
@@ -156,16 +156,16 @@
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
         "dr794to5a3oswlo3dpjc8kv",
-        "jottn8rtu92ht3lomxsfeid",
-        "d0yuuk1ybbjk51zfji584y4",
-        "molbp0wtjvalxjqccnvpbjg",
-        "fezuto8ruq33cusg55y7pgm",
-        "jbpgwhxy339lup67v2mzfg3"
+        "qrx25grmv26vsi7xbmntuso",
+        "xj7nl1jyoqay02kwncyr4vx",
+        "93x9ehus84j7otr0w3nktnc",
+        "4hwn5nsr7y8e6b182mloe8j",
+        "jw9v3ho1jtweb0l0kfhll0o"
       ],
       "parent": null,
       "data": {}
     },
-    "jbpgwhxy339lup67v2mzfg3": {
+    "jw9v3ho1jtweb0l0kfhll0o": {
       "fname": "proposals",
       "stub": true,
       "vault": {
@@ -175,20 +175,20 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951703,
-      "created": 1697504951703,
-      "id": "jbpgwhxy339lup67v2mzfg3",
+      "updated": 1704103726614,
+      "created": 1704103726614,
+      "id": "jw9v3ho1jtweb0l0kfhll0o",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "vbs9249f6lv4k7gky0pz3gt"
+        "jaefxgvn3hl4nw8zy7d7b9m"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {},
       "title": "Proposals"
     },
-    "vbs9249f6lv4k7gky0pz3gt": {
+    "jaefxgvn3hl4nw8zy7d7b9m": {
       "fname": "proposals.metacartel",
       "stub": true,
       "vault": {
@@ -198,9 +198,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951703,
-      "created": 1697504951703,
-      "id": "vbs9249f6lv4k7gky0pz3gt",
+      "updated": 1704103726614,
+      "created": 1704103726614,
+      "id": "jaefxgvn3hl4nw8zy7d7b9m",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -208,7 +208,7 @@
         "optc00u1kjkfz656tnghfu7",
         "l8g0vja9faraw5vkigrqqmc"
       ],
-      "parent": "jbpgwhxy339lup67v2mzfg3",
+      "parent": "jw9v3ho1jtweb0l0kfhll0o",
       "data": {},
       "title": "Metacartel"
     },
@@ -314,7 +314,7 @@
         }
       },
       "children": [],
-      "parent": "vbs9249f6lv4k7gky0pz3gt",
+      "parent": "jaefxgvn3hl4nw8zy7d7b9m",
       "data": {}
     },
     "optc00u1kjkfz656tnghfu7": {
@@ -427,10 +427,10 @@
         }
       },
       "children": [],
-      "parent": "vbs9249f6lv4k7gky0pz3gt",
+      "parent": "jaefxgvn3hl4nw8zy7d7b9m",
       "data": {}
     },
-    "fezuto8ruq33cusg55y7pgm": {
+    "4hwn5nsr7y8e6b182mloe8j": {
       "fname": "writings",
       "stub": true,
       "vault": {
@@ -440,9 +440,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951696,
-      "created": 1697504951696,
-      "id": "fezuto8ruq33cusg55y7pgm",
+      "updated": 1704103726602,
+      "created": 1704103726602,
+      "id": "4hwn5nsr7y8e6b182mloe8j",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -532,7 +532,7 @@
         "9aloo3gwcdcz3x01jk23dkf",
         "mts6ffkneda9qi7udbblor1"
       ],
-      "parent": "fezuto8ruq33cusg55y7pgm",
+      "parent": "4hwn5nsr7y8e6b182mloe8j",
       "data": {}
     },
     "mts6ffkneda9qi7udbblor1": {
@@ -1682,20 +1682,20 @@
       ],
       "anchors": {},
       "children": [
-        "ge5ade8r1ity16fe9hmim8p",
-        "bg5as4ejmnov4qy707ky6bx",
-        "z2fido3deww8wz0s074fw8b",
-        "ogvb046hin099u7ee9ihepx",
-        "pqh4gx8ub5ofe9hxdtm1xn0",
-        "zsiwc80fqe97dcjm06j0rz7",
-        "jnzy0cbjp0pluo5owz4oh5h",
-        "w7dyxgcid06ry6ewwwf7gkn",
-        "i2g50miyxfri43xe30sp2tx"
+        "tlxcxx37ix8bz9rexu92eob",
+        "duao5sxzbjg4ldlldlmb3lw",
+        "2tbj3okh4yzlhx4g95x2kzg",
+        "2607r1v5k41l7sdoc54cz1y",
+        "xg7a7b5ax0k5q1y7vwkqm4l",
+        "x7ibefdz4w4aid47k6c8ozi",
+        "o32uc0w19jihei09vha8iv3",
+        "tij2dfvenp8e68v8ahyazjs",
+        "pi7qnsd1a23p8u9g3e449jp"
       ],
       "parent": "abkcs3vhd5zeg6nitjezndx",
       "data": {}
     },
-    "i2g50miyxfri43xe30sp2tx": {
+    "pi7qnsd1a23p8u9g3e449jp": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.time-system",
       "stub": true,
       "vault": {
@@ -1705,9 +1705,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951732,
-      "created": 1697504951732,
-      "id": "i2g50miyxfri43xe30sp2tx",
+      "updated": 1704103726683,
+      "created": 1704103726683,
+      "id": "pi7qnsd1a23p8u9g3e449jp",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -1769,7 +1769,7 @@
         }
       },
       "children": [],
-      "parent": "i2g50miyxfri43xe30sp2tx",
+      "parent": "pi7qnsd1a23p8u9g3e449jp",
       "data": {}
     },
     "x3w3rsblgslgbexg9r3kyoa": {
@@ -1822,10 +1822,10 @@
         }
       },
       "children": [],
-      "parent": "i2g50miyxfri43xe30sp2tx",
+      "parent": "pi7qnsd1a23p8u9g3e449jp",
       "data": {}
     },
-    "w7dyxgcid06ry6ewwwf7gkn": {
+    "tij2dfvenp8e68v8ahyazjs": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.realm",
       "stub": true,
       "vault": {
@@ -1835,9 +1835,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951731,
-      "created": 1697504951731,
-      "id": "w7dyxgcid06ry6ewwwf7gkn",
+      "updated": 1704103726682,
+      "created": 1704103726682,
+      "id": "tij2dfvenp8e68v8ahyazjs",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -1900,7 +1900,7 @@
         }
       },
       "children": [],
-      "parent": "w7dyxgcid06ry6ewwwf7gkn",
+      "parent": "tij2dfvenp8e68v8ahyazjs",
       "data": {}
     },
     "p6gpkg4kqyh3wd6i888d9cj": {
@@ -1953,7 +1953,7 @@
         }
       },
       "children": [],
-      "parent": "w7dyxgcid06ry6ewwwf7gkn",
+      "parent": "tij2dfvenp8e68v8ahyazjs",
       "data": {}
     },
     "l4w7k6uu8mhue044owjuv9i": {
@@ -2006,10 +2006,10 @@
         }
       },
       "children": [],
-      "parent": "w7dyxgcid06ry6ewwwf7gkn",
+      "parent": "tij2dfvenp8e68v8ahyazjs",
       "data": {}
     },
-    "jnzy0cbjp0pluo5owz4oh5h": {
+    "o32uc0w19jihei09vha8iv3": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.project",
       "stub": true,
       "vault": {
@@ -2019,9 +2019,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951730,
-      "created": 1697504951730,
-      "id": "jnzy0cbjp0pluo5owz4oh5h",
+      "updated": 1704103726681,
+      "created": 1704103726681,
+      "id": "o32uc0w19jihei09vha8iv3",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2059,10 +2059,10 @@
         }
       },
       "children": [],
-      "parent": "jnzy0cbjp0pluo5owz4oh5h",
+      "parent": "o32uc0w19jihei09vha8iv3",
       "data": {}
     },
-    "zsiwc80fqe97dcjm06j0rz7": {
+    "x7ibefdz4w4aid47k6c8ozi": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.plot-element",
       "stub": true,
       "vault": {
@@ -2072,9 +2072,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951728,
-      "created": 1697504951728,
-      "id": "zsiwc80fqe97dcjm06j0rz7",
+      "updated": 1704103726677,
+      "created": 1704103726677,
+      "id": "x7ibefdz4w4aid47k6c8ozi",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2140,7 +2140,7 @@
         }
       },
       "children": [],
-      "parent": "zsiwc80fqe97dcjm06j0rz7",
+      "parent": "x7ibefdz4w4aid47k6c8ozi",
       "data": {}
     },
     "dm446ha2g527js6lcjt5h4c": {
@@ -2193,7 +2193,7 @@
         }
       },
       "children": [],
-      "parent": "zsiwc80fqe97dcjm06j0rz7",
+      "parent": "x7ibefdz4w4aid47k6c8ozi",
       "data": {}
     },
     "c991ocu3r16nsvmx9exgg24": {
@@ -2246,7 +2246,7 @@
         }
       },
       "children": [],
-      "parent": "zsiwc80fqe97dcjm06j0rz7",
+      "parent": "x7ibefdz4w4aid47k6c8ozi",
       "data": {}
     },
     "wntpzru6xdf8brb9mtcz9i6": {
@@ -2299,7 +2299,7 @@
         }
       },
       "children": [],
-      "parent": "zsiwc80fqe97dcjm06j0rz7",
+      "parent": "x7ibefdz4w4aid47k6c8ozi",
       "data": {}
     },
     "ml8n18fx7t3tpeog3dol6yf": {
@@ -2352,7 +2352,7 @@
         }
       },
       "children": [],
-      "parent": "zsiwc80fqe97dcjm06j0rz7",
+      "parent": "x7ibefdz4w4aid47k6c8ozi",
       "data": {}
     },
     "str9u16rlei4hhd0edae6nh": {
@@ -2405,10 +2405,10 @@
         }
       },
       "children": [],
-      "parent": "zsiwc80fqe97dcjm06j0rz7",
+      "parent": "x7ibefdz4w4aid47k6c8ozi",
       "data": {}
     },
-    "pqh4gx8ub5ofe9hxdtm1xn0": {
+    "xg7a7b5ax0k5q1y7vwkqm4l": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.party",
       "stub": true,
       "vault": {
@@ -2418,9 +2418,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951726,
-      "created": 1697504951726,
-      "id": "pqh4gx8ub5ofe9hxdtm1xn0",
+      "updated": 1704103726675,
+      "created": 1704103726675,
+      "id": "xg7a7b5ax0k5q1y7vwkqm4l",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2482,7 +2482,7 @@
         }
       },
       "children": [],
-      "parent": "pqh4gx8ub5ofe9hxdtm1xn0",
+      "parent": "xg7a7b5ax0k5q1y7vwkqm4l",
       "data": {}
     },
     "ezjtvz9dhsiddzzctubvxio": {
@@ -2526,10 +2526,10 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "pqh4gx8ub5ofe9hxdtm1xn0",
+      "parent": "xg7a7b5ax0k5q1y7vwkqm4l",
       "data": {}
     },
-    "ogvb046hin099u7ee9ihepx": {
+    "2607r1v5k41l7sdoc54cz1y": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.need",
       "stub": true,
       "vault": {
@@ -2539,9 +2539,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951725,
-      "created": 1697504951725,
-      "id": "ogvb046hin099u7ee9ihepx",
+      "updated": 1704103726674,
+      "created": 1704103726674,
+      "id": "2607r1v5k41l7sdoc54cz1y",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2603,7 +2603,7 @@
         }
       },
       "children": [],
-      "parent": "ogvb046hin099u7ee9ihepx",
+      "parent": "2607r1v5k41l7sdoc54cz1y",
       "data": {}
     },
     "sozzyvb6xslsnai20rxvfc7": {
@@ -2656,10 +2656,10 @@
         }
       },
       "children": [],
-      "parent": "ogvb046hin099u7ee9ihepx",
+      "parent": "2607r1v5k41l7sdoc54cz1y",
       "data": {}
     },
-    "z2fido3deww8wz0s074fw8b": {
+    "2tbj3okh4yzlhx4g95x2kzg": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.guild",
       "stub": true,
       "vault": {
@@ -2669,9 +2669,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951721,
-      "created": 1697504951721,
-      "id": "z2fido3deww8wz0s074fw8b",
+      "updated": 1704103726671,
+      "created": 1704103726671,
+      "id": "2tbj3okh4yzlhx4g95x2kzg",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2734,7 +2734,7 @@
         }
       },
       "children": [],
-      "parent": "z2fido3deww8wz0s074fw8b",
+      "parent": "2tbj3okh4yzlhx4g95x2kzg",
       "data": {}
     },
     "1a6yz396zo5d99b42fimopo": {
@@ -2787,7 +2787,7 @@
         }
       },
       "children": [],
-      "parent": "z2fido3deww8wz0s074fw8b",
+      "parent": "2tbj3okh4yzlhx4g95x2kzg",
       "data": {}
     },
     "yveq3lj2sb5wly3jitcruoy": {
@@ -2867,10 +2867,10 @@
         }
       },
       "children": [],
-      "parent": "z2fido3deww8wz0s074fw8b",
+      "parent": "2tbj3okh4yzlhx4g95x2kzg",
       "data": {}
     },
-    "bg5as4ejmnov4qy707ky6bx": {
+    "duao5sxzbjg4ldlldlmb3lw": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color",
       "stub": true,
       "vault": {
@@ -2880,9 +2880,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951717,
-      "created": 1697504951717,
-      "id": "bg5as4ejmnov4qy707ky6bx",
+      "updated": 1704103726665,
+      "created": 1704103726665,
+      "id": "duao5sxzbjg4ldlldlmb3lw",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2954,7 +2954,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "g3qgyc04tqczqtndsk92o12": {
@@ -3007,7 +3007,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "9ua2j4t5mk0e3g771s1redv": {
@@ -3060,7 +3060,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "nrehjonc271kpj7vqt3si55": {
@@ -3113,7 +3113,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "2peg2v4chufb18fbyrwx2c0": {
@@ -3166,7 +3166,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "25y7hl8a0untoe61g290244": {
@@ -3219,7 +3219,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "zpg2rc5m1gvo4kmdugpynrk": {
@@ -3326,7 +3326,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "1tr9c4s8irsvbp3g46p4lw1": {
@@ -3379,7 +3379,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "1nnk806678ervpcclnay7qk": {
@@ -3432,7 +3432,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "0qe94zkyg5q55w5zekwy68q": {
@@ -3836,7 +3836,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "1teo9zcbmkrenphwe3fjjng": {
@@ -3889,7 +3889,7 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
     "hsshcsx6c6s6eyp1a5vw5gv": {
@@ -3942,10 +3942,10 @@
         }
       },
       "children": [],
-      "parent": "bg5as4ejmnov4qy707ky6bx",
+      "parent": "duao5sxzbjg4ldlldlmb3lw",
       "data": {}
     },
-    "ge5ade8r1ity16fe9hmim8p": {
+    "tlxcxx37ix8bz9rexu92eob": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.captain",
       "stub": true,
       "vault": {
@@ -3955,9 +3955,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951715,
-      "created": 1697504951715,
-      "id": "ge5ade8r1ity16fe9hmim8p",
+      "updated": 1704103726662,
+      "created": 1704103726662,
+      "id": "tlxcxx37ix8bz9rexu92eob",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4023,7 +4023,7 @@
         }
       },
       "children": [],
-      "parent": "ge5ade8r1ity16fe9hmim8p",
+      "parent": "tlxcxx37ix8bz9rexu92eob",
       "data": {}
     },
     "mvdujceunty1m104s50432v": {
@@ -4076,7 +4076,7 @@
         }
       },
       "children": [],
-      "parent": "ge5ade8r1ity16fe9hmim8p",
+      "parent": "tlxcxx37ix8bz9rexu92eob",
       "data": {}
     },
     "vgvomhzfwkl9rho7mqfx9rc": {
@@ -4129,7 +4129,7 @@
         }
       },
       "children": [],
-      "parent": "ge5ade8r1ity16fe9hmim8p",
+      "parent": "tlxcxx37ix8bz9rexu92eob",
       "data": {}
     },
     "dbuqz8okzvwz0n0vxw2vc14": {
@@ -4182,7 +4182,7 @@
         }
       },
       "children": [],
-      "parent": "ge5ade8r1ity16fe9hmim8p",
+      "parent": "tlxcxx37ix8bz9rexu92eob",
       "data": {}
     },
     "6uuqjcnwjdyg38w8u45tcrr": {
@@ -4235,7 +4235,7 @@
         }
       },
       "children": [],
-      "parent": "ge5ade8r1ity16fe9hmim8p",
+      "parent": "tlxcxx37ix8bz9rexu92eob",
       "data": {}
     },
     "frt4rt9zx1awztsztcfdkku": {
@@ -4288,10 +4288,10 @@
         }
       },
       "children": [],
-      "parent": "ge5ade8r1ity16fe9hmim8p",
+      "parent": "tlxcxx37ix8bz9rexu92eob",
       "data": {}
     },
-    "molbp0wtjvalxjqccnvpbjg": {
+    "93x9ehus84j7otr0w3nktnc": {
       "fname": "procedures",
       "stub": true,
       "vault": {
@@ -4301,9 +4301,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951693,
-      "created": 1697504951693,
-      "id": "molbp0wtjvalxjqccnvpbjg",
+      "updated": 1704103726580,
+      "created": 1704103726580,
+      "id": "93x9ehus84j7otr0w3nktnc",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4336,7 +4336,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "molbp0wtjvalxjqccnvpbjg",
+      "parent": "93x9ehus84j7otr0w3nktnc",
       "data": {}
     },
     "zy2z0cm580djy9r1mv5hfpv": {
@@ -4360,10 +4360,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "molbp0wtjvalxjqccnvpbjg",
+      "parent": "93x9ehus84j7otr0w3nktnc",
       "data": {}
     },
-    "d0yuuk1ybbjk51zfji584y4": {
+    "xj7nl1jyoqay02kwncyr4vx": {
       "fname": "philosophy",
       "stub": true,
       "vault": {
@@ -4373,9 +4373,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951691,
-      "created": 1697504951691,
-      "id": "d0yuuk1ybbjk51zfji584y4",
+      "updated": 1704103726578,
+      "created": 1704103726578,
+      "id": "xj7nl1jyoqay02kwncyr4vx",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4450,14 +4450,14 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "d0yuuk1ybbjk51zfji584y4",
+      "parent": "xj7nl1jyoqay02kwncyr4vx",
       "data": {}
     },
     "qbqp87gec4eff336j4vh83t": {
       "id": "qbqp87gec4eff336j4vh83t",
       "title": "Gaianism",
       "desc": "",
-      "updated": 1695714299416,
+      "updated": 1697959658979,
       "created": 1695712571473,
       "custom": {},
       "fname": "philosophy.gaianism",
@@ -4467,7 +4467,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "f96900ecbb0211954c8c43295791b2f2",
+      "contentHash": "028a427795eb16ad29ec48df69e28b1d",
       "links": [
         {
           "from": {
@@ -4574,13 +4574,21 @@
           "line": 19,
           "column": 0,
           "depth": 2
+        },
+        "softwares": {
+          "type": "header",
+          "text": "Softwares",
+          "value": "softwares",
+          "line": 28,
+          "column": 0,
+          "depth": 2
         }
       },
       "children": [],
-      "parent": "d0yuuk1ybbjk51zfji584y4",
+      "parent": "xj7nl1jyoqay02kwncyr4vx",
       "data": {}
     },
-    "jottn8rtu92ht3lomxsfeid": {
+    "qrx25grmv26vsi7xbmntuso": {
       "fname": "mechanics",
       "stub": true,
       "vault": {
@@ -4590,9 +4598,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1697504951688,
-      "created": 1697504951688,
-      "id": "jottn8rtu92ht3lomxsfeid",
+      "updated": 1704103726575,
+      "created": 1704103726575,
+      "id": "qrx25grmv26vsi7xbmntuso",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4655,7 +4663,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "jottn8rtu92ht3lomxsfeid",
+      "parent": "qrx25grmv26vsi7xbmntuso",
       "data": {}
     },
     "cwtal4ndf4cxw9pdmik9wlk": {
@@ -4700,40 +4708,18 @@
           "to": {
             "fname": "Yggdrasil"
           }
-        },
-        {
-          "from": {
-            "fname": "vingnettes.lustrum.nomads",
-            "id": "5kbsly8virtt4daevalxhkv",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 7,
-              "column": 38,
-              "offset": 388
-            },
-            "end": {
-              "line": 7,
-              "column": 71,
-              "offset": 421
-            },
-            "indent": []
-          },
-          "value": "mechanics.alliances"
         }
       ],
       "anchors": {},
       "children": [],
-      "parent": "jottn8rtu92ht3lomxsfeid",
+      "parent": "qrx25grmv26vsi7xbmntuso",
       "data": {}
     },
     "dr794to5a3oswlo3dpjc8kv": {
       "id": "dr794to5a3oswlo3dpjc8kv",
       "title": "Vingnettes",
       "desc": "",
-      "updated": 1694977407440,
+      "updated": 1697959643182,
       "created": 1694976020993,
       "nav_order": 5,
       "custom": {
@@ -4746,7 +4732,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "109bca95ce6198d34140d40347af4577",
+      "contentHash": "af107e84249739614574da1e212e3228",
       "links": [],
       "anchors": {},
       "children": [
@@ -4787,7 +4773,7 @@
       "id": "5kbsly8virtt4daevalxhkv",
       "title": "Nomads",
       "desc": "",
-      "updated": 1697450889782,
+      "updated": 1704103735782,
       "created": 1696865256354,
       "custom": {},
       "fname": "vingnettes.lustrum.nomads",
@@ -4797,37 +4783,8 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "bf17c524de0c3275e398525ea33229f5",
-      "links": [
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "vingnettes.lustrum.nomads",
-            "id": "5kbsly8virtt4daevalxhkv",
-            "vaultName": "TRWBL"
-          },
-          "value": "mechanics.alliances",
-          "alias": "alliances",
-          "position": {
-            "start": {
-              "line": 7,
-              "column": 38,
-              "offset": 388
-            },
-            "end": {
-              "line": 7,
-              "column": 71,
-              "offset": 421
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "mechanics.alliances"
-          }
-        }
-      ],
+      "contentHash": "83258412b4a7f8d992954753ae24d86d",
+      "links": [],
       "anchors": {},
       "children": [],
       "parent": "fh2r2z45ourn487cj0mmy1w",
@@ -4879,7 +4836,7 @@
       "id": "r39ra3kz9zwathqozwnb4nv",
       "title": "Hard Reset",
       "desc": "",
-      "updated": 1695332153508,
+      "updated": 1698033727788,
       "created": 1695331037690,
       "custom": {},
       "fname": "vingnettes.hard-reset",
@@ -4889,9 +4846,26 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "77e5b43cc8d0a94c4a51132a8fe0fda3",
+      "contentHash": "df571aee173dc83ee839494b4b7faef8",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "ratatusk": {
+          "type": "header",
+          "text": "Ratatusk",
+          "value": "ratatusk",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "secrecy": {
+          "type": "header",
+          "text": "Secrecy",
+          "value": "secrecy",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
       "parent": "dr794to5a3oswlo3dpjc8kv",
       "data": {}
@@ -6141,12 +6115,12 @@
             "start": {
               "line": 22,
               "column": 7,
-              "offset": 1367
+              "offset": 1366
             },
             "end": {
               "line": 22,
               "column": 57,
-              "offset": 1417
+              "offset": 1416
             },
             "indent": []
           },
@@ -6712,12 +6686,12 @@
             "start": {
               "line": 25,
               "column": 46,
-              "offset": 1985
+              "offset": 1984
             },
             "end": {
               "line": 25,
               "column": 81,
-              "offset": 2020
+              "offset": 2019
             },
             "indent": []
           },
@@ -7295,7 +7269,7 @@
       "id": "i2efue9tpvo904olulmykjp",
       "title": "Serial Mobbing",
       "desc": "",
-      "updated": 1697521562757,
+      "updated": 1698156323712,
       "created": 1695019466131,
       "custom": {},
       "fname": "13-13s.axes.projects.pairs",
@@ -7305,7 +7279,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "882996961efa1022a3ec3c95c64d560e",
+      "contentHash": "dee6f77ff762c88c7a76efe88ec69015",
       "links": [
         {
           "from": {
@@ -7351,7 +7325,7 @@
           "type": "header",
           "text": "Scheduling Incentives",
           "value": "scheduling-incentives",
-          "line": 50,
+          "line": 42,
           "column": 0,
           "depth": 4
         },
@@ -7359,7 +7333,7 @@
           "type": "header",
           "text": "Transition",
           "value": "transition",
-          "line": 54,
+          "line": 46,
           "column": 0,
           "depth": 3
         },
@@ -7367,7 +7341,7 @@
           "type": "header",
           "text": "Execution",
           "value": "execution",
-          "line": 70,
+          "line": 72,
           "column": 0,
           "depth": 3
         },
@@ -7375,7 +7349,7 @@
           "type": "header",
           "text": "Review",
           "value": "review",
-          "line": 78,
+          "line": 80,
           "column": 0,
           "depth": 3
         },
@@ -7383,7 +7357,7 @@
           "type": "header",
           "text": "Incentives",
           "value": "incentives",
-          "line": 86,
+          "line": 88,
           "column": 0,
           "depth": 4
         },
@@ -7391,7 +7365,7 @@
           "type": "header",
           "text": "Technologies",
           "value": "technologies",
-          "line": 94,
+          "line": 96,
           "column": 0,
           "depth": 2
         }
@@ -8530,7 +8504,7 @@
         "selfContained": true,
         "name": "TRWBL"
       },
-      "contentHash": "aaf678b782264ed02915d893cbcc6922",
+      "contentHash": "ba84691ee0563ec3a9f7ad441dcadd7a",
       "links": [
         {
           "type": "wiki",
@@ -8573,12 +8547,12 @@
             "start": {
               "line": 22,
               "column": 7,
-              "offset": 1367
+              "offset": 1366
             },
             "end": {
               "line": 22,
               "column": 57,
-              "offset": 1417
+              "offset": 1416
             },
             "indent": []
           },
@@ -8601,12 +8575,12 @@
             "start": {
               "line": 25,
               "column": 46,
-              "offset": 1985
+              "offset": 1984
             },
             "end": {
               "line": 25,
               "column": 81,
-              "offset": 2020
+              "offset": 2019
             },
             "indent": []
           },
@@ -8649,15 +8623,15 @@
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
         "dr794to5a3oswlo3dpjc8kv",
-        "jottn8rtu92ht3lomxsfeid",
-        "d0yuuk1ybbjk51zfji584y4",
-        "molbp0wtjvalxjqccnvpbjg",
-        "fezuto8ruq33cusg55y7pgm",
-        "jbpgwhxy339lup67v2mzfg3"
+        "qrx25grmv26vsi7xbmntuso",
+        "xj7nl1jyoqay02kwncyr4vx",
+        "93x9ehus84j7otr0w3nktnc",
+        "4hwn5nsr7y8e6b182mloe8j",
+        "jw9v3ho1jtweb0l0kfhll0o"
       ],
       "parent": null,
       "data": {},
-      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history much like marching at Selma or against Vietnam.\n\nThje desire for historical significance will then be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n"
+      "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history much like marching at Selma or against Vietnam.\n\nThe desire for historical significance will then be one of the primary drivers for participation, particularly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n"
     }
   ],
   "noteIndex": {
@@ -8677,7 +8651,7 @@
       "selfContained": true,
       "name": "TRWBL"
     },
-    "contentHash": "aaf678b782264ed02915d893cbcc6922",
+    "contentHash": "ba84691ee0563ec3a9f7ad441dcadd7a",
     "links": [
       {
         "type": "wiki",
@@ -8720,12 +8694,12 @@
           "start": {
             "line": 22,
             "column": 7,
-            "offset": 1367
+            "offset": 1366
           },
           "end": {
             "line": 22,
             "column": 57,
-            "offset": 1417
+            "offset": 1416
           },
           "indent": []
         },
@@ -8748,12 +8722,12 @@
           "start": {
             "line": 25,
             "column": 46,
-            "offset": 1985
+            "offset": 1984
           },
           "end": {
             "line": 25,
             "column": 81,
-            "offset": 2020
+            "offset": 2019
           },
           "indent": []
         },
@@ -8796,15 +8770,15 @@
       "ypu9ulohotwrez78fsejofb",
       "t70n32fovw6k11p2ffwejej",
       "dr794to5a3oswlo3dpjc8kv",
-      "jottn8rtu92ht3lomxsfeid",
-      "d0yuuk1ybbjk51zfji584y4",
-      "molbp0wtjvalxjqccnvpbjg",
-      "fezuto8ruq33cusg55y7pgm",
-      "jbpgwhxy339lup67v2mzfg3"
+      "qrx25grmv26vsi7xbmntuso",
+      "xj7nl1jyoqay02kwncyr4vx",
+      "93x9ehus84j7otr0w3nktnc",
+      "4hwn5nsr7y8e6b182mloe8j",
+      "jw9v3ho1jtweb0l0kfhll0o"
     ],
     "parent": null,
     "data": {},
-    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history much like marching at Selma or against Vietnam.\n\nThje desire for historical significance will then be one of the primary drivers for participation, particualrly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n"
+    "body": "\n_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.\n\nIf such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.\n\nThe main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].\n\n## Bootstrapping\n\nConceptually, _TRWBL_ is supposed to bootstrap itself by gaining the support of people who see it as feasible, and, in doing so, gain further followers until there is a steadily growing consensus that to take part in the story will be to find a place in history much like marching at Selma or against Vietnam.\n\nThe desire for historical significance will then be one of the primary drivers for participation, particularly given the large percentage of the activities that will be recorded.\n\n## Synopsis\n\nAn organization funded by the distribution of substances offers a viable alternative to the police in maintenance of a new mechanism for the control of space. Spaces held by the organization make heavy inroads into properties controlled by churches and banks.\n\nThe needs of the network of locations is managed through a 3D interface that also tracks what spaces everyone controls through time.\n\n## How to Participate\n\n* The [[Silver team|13-13s.conglomerations.enforcement]] will need recordings of combatants that are available for rules enforcement.\n* All technological aspects of the system should be open-source. In situations where open solutions don't exist yet, rather than developing new work, whenever possible market pressure will be applied to existing corporations to open their technologies.\n* One of the first fundraisers will be an early prototype of the courier system used to deliver innocuous items such as corn & rock salt. Ownership within the system is represented as an NFT.\n* Money, in general, should be funneled into [[Code|13-13s.axes.projects#^code]] where it will be converted into computer programs to support various aspects of the process.\n"
   },
   "vaults": [
     {

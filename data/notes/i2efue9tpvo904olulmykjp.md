@@ -33,23 +33,25 @@ Navigators apply for sessions by providing:
 
 Members of a planning circle maintain a GitHub project to rank issues and tasks so that would be Navigators know what to prioritize.
 
-Navigators are chosen using ranked choice ratings voted on by token holders. Drivers and Witnesses are then chosen by the Navigators. Once complete, the cost has to be approved for the entire set.
-
-There is a rolling window of five days by which a team should have been chosen. A backup team may also have a conditional bid approved.
-
-There are multiplier tokens which increase voters' influence. A project has a single primary Architect who has the ability to distribute tokens *(and the ability to distribute the ability to distribute tokens)*. Tokens can be destroyed via collective action.
-
-Five days in advance of a slot being worked, bids are chosen both for a worker and an on-call backup to take the session if the selected group doesn't make check-in.
-
 #### Scheduling Incentives
 
 The expected minimum pay is $15 / hour for everyone with bonuses based on the result of the evaluation of the recording.
 
 ### Transition
 
-An hour before the previous pair leaves, the next pair checks in and joins the stream of the departing pair.
+The basic process is a repetition of:
 
-The Navigator has a ten minute window to make checkin. After that the system will attempt to replace the team with its backup.
+* Mob Working
+* Mob Coordinating
+* Mob Transitioning
+
+Where “Mob Transitioning” is a change of Navigator. For any given mob, there is a *“Navigator”*. The Navigator runs the call & is the ultimate authority when it comes to the direction of the mob. Depending on the relative skillsets, the Navigator may be dictating the majority of the code.
+
+The mechanics of operating the machinery of the computer falls to the *“Driver”*. Under the instruction of the rest of the mob they manage files and their contents, and run whatever tests are desired.
+
+There's at least three people in a mob, and the *“Witness”* rounds out the basic three. The Witness has [software they use to evaluate the call](https://pairs.trwb.live).
+
+Any of the three positions in the mob can swap out…
 
 During the hour of overlap the incoming pair will get a stream key for the Driver to configure OBS on their system. The viewing key will be encrypted using Lit & made accessible to appropriate token and address holders.
 

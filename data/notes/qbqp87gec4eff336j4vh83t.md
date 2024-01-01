@@ -12,8 +12,16 @@ Conceptually, the Christians we are looking to convert are relying on Social Pro
 
 ## The Caliphate
 
-I also want to run for public office, eventually, ideally, the Presidency.
+For the leader of the church to be the primary political leader is the Islamic end-of-days myth called the Caliphate after the Caliph: the person who heads the church that unifies the world.
 
-For the leader of the church to be the primary political leader is the Islamic end-of-days myth called the Caliphate.
+That is what I would like my historical footprint to be. To found the church that unifies the world.
 
-The point is to recognize the existence of the Spirit and respect the reality of that mode of thought. To have a society where that is respected and encouraged is definitely part of the goal, and so the concept of a Caliphate fits in several ways.
+The crux is to respect the existence of the Spirit, and the reality of it as a mode of being. To have a society where being Spirit-lead is respected and encouraged, is definitely part of the goal, and so the concept of a Caliphate fits in several ways.
+
+
+## Softwares
+
+The Gaiainist church believes that several pieces of software can be created to aid in the lessening of human suffering.
+
+* **Mïmïs**: Is an append-only versioned document store where the primitives include DOM nodes. Backed by IPFS and Neo4j, Mïmïs gives each user their own versioned graph and makes it easy to sync potions of that graph to other accounts. Wh
+* **Pyhthia**:
