@@ -5,3 +5,5 @@ seeds
 .next
 pods/service-connectionsdocs/
 docs/
+.obsidian
+dist/
