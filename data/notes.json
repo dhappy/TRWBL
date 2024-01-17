@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1704104114840,
-      "created": 1704104114840,
+      "updated": 1705470894418,
+      "created": 1705470894418,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -130,7 +130,7 @@
           "type": "header",
           "text": "Bootstrapping",
           "value": "bootstrapping",
-          "line": 14,
+          "line": 16,
           "column": 0,
           "depth": 2
         },
@@ -138,7 +138,7 @@
           "type": "header",
           "text": "Synopsis",
           "value": "synopsis",
-          "line": 20,
+          "line": 22,
           "column": 0,
           "depth": 2
         },
@@ -146,7 +146,7 @@
           "type": "header",
           "text": "How to Participate",
           "value": "how-to-participate",
-          "line": 26,
+          "line": 28,
           "column": 0,
           "depth": 2
         }
@@ -156,16 +156,16 @@
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
         "dr794to5a3oswlo3dpjc8kv",
-        "qrx25grmv26vsi7xbmntuso",
-        "xj7nl1jyoqay02kwncyr4vx",
-        "93x9ehus84j7otr0w3nktnc",
-        "4hwn5nsr7y8e6b182mloe8j",
-        "jw9v3ho1jtweb0l0kfhll0o"
+        "qegadleet4z3dalau63f07l",
+        "n7iec7lo39yuci7jsir64qy",
+        "6619v5hgdyvut7kgxe4v4tf",
+        "wtuiwc6tit8hdv7mckuvzrc",
+        "fz5924b8kwt5amqkc1skilm"
       ],
       "parent": null,
       "data": {}
     },
-    "jw9v3ho1jtweb0l0kfhll0o": {
+    "fz5924b8kwt5amqkc1skilm": {
       "fname": "proposals",
       "stub": true,
       "vault": {
@@ -175,20 +175,20 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726614,
-      "created": 1704103726614,
-      "id": "jw9v3ho1jtweb0l0kfhll0o",
+      "updated": 1705470209573,
+      "created": 1705470209573,
+      "id": "fz5924b8kwt5amqkc1skilm",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "jaefxgvn3hl4nw8zy7d7b9m"
+        "ydbrnukn9gqh02k4cu4ryy3"
       ],
       "parent": "ycfbd2a8x41gi0smmpufk0o",
       "data": {},
       "title": "Proposals"
     },
-    "jaefxgvn3hl4nw8zy7d7b9m": {
+    "ydbrnukn9gqh02k4cu4ryy3": {
       "fname": "proposals.metacartel",
       "stub": true,
       "vault": {
@@ -198,9 +198,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726614,
-      "created": 1704103726614,
-      "id": "jaefxgvn3hl4nw8zy7d7b9m",
+      "updated": 1705470209574,
+      "created": 1705470209574,
+      "id": "ydbrnukn9gqh02k4cu4ryy3",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -208,7 +208,7 @@
         "optc00u1kjkfz656tnghfu7",
         "l8g0vja9faraw5vkigrqqmc"
       ],
-      "parent": "jw9v3ho1jtweb0l0kfhll0o",
+      "parent": "fz5924b8kwt5amqkc1skilm",
       "data": {},
       "title": "Metacartel"
     },
@@ -314,7 +314,7 @@
         }
       },
       "children": [],
-      "parent": "jaefxgvn3hl4nw8zy7d7b9m",
+      "parent": "ydbrnukn9gqh02k4cu4ryy3",
       "data": {}
     },
     "optc00u1kjkfz656tnghfu7": {
@@ -427,10 +427,10 @@
         }
       },
       "children": [],
-      "parent": "jaefxgvn3hl4nw8zy7d7b9m",
+      "parent": "ydbrnukn9gqh02k4cu4ryy3",
       "data": {}
     },
-    "4hwn5nsr7y8e6b182mloe8j": {
+    "wtuiwc6tit8hdv7mckuvzrc": {
       "fname": "writings",
       "stub": true,
       "vault": {
@@ -440,9 +440,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726602,
-      "created": 1704103726602,
-      "id": "4hwn5nsr7y8e6b182mloe8j",
+      "updated": 1705470209567,
+      "created": 1705470209567,
+      "id": "wtuiwc6tit8hdv7mckuvzrc",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -530,9 +530,53 @@
       "children": [
         "hydkpabz319dsx1aalftjtu",
         "9aloo3gwcdcz3x01jk23dkf",
-        "mts6ffkneda9qi7udbblor1"
+        "mts6ffkneda9qi7udbblor1",
+        "2RpeKnwf2bgJlX5NC0oKEUS",
+        "jbjj9j80rh8n90fl9a23e1h"
       ],
-      "parent": "4hwn5nsr7y8e6b182mloe8j",
+      "parent": "wtuiwc6tit8hdv7mckuvzrc",
+      "data": {}
+    },
+    "jbjj9j80rh8n90fl9a23e1h": {
+      "id": "jbjj9j80rh8n90fl9a23e1h",
+      "title": "2024⁄01⁄17-to-⯒Code-With-Friends",
+      "desc": "",
+      "updated": 1705470088179,
+      "created": 1705469742290,
+      "custom": {},
+      "fname": "writings.discord.2024⁄01⁄17-to-⯒code-with-friends",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "25a929b098ce79f941209890f1bfc2b9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "abkcs3vhd5zeg6nitjezndx",
+      "data": {}
+    },
+    "2RpeKnwf2bgJlX5NC0oKEUS": {
+      "id": "2RpeKnwf2bgJlX5NC0oKEUS",
+      "title": "2024/01/16𝄈 to ⯒Arkology",
+      "desc": "",
+      "updated": 1705438463024,
+      "created": 1705438307098,
+      "custom": {},
+      "fname": "writings.discord.2024⁄01⁄16-to-⯒arkology",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "60a675b6f3e0761eedf19dd92d07582c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "abkcs3vhd5zeg6nitjezndx",
       "data": {}
     },
     "mts6ffkneda9qi7udbblor1": {
@@ -1682,20 +1726,20 @@
       ],
       "anchors": {},
       "children": [
-        "tlxcxx37ix8bz9rexu92eob",
-        "duao5sxzbjg4ldlldlmb3lw",
-        "2tbj3okh4yzlhx4g95x2kzg",
-        "2607r1v5k41l7sdoc54cz1y",
-        "xg7a7b5ax0k5q1y7vwkqm4l",
-        "x7ibefdz4w4aid47k6c8ozi",
-        "o32uc0w19jihei09vha8iv3",
-        "tij2dfvenp8e68v8ahyazjs",
-        "pi7qnsd1a23p8u9g3e449jp"
+        "8tpeaht6h36btojkhyuhd26",
+        "bqisk0nvahvy0wiv2oudxgx",
+        "lhxgq60g91taxbhcgqr37f7",
+        "iidpe4lc3mt8stxksovwpgi",
+        "e20y5gc5nquhbm752gvthsy",
+        "ckfocm70ts4exr7nxphhi9t",
+        "uyhitjviiszrb35zsysd7km",
+        "lvnu98k5id0y8ghf0icas59",
+        "fkp21xswm208ew9guewlard"
       ],
       "parent": "abkcs3vhd5zeg6nitjezndx",
       "data": {}
     },
-    "pi7qnsd1a23p8u9g3e449jp": {
+    "fkp21xswm208ew9guewlard": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.time-system",
       "stub": true,
       "vault": {
@@ -1705,9 +1749,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726683,
-      "created": 1704103726683,
-      "id": "pi7qnsd1a23p8u9g3e449jp",
+      "updated": 1705470209629,
+      "created": 1705470209629,
+      "id": "fkp21xswm208ew9guewlard",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -1769,7 +1813,7 @@
         }
       },
       "children": [],
-      "parent": "pi7qnsd1a23p8u9g3e449jp",
+      "parent": "fkp21xswm208ew9guewlard",
       "data": {}
     },
     "x3w3rsblgslgbexg9r3kyoa": {
@@ -1822,10 +1866,10 @@
         }
       },
       "children": [],
-      "parent": "pi7qnsd1a23p8u9g3e449jp",
+      "parent": "fkp21xswm208ew9guewlard",
       "data": {}
     },
-    "tij2dfvenp8e68v8ahyazjs": {
+    "lvnu98k5id0y8ghf0icas59": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.realm",
       "stub": true,
       "vault": {
@@ -1835,9 +1879,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726682,
-      "created": 1704103726682,
-      "id": "tij2dfvenp8e68v8ahyazjs",
+      "updated": 1705470209628,
+      "created": 1705470209628,
+      "id": "lvnu98k5id0y8ghf0icas59",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -1900,7 +1944,7 @@
         }
       },
       "children": [],
-      "parent": "tij2dfvenp8e68v8ahyazjs",
+      "parent": "lvnu98k5id0y8ghf0icas59",
       "data": {}
     },
     "p6gpkg4kqyh3wd6i888d9cj": {
@@ -1953,7 +1997,7 @@
         }
       },
       "children": [],
-      "parent": "tij2dfvenp8e68v8ahyazjs",
+      "parent": "lvnu98k5id0y8ghf0icas59",
       "data": {}
     },
     "l4w7k6uu8mhue044owjuv9i": {
@@ -2006,10 +2050,10 @@
         }
       },
       "children": [],
-      "parent": "tij2dfvenp8e68v8ahyazjs",
+      "parent": "lvnu98k5id0y8ghf0icas59",
       "data": {}
     },
-    "o32uc0w19jihei09vha8iv3": {
+    "uyhitjviiszrb35zsysd7km": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.project",
       "stub": true,
       "vault": {
@@ -2019,9 +2063,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726681,
-      "created": 1704103726681,
-      "id": "o32uc0w19jihei09vha8iv3",
+      "updated": 1705470209628,
+      "created": 1705470209628,
+      "id": "uyhitjviiszrb35zsysd7km",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2059,10 +2103,10 @@
         }
       },
       "children": [],
-      "parent": "o32uc0w19jihei09vha8iv3",
+      "parent": "uyhitjviiszrb35zsysd7km",
       "data": {}
     },
-    "x7ibefdz4w4aid47k6c8ozi": {
+    "ckfocm70ts4exr7nxphhi9t": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.plot-element",
       "stub": true,
       "vault": {
@@ -2072,9 +2116,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726677,
-      "created": 1704103726677,
-      "id": "x7ibefdz4w4aid47k6c8ozi",
+      "updated": 1705470209625,
+      "created": 1705470209625,
+      "id": "ckfocm70ts4exr7nxphhi9t",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2140,7 +2184,7 @@
         }
       },
       "children": [],
-      "parent": "x7ibefdz4w4aid47k6c8ozi",
+      "parent": "ckfocm70ts4exr7nxphhi9t",
       "data": {}
     },
     "dm446ha2g527js6lcjt5h4c": {
@@ -2193,7 +2237,7 @@
         }
       },
       "children": [],
-      "parent": "x7ibefdz4w4aid47k6c8ozi",
+      "parent": "ckfocm70ts4exr7nxphhi9t",
       "data": {}
     },
     "c991ocu3r16nsvmx9exgg24": {
@@ -2246,7 +2290,7 @@
         }
       },
       "children": [],
-      "parent": "x7ibefdz4w4aid47k6c8ozi",
+      "parent": "ckfocm70ts4exr7nxphhi9t",
       "data": {}
     },
     "wntpzru6xdf8brb9mtcz9i6": {
@@ -2299,7 +2343,7 @@
         }
       },
       "children": [],
-      "parent": "x7ibefdz4w4aid47k6c8ozi",
+      "parent": "ckfocm70ts4exr7nxphhi9t",
       "data": {}
     },
     "ml8n18fx7t3tpeog3dol6yf": {
@@ -2352,7 +2396,7 @@
         }
       },
       "children": [],
-      "parent": "x7ibefdz4w4aid47k6c8ozi",
+      "parent": "ckfocm70ts4exr7nxphhi9t",
       "data": {}
     },
     "str9u16rlei4hhd0edae6nh": {
@@ -2405,10 +2449,10 @@
         }
       },
       "children": [],
-      "parent": "x7ibefdz4w4aid47k6c8ozi",
+      "parent": "ckfocm70ts4exr7nxphhi9t",
       "data": {}
     },
-    "xg7a7b5ax0k5q1y7vwkqm4l": {
+    "e20y5gc5nquhbm752gvthsy": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.party",
       "stub": true,
       "vault": {
@@ -2418,9 +2462,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726675,
-      "created": 1704103726675,
-      "id": "xg7a7b5ax0k5q1y7vwkqm4l",
+      "updated": 1705470209623,
+      "created": 1705470209623,
+      "id": "e20y5gc5nquhbm752gvthsy",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2482,7 +2526,7 @@
         }
       },
       "children": [],
-      "parent": "xg7a7b5ax0k5q1y7vwkqm4l",
+      "parent": "e20y5gc5nquhbm752gvthsy",
       "data": {}
     },
     "ezjtvz9dhsiddzzctubvxio": {
@@ -2526,10 +2570,10 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "xg7a7b5ax0k5q1y7vwkqm4l",
+      "parent": "e20y5gc5nquhbm752gvthsy",
       "data": {}
     },
-    "2607r1v5k41l7sdoc54cz1y": {
+    "iidpe4lc3mt8stxksovwpgi": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.need",
       "stub": true,
       "vault": {
@@ -2539,9 +2583,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726674,
-      "created": 1704103726674,
-      "id": "2607r1v5k41l7sdoc54cz1y",
+      "updated": 1705470209622,
+      "created": 1705470209622,
+      "id": "iidpe4lc3mt8stxksovwpgi",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2603,7 +2647,7 @@
         }
       },
       "children": [],
-      "parent": "2607r1v5k41l7sdoc54cz1y",
+      "parent": "iidpe4lc3mt8stxksovwpgi",
       "data": {}
     },
     "sozzyvb6xslsnai20rxvfc7": {
@@ -2656,10 +2700,10 @@
         }
       },
       "children": [],
-      "parent": "2607r1v5k41l7sdoc54cz1y",
+      "parent": "iidpe4lc3mt8stxksovwpgi",
       "data": {}
     },
-    "2tbj3okh4yzlhx4g95x2kzg": {
+    "lhxgq60g91taxbhcgqr37f7": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.guild",
       "stub": true,
       "vault": {
@@ -2669,9 +2713,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726671,
-      "created": 1704103726671,
-      "id": "2tbj3okh4yzlhx4g95x2kzg",
+      "updated": 1705470209619,
+      "created": 1705470209619,
+      "id": "lhxgq60g91taxbhcgqr37f7",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2734,7 +2778,7 @@
         }
       },
       "children": [],
-      "parent": "2tbj3okh4yzlhx4g95x2kzg",
+      "parent": "lhxgq60g91taxbhcgqr37f7",
       "data": {}
     },
     "1a6yz396zo5d99b42fimopo": {
@@ -2787,7 +2831,7 @@
         }
       },
       "children": [],
-      "parent": "2tbj3okh4yzlhx4g95x2kzg",
+      "parent": "lhxgq60g91taxbhcgqr37f7",
       "data": {}
     },
     "yveq3lj2sb5wly3jitcruoy": {
@@ -2867,10 +2911,10 @@
         }
       },
       "children": [],
-      "parent": "2tbj3okh4yzlhx4g95x2kzg",
+      "parent": "lhxgq60g91taxbhcgqr37f7",
       "data": {}
     },
-    "duao5sxzbjg4ldlldlmb3lw": {
+    "bqisk0nvahvy0wiv2oudxgx": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.color",
       "stub": true,
       "vault": {
@@ -2880,9 +2924,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726665,
-      "created": 1704103726665,
-      "id": "duao5sxzbjg4ldlldlmb3lw",
+      "updated": 1705470209614,
+      "created": 1705470209614,
+      "id": "bqisk0nvahvy0wiv2oudxgx",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2954,7 +2998,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "g3qgyc04tqczqtndsk92o12": {
@@ -3007,7 +3051,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "9ua2j4t5mk0e3g771s1redv": {
@@ -3060,7 +3104,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "nrehjonc271kpj7vqt3si55": {
@@ -3113,7 +3157,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "2peg2v4chufb18fbyrwx2c0": {
@@ -3166,7 +3210,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "25y7hl8a0untoe61g290244": {
@@ -3219,7 +3263,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "zpg2rc5m1gvo4kmdugpynrk": {
@@ -3326,7 +3370,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "1tr9c4s8irsvbp3g46p4lw1": {
@@ -3379,7 +3423,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "1nnk806678ervpcclnay7qk": {
@@ -3432,7 +3476,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "0qe94zkyg5q55w5zekwy68q": {
@@ -3836,7 +3880,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "1teo9zcbmkrenphwe3fjjng": {
@@ -3889,7 +3933,7 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
     "hsshcsx6c6s6eyp1a5vw5gv": {
@@ -3942,10 +3986,10 @@
         }
       },
       "children": [],
-      "parent": "duao5sxzbjg4ldlldlmb3lw",
+      "parent": "bqisk0nvahvy0wiv2oudxgx",
       "data": {}
     },
-    "tlxcxx37ix8bz9rexu92eob": {
+    "8tpeaht6h36btojkhyuhd26": {
       "fname": "writings.discord.2022-2023⁄09⁄21-doh-server.captain",
       "stub": true,
       "vault": {
@@ -3955,9 +3999,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726662,
-      "created": 1704103726662,
-      "id": "tlxcxx37ix8bz9rexu92eob",
+      "updated": 1705470209611,
+      "created": 1705470209611,
+      "id": "8tpeaht6h36btojkhyuhd26",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4023,7 +4067,7 @@
         }
       },
       "children": [],
-      "parent": "tlxcxx37ix8bz9rexu92eob",
+      "parent": "8tpeaht6h36btojkhyuhd26",
       "data": {}
     },
     "mvdujceunty1m104s50432v": {
@@ -4076,7 +4120,7 @@
         }
       },
       "children": [],
-      "parent": "tlxcxx37ix8bz9rexu92eob",
+      "parent": "8tpeaht6h36btojkhyuhd26",
       "data": {}
     },
     "vgvomhzfwkl9rho7mqfx9rc": {
@@ -4129,7 +4173,7 @@
         }
       },
       "children": [],
-      "parent": "tlxcxx37ix8bz9rexu92eob",
+      "parent": "8tpeaht6h36btojkhyuhd26",
       "data": {}
     },
     "dbuqz8okzvwz0n0vxw2vc14": {
@@ -4182,7 +4226,7 @@
         }
       },
       "children": [],
-      "parent": "tlxcxx37ix8bz9rexu92eob",
+      "parent": "8tpeaht6h36btojkhyuhd26",
       "data": {}
     },
     "6uuqjcnwjdyg38w8u45tcrr": {
@@ -4235,7 +4279,7 @@
         }
       },
       "children": [],
-      "parent": "tlxcxx37ix8bz9rexu92eob",
+      "parent": "8tpeaht6h36btojkhyuhd26",
       "data": {}
     },
     "frt4rt9zx1awztsztcfdkku": {
@@ -4288,10 +4332,10 @@
         }
       },
       "children": [],
-      "parent": "tlxcxx37ix8bz9rexu92eob",
+      "parent": "8tpeaht6h36btojkhyuhd26",
       "data": {}
     },
-    "93x9ehus84j7otr0w3nktnc": {
+    "6619v5hgdyvut7kgxe4v4tf": {
       "fname": "procedures",
       "stub": true,
       "vault": {
@@ -4301,9 +4345,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726580,
-      "created": 1704103726580,
-      "id": "93x9ehus84j7otr0w3nktnc",
+      "updated": 1705470209564,
+      "created": 1705470209564,
+      "id": "6619v5hgdyvut7kgxe4v4tf",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4336,7 +4380,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "93x9ehus84j7otr0w3nktnc",
+      "parent": "6619v5hgdyvut7kgxe4v4tf",
       "data": {}
     },
     "zy2z0cm580djy9r1mv5hfpv": {
@@ -4360,10 +4404,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "93x9ehus84j7otr0w3nktnc",
+      "parent": "6619v5hgdyvut7kgxe4v4tf",
       "data": {}
     },
-    "xj7nl1jyoqay02kwncyr4vx": {
+    "n7iec7lo39yuci7jsir64qy": {
       "fname": "philosophy",
       "stub": true,
       "vault": {
@@ -4373,9 +4417,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726578,
-      "created": 1704103726578,
-      "id": "xj7nl1jyoqay02kwncyr4vx",
+      "updated": 1705470209563,
+      "created": 1705470209563,
+      "id": "n7iec7lo39yuci7jsir64qy",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4450,7 +4494,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "xj7nl1jyoqay02kwncyr4vx",
+      "parent": "n7iec7lo39yuci7jsir64qy",
       "data": {}
     },
     "qbqp87gec4eff336j4vh83t": {
@@ -4585,10 +4629,10 @@
         }
       },
       "children": [],
-      "parent": "xj7nl1jyoqay02kwncyr4vx",
+      "parent": "n7iec7lo39yuci7jsir64qy",
       "data": {}
     },
-    "qrx25grmv26vsi7xbmntuso": {
+    "qegadleet4z3dalau63f07l": {
       "fname": "mechanics",
       "stub": true,
       "vault": {
@@ -4598,9 +4642,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1704103726575,
-      "created": 1704103726575,
-      "id": "qrx25grmv26vsi7xbmntuso",
+      "updated": 1705470209560,
+      "created": 1705470209560,
+      "id": "qegadleet4z3dalau63f07l",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -4663,7 +4707,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "qrx25grmv26vsi7xbmntuso",
+      "parent": "qegadleet4z3dalau63f07l",
       "data": {}
     },
     "cwtal4ndf4cxw9pdmik9wlk": {
@@ -4712,7 +4756,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "qrx25grmv26vsi7xbmntuso",
+      "parent": "qegadleet4z3dalau63f07l",
       "data": {}
     },
     "dr794to5a3oswlo3dpjc8kv": {
@@ -6813,14 +6857,89 @@
       "children": [
         "a3wx4f4ohmne8lcka59gkdu",
         "btzu3ymifbepie8aqx16gaq",
-        "950aqp7aas21glbho4mlvxj",
         "i2efue9tpvo904olulmykjp",
         "pjtt8hsvupum7f1ophumcu1",
         "xm29iqioujinpyer0okhr8h",
         "25o1thima7xhdngin9ogusd",
-        "2gc6e09zgfaqf4bpe2c6l0x"
+        "2gc6e09zgfaqf4bpe2c6l0x",
+        "950aqp7aas21glbho4mlvxj"
       ],
       "parent": "u68x9dgujhgq1ode6yce0qh",
+      "data": {}
+    },
+    "950aqp7aas21glbho4mlvxj": {
+      "id": "950aqp7aas21glbho4mlvxj",
+      "title": "The New Black Market",
+      "desc": "",
+      "updated": 1696298106870,
+      "created": 1695285069053,
+      "custom": {},
+      "fname": "13-13s.axes.projects.market",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "TRWBL"
+      },
+      "contentHash": "90a020c4313c16193d52e48d19c49d0e",
+      "links": [
+        {
+          "from": {
+            "fname": "funding",
+            "id": "ypu9ulohotwrez78fsejofb",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 279
+            },
+            "end": {
+              "line": 4,
+              "column": 51,
+              "offset": 327
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects.market"
+        },
+        {
+          "from": {
+            "fname": "13-13s.axes.projects",
+            "id": "46nefi7al8pvhetye9vg1v2",
+            "vaultName": "TRWBL"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 5,
+              "offset": 1788
+            },
+            "end": {
+              "line": 15,
+              "column": 57,
+              "offset": 1840
+            },
+            "indent": []
+          },
+          "value": "13-13s.axes.projects.market"
+        }
+      ],
+      "anchors": {
+        "process": {
+          "type": "header",
+          "text": "Process",
+          "value": "process",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "46nefi7al8pvhetye9vg1v2",
       "data": {}
     },
     "2gc6e09zgfaqf4bpe2c6l0x": {
@@ -7366,81 +7485,6 @@
           "text": "Technologies",
           "value": "technologies",
           "line": 96,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "46nefi7al8pvhetye9vg1v2",
-      "data": {}
-    },
-    "950aqp7aas21glbho4mlvxj": {
-      "id": "950aqp7aas21glbho4mlvxj",
-      "title": "The New Black Market",
-      "desc": "",
-      "updated": 1696298106870,
-      "created": 1695285069053,
-      "custom": {},
-      "fname": "13-13s.axes.projects.market",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "TRWBL"
-      },
-      "contentHash": "90a020c4313c16193d52e48d19c49d0e",
-      "links": [
-        {
-          "from": {
-            "fname": "funding",
-            "id": "ypu9ulohotwrez78fsejofb",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 4,
-              "column": 3,
-              "offset": 279
-            },
-            "end": {
-              "line": 4,
-              "column": 51,
-              "offset": 327
-            },
-            "indent": []
-          },
-          "value": "13-13s.axes.projects.market"
-        },
-        {
-          "from": {
-            "fname": "13-13s.axes.projects",
-            "id": "46nefi7al8pvhetye9vg1v2",
-            "vaultName": "TRWBL"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 15,
-              "column": 5,
-              "offset": 1788
-            },
-            "end": {
-              "line": 15,
-              "column": 57,
-              "offset": 1840
-            },
-            "indent": []
-          },
-          "value": "13-13s.axes.projects.market"
-        }
-      ],
-      "anchors": {
-        "process": {
-          "type": "header",
-          "text": "Process",
-          "value": "process",
-          "line": 9,
           "column": 0,
           "depth": 2
         }
@@ -8597,7 +8641,7 @@
           "type": "header",
           "text": "Bootstrapping",
           "value": "bootstrapping",
-          "line": 14,
+          "line": 16,
           "column": 0,
           "depth": 2
         },
@@ -8605,7 +8649,7 @@
           "type": "header",
           "text": "Synopsis",
           "value": "synopsis",
-          "line": 20,
+          "line": 22,
           "column": 0,
           "depth": 2
         },
@@ -8613,7 +8657,7 @@
           "type": "header",
           "text": "How to Participate",
           "value": "how-to-participate",
-          "line": 26,
+          "line": 28,
           "column": 0,
           "depth": 2
         }
@@ -8623,11 +8667,11 @@
         "ypu9ulohotwrez78fsejofb",
         "t70n32fovw6k11p2ffwejej",
         "dr794to5a3oswlo3dpjc8kv",
-        "qrx25grmv26vsi7xbmntuso",
-        "xj7nl1jyoqay02kwncyr4vx",
-        "93x9ehus84j7otr0w3nktnc",
-        "4hwn5nsr7y8e6b182mloe8j",
-        "jw9v3ho1jtweb0l0kfhll0o"
+        "qegadleet4z3dalau63f07l",
+        "n7iec7lo39yuci7jsir64qy",
+        "6619v5hgdyvut7kgxe4v4tf",
+        "wtuiwc6tit8hdv7mckuvzrc",
+        "fz5924b8kwt5amqkc1skilm"
       ],
       "parent": null,
       "data": {},
@@ -8744,7 +8788,7 @@
         "type": "header",
         "text": "Bootstrapping",
         "value": "bootstrapping",
-        "line": 14,
+        "line": 16,
         "column": 0,
         "depth": 2
       },
@@ -8752,7 +8796,7 @@
         "type": "header",
         "text": "Synopsis",
         "value": "synopsis",
-        "line": 20,
+        "line": 22,
         "column": 0,
         "depth": 2
       },
@@ -8760,7 +8804,7 @@
         "type": "header",
         "text": "How to Participate",
         "value": "how-to-participate",
-        "line": 26,
+        "line": 28,
         "column": 0,
         "depth": 2
       }
@@ -8770,11 +8814,11 @@
       "ypu9ulohotwrez78fsejofb",
       "t70n32fovw6k11p2ffwejej",
       "dr794to5a3oswlo3dpjc8kv",
-      "qrx25grmv26vsi7xbmntuso",
-      "xj7nl1jyoqay02kwncyr4vx",
-      "93x9ehus84j7otr0w3nktnc",
-      "4hwn5nsr7y8e6b182mloe8j",
-      "jw9v3ho1jtweb0l0kfhll0o"
+      "qegadleet4z3dalau63f07l",
+      "n7iec7lo39yuci7jsir64qy",
+      "6619v5hgdyvut7kgxe4v4tf",
+      "wtuiwc6tit8hdv7mckuvzrc",
+      "fz5924b8kwt5amqkc1skilm"
     ],
     "parent": null,
     "data": {},
