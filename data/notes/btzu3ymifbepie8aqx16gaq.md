@@ -4,4 +4,11 @@ There are pairs of people driving around in cars and staffing shifts at holding 
 * Gunman / Cameraman: confronting rule breakers
 * Driver / Clerk: providing access to the in-vehicle inventory
 * Holder / Check: providing access to a stationary inventory
-* Guards:
+* Guards: accompanying another duo to provide additional security
+* Driver / Navigator: hacking: running an unlicensed taxi: a hack
+* Regional Manager / Dispatcher / Property Manager: taking a request for aid of some form
+* Force / Dispatcher / Citizen: taking a request for aid with physical security
+* Provisioneer / Dispatcher / Consumer: taking a request for material aid
+* Dispatcher / Citizen: taking a request for rules enforcement
+* District / Party: representing the conglomeration of a group of related parties where parties may themselves be conglomerations
+Polis / District: a combination of multiple districts

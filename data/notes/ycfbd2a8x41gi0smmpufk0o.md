@@ -1,9 +1,15 @@
 
-_TRWBL_ is a near-term science fiction story describing the progression from the world of today to a future without homelessness, hunger, or war.
+_TRWBL_ operates under the assumption at some point in the future homelessness and hunger will be eliminated for at least a whole day.
 
-If such a narrative could be made sufficiently convincing, people might be convinced to participate in the initial steps outlined for bringing the plan to fruition.
+It's an attainable goal physically. We have enough shelter and food for everyone to have a share. The real issue would be the logistics. Tracking all the people and tracking where they eat and lodge.
 
-The main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]].
+It'd be alot better if it were a program coming not from the establishment. I want to try and sell black people on a plan for non-violent revolution beginning as a "black" club that one only gains membership to by being judged as "black" by the existing membership.
+
+One could have their ▛▟█ᎶᎶ☰尺 card revoked *(since that's what you're allowed say when you hold one)* as social censure. Maybe that's a perk of the black team… Each team aims to satisfy one of thirteen basic needs. Black people's is drugs. They evolve a market with testing facilities between the production and distribution through blind couriers which doesn't rely on violence to mediate issues.
+
+We aim to create a rat park where everything's available, but the populace is content enough that they don't abuse.
+
+The main vehicle for execution is the creation of an augmented reality game called [[Yggdrasil|13-13s]] of which the Black team is one.
 
 ## Bootstrapping
 

@@ -49,4 +49,6 @@
 
 * [[Gray|13-13s.conglomerations.transparency]]: <span style="color: #808080">#808080</span>
 
-![Telescope](/assets/images/telescope.svg){max-height: 250px}
+![Veðrfölnir](/assets/images/Veðrfölnir.svg){max-height: 250px}
+
+[[Orange|13-13s.realms.Veðrfölnir]]

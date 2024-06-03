@@ -1,0 +1,19 @@
+![Veðrfölnir](/assets/images/Veðrfölnir.svg){max-height: 250px}
+
+[Silver|13-13s.colors.Silver] is in-your-face enforcement. Direct physical confrontation.
+
+The third branch of enforcement is the [Green|13-13s.colors.Green] which is all life. I want to put an ambush of pumas at the behest of rules enforcement. Pumas trained to leave non-violent people alone, but to subdue violent people.
+
+I'd train them by creating markers & associating the names with the availability of prey.
+
+I'd start out with about 100 rabbits & a field divided into quadrants. In each quadrant there is a tube that launches a rabbit into the scene. There's a set of five buttons that light up when hit in a color and make a noise.
+
+Some of the combinations will result in rabbits. The pads will be able to speak back through their colors & I want to give voice to the land to the ambush. They hit the “rabbit” & the pad responds with the sound / color combination that represents “there's something wrong with the landscape”. There's some sort of signalling. I want to take a LLM & plug an ambush into one end & English the other.
+
+I want to talk to teach large cats to express themselves using combination sound & color pads trained by a LLM.
+
+Near a city we will put five stations & in each there are five color-changing pads. The pads have different functions according to the whims of the AI.
+
+I think we might simply collar everyone & accept they're part of [The Game]() now.
+
+Veðrfölnir
