@@ -2,7 +2,7 @@
 id: hydkpabz319dsx1aalftjtu
 title: 2022–2023/09/21𝄈 Dept. of Happiness' Server
 desc: ''
-updated: 1695311672312
+updated: 1717524806549
 created: 1695277240403
 ---
 The [[13-13s]] were described as categories & channels.
@@ -68,13 +68,13 @@ The [[13-13s]] were described as categories & channels.
   * ⅹ︱libra︱♎
   * ⅺ︱scorpio︱♏
   * ⅻ︱ophiuchus︱⛎
-  * ⅻⅰ︱sagittarius︱♐
+  * ⅹⅲ︱sagittarius︱♐
 
 * 🇳🇫-realms-🎯
   * ᛗ︱miðgarðr︱🤰
   * ᚫ︱ásgarðr︱😇
   * ᚡ︱vanaheimr︱👨🏫
-  * ᚦ︱jötunheimr︱🌥
+  * [[ᚦ︱jötunheimr︱🌥|writings.discord.2022-2023⁄09⁄21-doh-server.color.silver]]
   * ᛃ︱álfheimr︱🧝
   * [[ᛏ︱hel︱🧟|writings.discord.2022-2023⁄09⁄21-doh-server.realm.hel]]
   * ᛠ︱svartálfaheimr︱🔨
@@ -86,9 +86,6 @@ The [[13-13s]] were described as categories & channels.
   * 🦅︱veðrfölnir︱🐦
 
 * 🥧-segments-🌒
-  * ♀︱women︱🤰
-  * ⚩︱other︱💃
-  * ♂︱men︱🕴
   * 🧒-children-🧒♀
   * 🧓🏾︱elderly︱🧓🏻
   * 🖤︱blacks︱🏴
@@ -103,7 +100,7 @@ The [[13-13s]] were described as categories & channels.
 * 🤖-Projects-🏗
   * 🚘｜courier｜🚖
   * 💃｜pythia｜💎
-  * [[💪｜enforcement｜🥋
+  * 💪｜enforcement｜🥋
   * 🐙︱mïmis︱👁
   * 🎓｜rewards｜💹
   * 🗳｜office｜🧮
@@ -144,3 +141,9 @@ The [[13-13s]] were described as categories & channels.
   * [[acab|writings.discord.2022-2023⁄09⁄21-doh-server.plot-element.acab]]
   * [[gaianism|writings.discord.2022-2023⁄09⁄21-doh-server.plot-element.gaianism]]
   * [[yggdrasil|writings.discord.2022-2023⁄09⁄21-doh-server.plot-element.yggdrasil]]
+
+❇ The 13 teams are aligned with one of three alliances: Red, Blue, or Purple. There are three Red, three Blue, and seven Purple members.
+
+When spaces change hands, it is an individual acting on the part of a team to take possession, and Red and Blue should always hand off to a Purple team. Purple can hand off to any team.
+
+The Red teams should be headed by XX chromosomed people, the Blues should be XY, and the Purples whatever.
