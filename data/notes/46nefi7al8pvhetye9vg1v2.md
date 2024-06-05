@@ -30,7 +30,7 @@
 
 * **Lists: ^lists** Many of the systems rely on some party to order a priority queue, be it for content recommendation for a given semiotic point, or bids for a particular programming slot, or events to fill a block of time.
 
-The recommendations for events are based primarily on the probability that the involved parties will think of it as optimum at points in the future.
+  The recommendations for events are based primarily on the probability that the involved parties will think of it as optimum at points in the future.
 
 ---***---
 

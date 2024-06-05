@@ -96,7 +96,7 @@
     "enableFMTitle": true,
     "enableNoteTitleForLink": true,
     "enableFrontmatterTags": true,
-    "enableHashesForFMTags": false,
+    "enableHashesForFMTags": true,
     "enablePrettyRefs": true,
     "enableKatex": true,
     "automaticallyShowPreview": false

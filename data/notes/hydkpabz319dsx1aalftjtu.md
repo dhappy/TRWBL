@@ -61,13 +61,13 @@ The [[13-13s]] were described as categories & channels.
   * ⅹ︱libra︱♎
   * ⅺ︱scorpio︱♏
   * ⅻ︱ophiuchus︱⛎
-  * ⅻⅰ︱sagittarius︱♐
+  * ⅹⅲ︱sagittarius︱♐
 
 * 🇳🇫-realms-🎯
   * ᛗ︱miðgarðr︱🤰
   * ᚫ︱ásgarðr︱😇
   * ᚡ︱vanaheimr︱👨🏫
-  * ᚦ︱jötunheimr︱🌥
+  * [[ᚦ︱jötunheimr︱🌥|writings.discord.2022-2023⁄09⁄21-doh-server.color.silver]]
   * ᛃ︱álfheimr︱🧝
   * [[ᛏ︱hel︱🧟|writings.discord.2022-2023⁄09⁄21-doh-server.realm.hel]]
   * ᛠ︱svartálfaheimr︱🔨
@@ -79,10 +79,11 @@ The [[13-13s]] were described as categories & channels.
   * 🦅︱veðrfölnir︱🐦
 
 * 🥧-segments-🌒
-  * ♀︱women︱🤰
-  * ⚩︱other︱💃
   * ♂︱men︱🕴
-  * 🧒-children-🧒♀
+  * ♀︱women︱🤰
+  * ⚩︱trans︱💃
+  * 🧒︱children︱🧒♀
+  * 🤡︱workers︱👩‍🏭
   * 🧓🏾︱elderly︱🧓🏻
   * 🖤︱blacks︱🏴
   * 🤍︱whites︱🏳
@@ -96,10 +97,10 @@ The [[13-13s]] were described as categories & channels.
 * 🤖-Projects-🏗
   * 🚘｜courier｜🚖
   * 💃｜pythia｜💎
-  * [[💪｜enforcement｜🥋
+  * 💪｜help｜🥋
   * 🐙︱mïmis︱👁
-  * 🎓｜rewards｜💹
-  * 🗳｜office｜🧮
+  * 🎓｜churn｜💹
+  * 🗳｜supply｜🧮
 
 * 👲-Captains-☸
   * [[࿋｜all｜☮|writings.discord.2022-2023⁄09⁄21-doh-server.captain.all]]
@@ -113,6 +114,7 @@ The [[13-13s]] were described as categories & channels.
 * ⚖-Tiers-💯
   * 🛳｜ships｜🚢
   * 🚚｜trucks｜🚘
+  * 🐯｜cats｜🦁
 
 * ॐ-Precepts-☸
   * mistake-you-woundnt-a-done-what-you-did-ifn-youd-known-what-you-know
@@ -137,3 +139,9 @@ The [[13-13s]] were described as categories & channels.
   * [[acab|writings.discord.2022-2023⁄09⁄21-doh-server.plot-element.acab]]
   * [[gaianism|writings.discord.2022-2023⁄09⁄21-doh-server.plot-element.gaianism]]
   * [[yggdrasil|writings.discord.2022-2023⁄09⁄21-doh-server.plot-element.yggdrasil]]
+
+❇ The 13 teams are aligned with one of three alliances: Red, Blue, or Purple. There are three Red, three Blue, and seven Purple members.
+
+When spaces change hands, it is an individual acting on the part of a team to take possession, and Red and Blue should always hand off to a Purple team. Purple can hand off to any team.
+
+The Red teams should be headed by XX chromosomed people, the Blues should be XY, and the Purples whatever.
