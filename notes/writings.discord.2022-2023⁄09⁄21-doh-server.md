@@ -2,7 +2,7 @@
 id: hydkpabz319dsx1aalftjtu
 title: 2022–2023/09/21𝄈 Dept. of Happiness' Server
 desc: ''
-updated: 1717524806549
+updated: 1717525659112
 created: 1695277240403
 ---
 The [[13-13s]] were described as categories & channels.
@@ -86,7 +86,11 @@ The [[13-13s]] were described as categories & channels.
   * 🦅︱veðrfölnir︱🐦
 
 * 🥧-segments-🌒
-  * 🧒-children-🧒♀
+  * ♂︱men︱🕴
+  * ♀︱women︱🤰
+  * ⚩︱trans︱💃
+  * 🧒︱children︱🧒♀
+  * 🤡︱workers︱👩‍🏭
   * 🧓🏾︱elderly︱🧓🏻
   * 🖤︱blacks︱🏴
   * 🤍︱whites︱🏳
@@ -100,10 +104,10 @@ The [[13-13s]] were described as categories & channels.
 * 🤖-Projects-🏗
   * 🚘｜courier｜🚖
   * 💃｜pythia｜💎
-  * 💪｜enforcement｜🥋
+  * 💪｜help｜🥋
   * 🐙︱mïmis︱👁
-  * 🎓｜rewards｜💹
-  * 🗳｜office｜🧮
+  * 🎓｜churn｜💹
+  * 🗳｜supply｜🧮
 
 * 👲-Captains-☸
   * [[࿋｜all｜☮|writings.discord.2022-2023⁄09⁄21-doh-server.captain.all]]
@@ -117,6 +121,7 @@ The [[13-13s]] were described as categories & channels.
 * ⚖-Tiers-💯
   * 🛳｜ships｜🚢
   * 🚚｜trucks｜🚘
+  * 🐯｜cats｜🦁
 
 * ॐ-Precepts-☸
   * mistake-you-woundnt-a-done-what-you-did-ifn-youd-known-what-you-know
