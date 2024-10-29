@@ -12,6 +12,6 @@ The teams are themed after aspects of Norse cosmology:
 * 🐲 ― Níðhöggr: Dragon who gnaws at Yggdrasil
 * 🐿️ ― Ratatoskr: Squirrel who lives in Yggdrasil
 * 🦌 ― Dáinn, Dvalinn, Duneyrr and Duraþrór: Stags that nibble at Yggdrasil
-* 🦅 ― 
+* 🦅 ― Veðrfölnir
 
 ![Yggdrasil](assets/images/Yggdrasil.svg)
