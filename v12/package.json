@@ -1,0 +1,12 @@
+{
+  "name": "v12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd quartz/ && npx quartz build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

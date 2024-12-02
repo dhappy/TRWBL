@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f5fee6e32ac270e",
+        "id": "e77e0e1e6cf0ad34",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa796fb0ab7d145",
+            "id": "b571baed56b6d0a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/_folder.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_folder"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/_folder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _folder"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/_folder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _folder"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pages/_folder.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of _folder"
+              "title": "Outline"
             }
           }
         ]
@@ -159,14 +155,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1aa796fb0ab7d145",
+  "active": "b571baed56b6d0a4",
   "lastOpenFiles": [
+    "Drug War Horrors.md",
+    "index.md",
+    "Pages/Landing/index.md",
+    "().md",
+    "Welcome.md",
     "Pages/_folder.md",
-    "Pages",
-    "Welcome.md"
+    "Pages/Landing",
+    "Pages"
   ]
 }
