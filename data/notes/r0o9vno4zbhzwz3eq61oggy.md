@@ -1,5 +1,0 @@
-The game is ultimately about the allocation and control of physical space.
-
-There will be a 3D model of the available spaces that helps the participants to know what spaces they control & what the rules are for others.
-
-All spaces are equipped with video monitoring though the controller of the space can request to disable it. In-game conflict is frequently handled in part by recording the offending parties.

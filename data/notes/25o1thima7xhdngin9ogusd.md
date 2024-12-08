@@ -1,9 +1,0 @@
-Stay is the core of the purpose of Yggdrasil which is to change how people are given access to space. When combined with [[Stuff|13-13s.axes.projects.stuff]] it will operate to make people de facto rich.
-
-Being rich isn't about having alot of money. Being rich is about having access. Access to resources be they consumable or rare or whatever. What money *allows* the rich to do is to have what they want.
-
-I want to start a campaign to incorporate properties into the game. Through a combination of amelioration and reducing unused desirable space we should be able to give a larger percentage of the population access to places they want to be.
-
-There need to be 3D models of the spaces. Users can tell by coloration where they have rights.
-
-Part of what the [[Duos|13-13s.axes.projects.duos]] are doing is delivering the possessions of Guests
