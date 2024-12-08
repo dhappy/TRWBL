@@ -20,8 +20,99 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "435ff488a9fccdf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constant Couriering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constant Couriering"
+            }
+          },
+          {
+            "id": "74ad0c1afc45bc7d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "1052f090482bafc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pythia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pythia"
+            }
+          },
+          {
+            "id": "f62a41e3f6a2604f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Argus"
+            }
+          },
+          {
+            "id": "987d18b4be29297c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mammon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mammon"
+            }
+          },
+          {
+            "id": "fd355caf21e80cf1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -40,
+                  "y": -90,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,10 +249,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b571baed56b6d0a4",
+  "active": "fd355caf21e80cf1",
   "lastOpenFiles": [
-    "Drug War Horrors.md",
+    "Constant Couriering.md",
+    "Argus.md",
     "index.md",
+    "Mammon.md",
+    "Untitled.canvas",
+    "Proof of Dual Control.md",
+    "Pythia.md",
+    "Pantheon.md",
+    "Drug War Horrors.md",
     "Pages/Landing/index.md",
     "().md",
     "Welcome.md",
