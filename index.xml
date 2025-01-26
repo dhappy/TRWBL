@@ -6,6 +6,36 @@
       <description>Last 10 notes on ✊🏽 TRWBL 📺️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Pandora</title>
+    <link>https://quartz.jzhao.xyz/Pandora</link>
+    <guid>https://quartz.jzhao.xyz/Pandora</guid>
+    <description>In some of the Yggdrasil Outposts, there are a wall of lockers with two doors in each. One side faces a “locker room” where someone with a key code (or wallet signature) is able to unlock a locker and retrieve its contents.</description>
+    <pubDate>Sun, 26 Jan 2025 18:28:46 GMT</pubDate>
+  </item><item>
+    <title>Helios</title>
+    <link>https://quartz.jzhao.xyz/Helios</link>
+    <guid>https://quartz.jzhao.xyz/Helios</guid>
+    <description>“Half” of the transport system managed by Leviathon is a network of drivers moving parcels between holding stations. Holding stations may be lockers or human-managed locations.</description>
+    <pubDate>Sun, 26 Jan 2025 18:22:07 GMT</pubDate>
+  </item><item>
+    <title>Leviathon</title>
+    <link>https://quartz.jzhao.xyz/Leviathon</link>
+    <guid>https://quartz.jzhao.xyz/Leviathon</guid>
+    <description>The goal is to abolish traditional physical goods markets in favor of a “fractured market” where the goods are held jointly by storage locations and transport media ...</description>
+    <pubDate>Sun, 26 Jan 2025 18:14:26 GMT</pubDate>
+  </item><item>
+    <title>Silver Outpost №1</title>
+    <link>https://quartz.jzhao.xyz/Silver-Outpost-%E2%84%961</link>
+    <guid>https://quartz.jzhao.xyz/Silver-Outpost-%E2%84%961</guid>
+    <description> The front of the location is couches where dealings may be done, or clients can rent a couch for an extended stay. There is one couch reserved for the Monitor who is on site to safeguard everything and help the guests with anything they might want.</description>
+    <pubDate>Sun, 26 Jan 2025 16:43:05 GMT</pubDate>
+  </item><item>
+    <title>Yggdrasil</title>
+    <link>https://quartz.jzhao.xyz/Yggdrasil</link>
+    <guid>https://quartz.jzhao.xyz/Yggdrasil</guid>
+    <description>Yggdrasil is a system for managing short term leases on specific locations targeted down to the level of a single room, or even piece of furniture. It also helps manage the user reputations within the game.</description>
+    <pubDate>Sun, 26 Jan 2025 13:53:04 GMT</pubDate>
+  </item><item>
     <title>Gaianism</title>
     <link>https://quartz.jzhao.xyz/Gaianism</link>
     <guid>https://quartz.jzhao.xyz/Gaianism</guid>
@@ -35,36 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Mammon</guid>
     <description>Mammon is concerned with the compensation for resources. If party A puts up a collection of parcels at 750 up front, 750 as a percentage of the sales of the internal parcels automatically collected.</description>
     <pubDate>Sun, 08 Dec 2024 01:43:19 GMT</pubDate>
-  </item><item>
-    <title>Argus</title>
-    <link>https://quartz.jzhao.xyz/Argus</link>
-    <guid>https://quartz.jzhao.xyz/Argus</guid>
-    <description>Argus is a system that people feed potential events into &amp; helps people decide what will happen where. A bot that interacts with Argus is some sort of gamesman that organizes brackets of competition in various sports.</description>
-    <pubDate>Sun, 08 Dec 2024 01:35:30 GMT</pubDate>
-  </item><item>
-    <title>Pythia</title>
-    <link>https://quartz.jzhao.xyz/Pythia</link>
-    <guid>https://quartz.jzhao.xyz/Pythia</guid>
-    <description>Pythia is a system that eats information about the world &amp; gives users probabilistic outcomes of their decisions. “There is a 75±10% chance that you will report regretting smoking that cigarette within seven years.”.</description>
-    <pubDate>Sun, 08 Dec 2024 01:29:39 GMT</pubDate>
-  </item><item>
-    <title>Proof of Dual Control</title>
-    <link>https://quartz.jzhao.xyz/Proof-of-Dual-Control</link>
-    <guid>https://quartz.jzhao.xyz/Proof-of-Dual-Control</guid>
-    <description>A signer signs their own public key, along with a identifier this is a proof of dual control, and a timestamp. A second account signs that document along with an optional id, and a timestamp.</description>
-    <pubDate>Sun, 08 Dec 2024 01:14:25 GMT</pubDate>
-  </item><item>
-    <title>Constant Couriering</title>
-    <link>https://quartz.jzhao.xyz/Constant-Couriering</link>
-    <guid>https://quartz.jzhao.xyz/Constant-Couriering</guid>
-    <description>To make it easier for producers to gain access to consumers, there will be a collection of goods that are distributed among groups of cars and short-term storage locations ...</description>
-    <pubDate>Sun, 08 Dec 2024 00:18:29 GMT</pubDate>
-  </item><item>
-    <title>Drug War Horrors</title>
-    <link>https://quartz.jzhao.xyz/Drug-War-Horrors</link>
-    <guid>https://quartz.jzhao.xyz/Drug-War-Horrors</guid>
-    <description>I stand convinced that once the full extent of how much a blight the War on Drugs has been on society, it will be understood to be on par with slavery in terms of the harms it caused ...</description>
-    <pubDate>Wed, 27 Nov 2024 07:53:15 GMT</pubDate>
   </item>
     </channel>
   </rss>
