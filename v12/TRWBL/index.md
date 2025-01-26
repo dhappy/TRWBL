@@ -2,6 +2,7 @@
 title: The Revolution Will Be Live
 tags:
   - propaganda
+  - overview
 ---
 # TRWBL: The Revolution Will Be Live
 
@@ -13,4 +14,4 @@ The AIs most decidedly didn't get any of the major points I'd attempted to bring
 
 At it's heart, my plan is to architect a set of computer programs that combine to enable the execution of an augmented reality game called Yggdrasil. The structure is there are 13 axes, like colors or months of the year or flags, and each team is associated with a set of 13 things — one from each axis.
 
-One of the primary foci of the game is changing how space is controlled…
+One of the primary foci of the game is changing how space and resources are controlled. The purpose of money is primarily to get stuff and places, so an alternative system for distributing those could undermine the existing monetary system.

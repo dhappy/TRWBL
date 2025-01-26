@@ -1,3 +1,7 @@
+---
+tags:
+  - process
+---
 To make it easier for producers to gain access to consumers, there will be a collection of goods that are distributed among groups of cars and short-term  storage locations.
 
 Think of it as a Dollar General, but the products are spread out across the landscape & their storage is private: you shop online & the goods come to you.
