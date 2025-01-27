@@ -1,0 +1,4 @@
+img[alt*="center"] {
+  display: block;
+  margin-inline: auto;
+}

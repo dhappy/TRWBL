@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "afbccdaa2333cf42",
+        "id": "3f8c2b5499f9536d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee79a3e5e0673402",
+            "id": "f671ad781f5fbd6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandora.md",
+                "file": "Leviathan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandora"
+              "title": "Leviathan"
+            }
+          },
+          {
+            "id": "19d0e6376b46e3bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Helios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Helios"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Helios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Helios"
             }
           },
           {
@@ -140,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pandora.md"
+                "file": "Helios.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pandora"
+              "title": "Outline of Helios"
             }
           }
         ],
@@ -163,39 +177,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee79a3e5e0673402",
+  "active": "19d0e6376b46e3bc",
   "lastOpenFiles": [
+    "Argus.md",
+    "banner.svg",
+    "Constant Couriering.md",
+    "Vár.md",
+    "Mïmis.md",
+    "Dionysus.md",
+    "Leviathan.md",
+    "Drug War Horrors.md",
+    "13-13s.md",
+    "Ladon.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "index.md",
+    "images/kallisti's apple.svg",
     "Helios.md",
     "Pandora.md",
-    "Leviathon.md",
+    "images/software/Argus Icon.svg",
+    "images/software",
+    "Serial Mobbing.md",
+    "Yggdrasil.md",
+    "Mammon.md",
+    "Pantheon.md",
+    "Serial.md",
     "Silver Outpost №1.md",
+    "Silver.md",
+    "Pythia.md",
     "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "images/Yggdrasil Outposts/Silver/№1",
     "images/Yggdrasil Outposts/Silver",
     "images/Yggdrasil Outposts",
     "images",
-    "Yggdrasil.md",
-    "index.md",
-    "Pantheon.md",
-    "Constant Couriering.md",
     "Why It's Called That.md",
-    "Untitled 1.canvas",
-    "Argus.md",
-    "Pythia.md",
-    "Mïmis.md",
-    "Untitled.canvas",
     "Proof of Dual Control.md",
     "Gaianism.md",
-    "Drug War Horrors.md",
-    "Mammon.md",
     "Constant.md",
     "Pantheon/index.md",
     "Pantheon",
     "CNAME",
-    "Pages/Landing/index.md",
-    "().md",
-    "Welcome.md",
-    "Pages/_folder.md",
     "Pages/Landing",
     "Pages"
   ]

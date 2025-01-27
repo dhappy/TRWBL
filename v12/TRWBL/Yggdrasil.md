@@ -7,4 +7,4 @@ Yggdrasil is a system for managing short term leases on specific locations targe
 
 It also helps manage the user reputations within the game. A user has 13 sets of user records — [one for each team](13-13s).
 
-One of the initial testbeds will be [the first Silver outpost](Silver Outpost №1).
+One of the initial testbeds will be [the first Silver outpost](Silver%20Outpost%20№1).

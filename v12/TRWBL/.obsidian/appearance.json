@@ -1,4 +1,10 @@
 {
   "baseFontSize": 20,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": "#24a9d6",
+  "cssTheme": "Typewriter",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "img-center"
+  ]
 }

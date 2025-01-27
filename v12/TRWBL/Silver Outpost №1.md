@@ -26,6 +26,6 @@ The Arx Halo chips are neat because they keep internal secret keys and only rele
 
 For the NTag chips, anything on it can theoretically be duplicated on another chip. Even the UUID that's burnt in at manufacture can be written on certain chips. Regardless, if we capture that UUID & write a reasonable amount of randomness ourselves, we should be able to reasonably verify authenticity.
 
-[The shipping system](Leviathon) will know of, eventually, a sea of tags it is tracking for locations and parcels. A user could be asked to scan the item tag then the location tag known to be nearby to increase the probability the scan is genuine.
+[The shipping system](Leviathan.md) will know of, eventually, a sea of tags it is tracking for locations and parcels. A user could be asked to scan the item tag then the location tag known to be nearby to increase the probability the scan is genuine.
 
 The system could regularly change the value stored on the location NFC tag so that when a value is read, you know that the only way it was compromised is by a very limited of people who had access to that value.
