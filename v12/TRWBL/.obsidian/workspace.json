@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leviathan.md",
+                "file": "Gaianism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leviathan"
+              "title": "Gaianism"
             }
           },
           {
-            "id": "19d0e6376b46e3bc",
+            "id": "36c6c018600e6969",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helios.md",
+                "file": "Serial Mobbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helios"
+              "title": "Serial Mobbing"
+            }
+          },
+          {
+            "id": "0ef8387a99a74bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norns"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helios.md",
+                "file": "Yggdrasil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Helios"
+              "title": "Backlinks for Yggdrasil"
             }
           },
           {
@@ -127,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helios.md",
+                "file": "Yggdrasil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Helios"
+              "title": "Outgoing links from Yggdrasil"
             }
           },
           {
@@ -154,10 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helios.md"
+                "file": "Norns.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Helios"
+              "title": "Outline of Norns"
             }
           }
         ],
@@ -177,44 +195,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19d0e6376b46e3bc",
+  "active": "0ef8387a99a74bdb",
   "lastOpenFiles": [
-    "Argus.md",
-    "banner.svg",
+    "Serial Mobbing.md",
+    "Norns.md",
+    "Pantheon.md",
+    "Kaup.md",
     "Constant Couriering.md",
+    "Revolution.md",
+    "Silver Outpost №1.md",
+    "13-13s.md",
+    "Gaianism.md",
+    "Untitled",
+    "Drug War Horrors.md",
+    "Jörmungandr.md",
+    "Hestia.md",
+    "Yggdrasil.md",
     "Vár.md",
+    "Why It's Called That.md",
+    "Týr.md",
+    "svg.svg",
+    "Testing.canvas",
+    "Silver.md",
+    "Helios.md",
+    "index.md",
+    "Ladon.md",
     "Mïmis.md",
     "Dionysus.md",
-    "Leviathan.md",
-    "Drug War Horrors.md",
-    "13-13s.md",
-    "Ladon.md",
-    "Untitled.canvas",
+    "banner.svg",
+    "Argus.md",
+    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "Untitled 1.canvas",
-    "index.md",
     "images/kallisti's apple.svg",
-    "Helios.md",
     "Pandora.md",
     "images/software/Argus Icon.svg",
     "images/software",
-    "Serial Mobbing.md",
-    "Yggdrasil.md",
     "Mammon.md",
-    "Pantheon.md",
     "Serial.md",
-    "Silver Outpost №1.md",
-    "Silver.md",
-    "Pythia.md",
-    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "images/Yggdrasil Outposts/Silver/№1",
     "images/Yggdrasil Outposts/Silver",
     "images/Yggdrasil Outposts",
     "images",
-    "Why It's Called That.md",
-    "Proof of Dual Control.md",
-    "Gaianism.md",
-    "Constant.md",
-    "Pantheon/index.md",
     "Pantheon",
     "CNAME",
     "Pages/Landing",
