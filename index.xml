@@ -6,6 +6,36 @@
       <description>Last 10 notes on ✊🏽 TRWBL 📺️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Norns</title>
+    <link>https://quartz.jzhao.xyz/Norns</link>
+    <guid>https://quartz.jzhao.xyz/Norns</guid>
+    <description>Users will create ordered lists which will be combined to produce new ordered lists personalized for individual users by Skuld, the fate concerned with the future ...</description>
+    <pubDate>Mon, 10 Feb 2025 23:51:38 GMT</pubDate>
+  </item><item>
+    <title>Kaup</title>
+    <link>https://quartz.jzhao.xyz/Kaup</link>
+    <guid>https://quartz.jzhao.xyz/Kaup</guid>
+    <description>There is a huge quantity of unowned resources travelling through the couriers’ network. Kaup is the interface for users to describe their desires, peruse the available offerings and schedules, and to ultimately select what they want to receive.</description>
+    <pubDate>Mon, 10 Feb 2025 23:30:47 GMT</pubDate>
+  </item><item>
+    <title>Revolution</title>
+    <link>https://quartz.jzhao.xyz/Revolution</link>
+    <guid>https://quartz.jzhao.xyz/Revolution</guid>
+    <description>Funding Initially the funds to support the software development that is at the core of the revolution come from establishing a reliable and violence-averse market for all sorts of ...</description>
+    <pubDate>Mon, 10 Feb 2025 23:15:32 GMT</pubDate>
+  </item><item>
+    <title>Týr</title>
+    <link>https://quartz.jzhao.xyz/T%C3%BDr</link>
+    <guid>https://quartz.jzhao.xyz/T%C3%BDr</guid>
+    <description></description>
+    <pubDate>Mon, 27 Jan 2025 07:15:30 GMT</pubDate>
+  </item><item>
+    <title>Hestia</title>
+    <link>https://quartz.jzhao.xyz/Hestia</link>
+    <guid>https://quartz.jzhao.xyz/Hestia</guid>
+    <description>Hestia is a system for managing short term leases on specific locations targeted down to the level of a single room, or even piece of furniture. One of the initial testbeds will be the first Silver outpost.</description>
+    <pubDate>Mon, 27 Jan 2025 07:11:46 GMT</pubDate>
+  </item><item>
     <title>Dionysus</title>
     <link>https://quartz.jzhao.xyz/Dionysus</link>
     <guid>https://quartz.jzhao.xyz/Dionysus</guid>
@@ -27,44 +57,14 @@
     <title>Ladon</title>
     <link>https://quartz.jzhao.xyz/Ladon</link>
     <guid>https://quartz.jzhao.xyz/Ladon</guid>
-    <description>In Norse mythology, Ladon is the dragon who guards the golden apples of immortality, which keep the gods youthful. In the systems of software that is Yggdrasil, Nike keeps track of goods as they move through the courier system &amp; Ladon aids people who run holding locations to.</description>
+    <description>In Norse mythology, Ladon is the dragon who guards the golden apples of immortality, which keep the gods youthful. In the systems of software that is Yggdrasil, Nike keeps track of goods as they move through the courier system &amp; Ladon aids people who run holding locations to manage their resources.</description>
     <pubDate>Sun, 26 Jan 2025 22:57:34 GMT</pubDate>
   </item><item>
     <title>Serial Mobbing</title>
     <link>https://quartz.jzhao.xyz/Serial-Mobbing</link>
     <guid>https://quartz.jzhao.xyz/Serial-Mobbing</guid>
-    <description>A Serial Mob is akin to a pair programming session. In pair programming there’s a Navigator who describes the program to write and the Driver who operates the UI and does the physical writing.</description>
+    <description>![[svg.svg | center | 300]] A Serial Mob is akin to a pair programming session. In pair programming there’s a Navigator who describes the program to write and the Driver who operates the UI and does the physical writing.</description>
     <pubDate>Sun, 26 Jan 2025 20:57:43 GMT</pubDate>
-  </item><item>
-    <title>Serial</title>
-    <link>https://quartz.jzhao.xyz/Serial</link>
-    <guid>https://quartz.jzhao.xyz/Serial</guid>
-    <description></description>
-    <pubDate>Sun, 26 Jan 2025 20:56:56 GMT</pubDate>
-  </item><item>
-    <title>Silver</title>
-    <link>https://quartz.jzhao.xyz/Silver</link>
-    <guid>https://quartz.jzhao.xyz/Silver</guid>
-    <description></description>
-    <pubDate>Sun, 26 Jan 2025 18:47:21 GMT</pubDate>
-  </item><item>
-    <title>Pandora</title>
-    <link>https://quartz.jzhao.xyz/Pandora</link>
-    <guid>https://quartz.jzhao.xyz/Pandora</guid>
-    <description>In some of the Yggdrasil Outposts, there are a wall of lockers with two doors in each. One side faces a “locker room” where someone with a key code (or wallet signature) is able to unlock a locker and retrieve its contents.</description>
-    <pubDate>Sun, 26 Jan 2025 18:28:46 GMT</pubDate>
-  </item><item>
-    <title>Helios</title>
-    <link>https://quartz.jzhao.xyz/Helios</link>
-    <guid>https://quartz.jzhao.xyz/Helios</guid>
-    <description>“Half” of the transport system managed by Leviathan is a network of drivers moving parcels between holding stations. Holding stations may be lockers or human-managed locations.</description>
-    <pubDate>Sun, 26 Jan 2025 18:22:07 GMT</pubDate>
-  </item><item>
-    <title>Leviathan</title>
-    <link>https://quartz.jzhao.xyz/Leviathan</link>
-    <guid>https://quartz.jzhao.xyz/Leviathan</guid>
-    <description>The goal is to abolish traditional physical goods markets in favor of a “fractured market” where the goods are held jointly by storage locations and transport media ...</description>
-    <pubDate>Sun, 26 Jan 2025 18:14:26 GMT</pubDate>
   </item>
     </channel>
   </rss>
