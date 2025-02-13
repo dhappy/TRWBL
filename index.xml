@@ -6,6 +6,36 @@
       <description>Last 10 notes on ✊🏽 TRWBL 📺️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Escrow</title>
+    <link>https://quartz.jzhao.xyz/Escrow</link>
+    <guid>https://quartz.jzhao.xyz/Escrow</guid>
+    <description>One of the central questions for the courier network is how to prevent theft. This is accomplished by the distributor assigning a value to each parcel they ship &amp; before another party can take possession, they have to stake that assigned cost to be forfeit if they are found responsible for its loss.</description>
+    <pubDate>Thu, 13 Feb 2025 08:56:56 GMT</pubDate>
+  </item><item>
+    <title>Par</title>
+    <link>https://quartz.jzhao.xyz/Par</link>
+    <guid>https://quartz.jzhao.xyz/Par</guid>
+    <description>Goods and people are constantly being shuttled around by a set of couriering pairs. The software that is running in the vehicle is called Par. Depending on the situation, the two people in the car will fill a variety of roles.</description>
+    <pubDate>Thu, 13 Feb 2025 08:03:28 GMT</pubDate>
+  </item><item>
+    <title>Presidency</title>
+    <link>https://quartz.jzhao.xyz/Presidency</link>
+    <guid>https://quartz.jzhao.xyz/Presidency</guid>
+    <description>The calendars for the post-revolution era will kick off with the inauguration of a U.S. President.</description>
+    <pubDate>Thu, 13 Feb 2025 03:27:46 GMT</pubDate>
+  </item><item>
+    <title>Clock</title>
+    <link>https://quartz.jzhao.xyz/Clock</link>
+    <guid>https://quartz.jzhao.xyz/Clock</guid>
+    <description>Decimal Clock Time, for events organized by the revolution, are set to a ten-hour clock with a hundred minutes per hour and a hundred seconds per minute ...</description>
+    <pubDate>Tue, 11 Feb 2025 02:48:34 GMT</pubDate>
+  </item><item>
+    <title>Calendars</title>
+    <link>https://quartz.jzhao.xyz/Calendars</link>
+    <guid>https://quartz.jzhao.xyz/Calendars</guid>
+    <description>Revolutionary Calendars There are two separate calendars used for organizing activities. Annual and holiday events are placed on a rotated 13-sign Sidereal Zodiac.</description>
+    <pubDate>Tue, 11 Feb 2025 02:34:46 GMT</pubDate>
+  </item><item>
     <title>Norns</title>
     <link>https://quartz.jzhao.xyz/Norns</link>
     <guid>https://quartz.jzhao.xyz/Norns</guid>
@@ -35,36 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Hestia</guid>
     <description>Hestia is a system for managing short term leases on specific locations targeted down to the level of a single room, or even piece of furniture. One of the initial testbeds will be the first Silver outpost.</description>
     <pubDate>Mon, 27 Jan 2025 07:11:46 GMT</pubDate>
-  </item><item>
-    <title>Dionysus</title>
-    <link>https://quartz.jzhao.xyz/Dionysus</link>
-    <guid>https://quartz.jzhao.xyz/Dionysus</guid>
-    <description></description>
-    <pubDate>Mon, 27 Jan 2025 06:00:25 GMT</pubDate>
-  </item><item>
-    <title>Vár</title>
-    <link>https://quartz.jzhao.xyz/V%C3%A1r</link>
-    <guid>https://quartz.jzhao.xyz/V%C3%A1r</guid>
-    <description>Vár, the Norse goddess of witnessing, is the namesake of the dashcam used by the couriers to: Record their driving performance. Get directions to their next stop.</description>
-    <pubDate>Mon, 27 Jan 2025 05:58:27 GMT</pubDate>
-  </item><item>
-    <title>Thirteen Thirteens</title>
-    <link>https://quartz.jzhao.xyz/13-13s</link>
-    <guid>https://quartz.jzhao.xyz/13-13s</guid>
-    <description>Thirteen thirteens draws it’s name from an organization of teams that are competing and cooperating to divvy up control of spaces and access to resources ...</description>
-    <pubDate>Mon, 27 Jan 2025 01:16:03 GMT</pubDate>
-  </item><item>
-    <title>Ladon</title>
-    <link>https://quartz.jzhao.xyz/Ladon</link>
-    <guid>https://quartz.jzhao.xyz/Ladon</guid>
-    <description>In Norse mythology, Ladon is the dragon who guards the golden apples of immortality, which keep the gods youthful. In the systems of software that is Yggdrasil, Nike keeps track of goods as they move through the courier system &amp; Ladon aids people who run holding locations to manage their resources.</description>
-    <pubDate>Sun, 26 Jan 2025 22:57:34 GMT</pubDate>
-  </item><item>
-    <title>Serial Mobbing</title>
-    <link>https://quartz.jzhao.xyz/Serial-Mobbing</link>
-    <guid>https://quartz.jzhao.xyz/Serial-Mobbing</guid>
-    <description>![[svg.svg | center | 300]] A Serial Mob is akin to a pair programming session. In pair programming there’s a Navigator who describes the program to write and the Driver who operates the UI and does the physical writing.</description>
-    <pubDate>Sun, 26 Jan 2025 20:57:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
