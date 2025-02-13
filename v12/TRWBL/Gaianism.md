@@ -1,5 +1,5 @@
 One of the goals of the revolution is to supplant the Judaistic religions with one grounded in science.
-## Basic Cencepts
+## Basic Concepts
 
 One of the founding tenets of fundamentalist Christianity is that a virgin got pregnant. Vehemently holding such a nonsensical belief requires an active suspension of one's connection to reality.
 
@@ -13,7 +13,7 @@ The benefits of forming a religion are:
 * Legal protections for faith-based behaviors, specifically:
 	* Gaianism posits that AIs can play a major role in the daily decision-making process, and one of the most important data sets that can be used to train said AIs is recordings of life events. Therefore, adherents would have reason to record all life events.
 	* Another tenet is that the foremost duty of us as people is to seek truth. As such, intellectual property is immoral because it artificially restricts the sources of data available to the disciple.
-	* 
+	* Likewise, censorship is also immoral because it also artificially restricts the information one has access to.
 
 ## Metaphors
 
@@ -44,7 +44,7 @@ As one of the goals of the revolution is [anonymity](jobs-project)…
 
 ## Tenets
 
-In fitting with the 13 13s that is [Yggdrasil](Yggdrasil), there are 13 core tenets that practitioners of the faith exercise.
+In fitting with the [13 13s](13-13s) that are [Yggdrasil](Yggdrasil), there are 13 core tenets that practitioners of the faith exercise.
 
 1. The truth will set you free.
 2. 
@@ -53,4 +53,6 @@ In fitting with the 13 13s that is [Yggdrasil](Yggdrasil), there are 13 core ten
 Another set of 13 is the list of proscribed behaviors.
 
 1. Never break glass.
-2. 
+2. Always get consent.
+3. No thievery.
+4. 

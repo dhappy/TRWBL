@@ -17,3 +17,20 @@ Some of the most marked differences between our lives and those of those living 
 Property ownership will be structured as short term leases. The [initial testbed](Silver%20Outpost%20№1) has a plan for three couches which will rent for twelve hour periods and come with a locker for the storage of a small number of personal items.
 
 You won't need to have bunches of possessions because all the now unowned stuff is traveling around in a network of vehicles, lockers, and holding establishments trying to be close to where it will eventually be used.
+
+## Process
+
+The revolution takes advantage that many of our systems contain mechanisms for them to be obsolesced if a significant enough percentage of the population participates.
+
+¿How do you take over the American Executive Branch? Elect a reformist candidate as President. ¿How do you take control of the supply chain? Structure markets to accrue goods over time & essentially buy everything.
+
+One tactic that sounds productive to me is targeting businesses for takeover. We advertize to a company that we want to convert their resources to be controlled by a distributed permissioning network. We offer some buyout price, and then encourage all their customers to cease to be so as quickly as possible. We slash their profits until they bleed enough that they sell.
+
+[Gaianism](Gaianism) attacks the ownership of churches in a similar way though there there is a conspiratory aspect to subvert the power structure of a congregation in secret until sufficient support is garnered for a takeover, then the trap is sprung all at once.
+## World Domination
+
+The revolution takes aim at three primary enemies of freedom in the world: China, Russia, & The Islamic State.
+
+A common component to how all three are dealt with is the proliferation of mobile devices capable of accessing a planetary Internet for free.
+
+Software will be developed to aid members of these countries develop conspiracies to enact social change. Hopefully, [Mïmis](Mïmis) & [its compatriots](Pantheon) will provide a sufficiently vetted source of news that genuine narratives can take hold and the members of that society will strive for healthier and freer structures.
