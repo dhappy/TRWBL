@@ -11,7 +11,7 @@ Often, programming pairs will have a more experienced Navigator & more junior Dr
 
 In mob programming, you have a group of 3–4 & people are shifting in and out of the Navigator and Driver roles every 20 minutes or so.
 
-Those not actively Navigating or Driving serve as a real-time code review to hopefully catch any leaked secrets of egregious errors.
+Those not actively Navigating or Driving serve as a real-time code review to hopefully catch any leaked secrets or egregious errors.
 
 The comings and goings of the mobsters is staggered so there are always at least three participants to keep things going.
 
