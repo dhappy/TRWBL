@@ -4,6 +4,7 @@ media: ipfs://QmRpZV7gYFFD1TCsaxCs8YsuSxqmUu2sza19crHM2ccbhm
 distribution: T13-top-secret
 tags:
   - media
+  - reference
 ---
 I want to slowly reveal to the world that a revolution has taken place & there's been a massively entertaining alternative to the work-a-day world in an AI-managed lifestyle that, literally everyone has been participating in for most of this person's life without their knowledge.
 
