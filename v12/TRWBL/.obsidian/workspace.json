@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teams/by/logistic/Martyrs’ Corps.md",
+                "file": "teams/by/reveal/Truman Someone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Martyrs’ Corps"
+              "title": "Truman Someone"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teams/by/logistic/Martyrs’ Corps.md",
+                "file": "teams/by/reveal/Truman Someone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Martyrs’ Corps"
+              "title": "Outline of Truman Someone"
             }
           }
         ],
@@ -168,8 +168,8 @@
   },
   "active": "e79cf6b682088864",
   "lastOpenFiles": [
-    "teams/by/narrative/In the beginning….md",
     "teams/by/logistic/Martyrs’ Corps.md",
+    "teams/by/narrative/In the beginning….md",
     "teams/by/narrative/Why It's Called That.md",
     "teams/by/propaganda/Drug War Horrors.md",
     "teams/by/song/Breath.md",
