@@ -5,7 +5,7 @@ tags:
 ---
 # Revolutionary Calendars
 
-There are two separate calendars used for organizing activities. Annual and holiday events are placed on a rotated 13-sign Sidereal Zodiac. Repeating and supply chain 
+There are two separate calendars used for organizing activities. Annual and holiday events are placed on a rotated 13-sign Sidereal Zodiac. Repeating and supply chain
 events are on a shifted Islamic lunar Hijri.
 
 ## Sidereal Zodiac
@@ -21,7 +21,7 @@ The system used in [Yggdrasil](Yggdrasil.md) uses a line from the sun through th
 
 Coincidentally, the first day of Capricorn on the Sidereal Zodiac, 0⁄♑⁄0, is January, 20 on the Gregorian Calendar. Which is also, Inauguration Day for the U.S. President every four years. The date on the revolution's calendar, then, is currently counting down to the day a President is inaugurated who has the intention of carrying out the revolution.
 
-For example, if we assume the President to follow Trump’s term will be a revolutionary, today, 2025⁄2⁄12, would be -3⁄♐⁄4 meaning that in five days it will be the end of Sagittarius on the Sidereal Zodiac three years out from the fated inauguration.
+For example, if we assume the President to follow 🍊’s term will be a revolutionary, today, 2025⁄2⁄12, would be -3⁄♐⁄4 meaning that in five days it will be the end of Sagittarius on the Sidereal Zodiac three years out from the fated inauguration.
 
 The calendar is zero-based and -3⁄♒⁄22 *(the beginning of the countdown of Aquarius)* *(i.e. -3⁄♐⁄0)* is 2025⁄3⁄11 and the month is 23 days long.
 
@@ -29,7 +29,7 @@ The countdowns continue until 2029⁄1⁄20 which, since the flip is when the Pr
 
 ### 0⁄♐⁄16
 
-Theoretically, Trump could take on an active role in the system & the year zero, then, would have begun 2025⁄1⁄20. The President of the U.S. is the captain of the [[Gold Team]] which represents the existing establishment. It is not infeasible that Trump might claim the title &, if so, it would be all the better for what are initially his [co-conspirators](Hard%20Reset) who would then have access to the largess of these United States. 
+Theoretically, 🍊 could take on an active role in the system & the year zero, then, would have begun 2025⁄1⁄20. The President of the U.S. is the captain of the [[Gold Team]] which represents the existing establishment. It is not infeasible that 🍊 might claim the title &, if so, it would be all the better for what are initially his [co-conspirators](Hard%20Reset) who would then have access to the largess of these United States.
 
 In that situation, today is 0⁄♐⁄16.
 
