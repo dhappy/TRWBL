@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"9b71507ae587800e","type":"file","file":"Drug War Horrors.md","x":-480,"y":-360,"width":400,"height":400},
-		{"id":"af17e13f3399dc6c","type":"file","file":"Constant Couriering.md","x":0,"y":-360,"width":400,"height":400},
+		{"id":"9b71507ae587800e","type":"file","file":"teams/by/propaganda/Drug War Horrors.md","x":-480,"y":-360,"width":400,"height":400},
+		{"id":"af17e13f3399dc6c","type":"file","file":"teams/by/software/Constant Couriering.md","x":0,"y":-360,"width":400,"height":400},
 		{"id":"96354a02d002f238","type":"text","text":"I want as few steps as possible between your insulin & you.","x":75,"y":60,"width":325,"height":120},
 		{"id":"56163318f2594b10","x":-480,"y":60,"width":250,"height":80,"type":"text","text":"That Yahweh would go the way of Zeus."}
 	],
