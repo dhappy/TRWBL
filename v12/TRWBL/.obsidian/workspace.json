@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f8c2b5499f9536d",
+        "id": "9ace75e6b21a8816",
         "type": "tabs",
         "children": [
           {
-            "id": "f671ad781f5fbd6c",
+            "id": "7df1b1ef2ce5f2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mïmis.md",
+                "file": "teams/by/reveal/Truman Someone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mïmis"
-            }
-          },
-          {
-            "id": "36c6c018600e6969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serial Mobbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Serial Mobbing"
+              "title": "Truman Someone"
             }
           }
         ]
@@ -154,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mïmis.md",
+                "file": "teams/by/reveal/Truman Someone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mïmis"
+              "title": "Outline of Truman Someone"
             }
           }
         ],
@@ -180,50 +166,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f671ad781f5fbd6c",
+  "active": "70a6fddb9548fd86",
   "lastOpenFiles": [
-    "jobs-project.md",
-    "Gaianism.md",
-    "Escrow.md",
-    "Drug War Horrors.md",
-    "Constant Couriering.md",
-    "Calendars.md",
-    "Clock.md",
-    "13-13s.md",
-    "Serial Mobbing.md",
-    "Rhinegold.md",
-    "Jörmungandr.md",
-    "Helios.md",
-    "Par.md",
+    "teams/by/legacies",
+    "images/software/Argus/svg.svg",
+    "teams/by/reveal/Truman Someone.md",
+    "teams/by/reveal/Untitled",
+    "teams/by/reveal",
+    "images/software/Argus",
+    "images/software/Vár/svg.svg",
+    "teams/by/software/Vár.md",
+    "images/software/Vár",
+    "teams/by/software/Kaup.md",
+    "teams/by/software/Jörmungandr.md",
+    "teams/by/captain",
+    "images/software/Vox Populi/svg.svg",
+    "outpost/Untitled.md",
+    "images/software/Vox Populi",
+    "teams/by/incentive",
+    "images/software/Untitled.md",
+    "teams/by/software/Týr.md",
+    "Testing.canvas",
+    "teams/by/narrative/Why It's Called That.md",
+    "Proof of Dual Control.md",
+    "teams/by/narrative",
+    "teams/by/software/⁄⦲⁄software⁄index.md",
+    "teams/by/software/Yggdrasil.md",
+    "teams/by/software/Pythia.md",
+    "teams/by/software/Par.md",
+    "teams/by/software/Mïmis.md",
+    "teams/by/software/Mammon.md",
+    "teams/by/software/Ladon.md",
+    "teams/by/software/Hestia.md",
+    "teams/by/software/Argus.md",
+    "teams/by/software/Constant Couriering.md",
+    "teams/by/logistic/Serial Mobbing.md",
+    "outpost",
+    "teams/by/spaces/Rhinegold.md",
+    "Serial.md",
+    "teams/by/spaces",
+    "teams/by/fervor/Revolution.md",
+    "teams/by/crux/Presidency.md",
+    "teams/by/logistic/⦲⁄.md",
     "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "images/kallisti's apple.svg",
-    "Presidency.md",
-    "Mïmis.md",
-    "Mammon.md",
-    "Hestia.md",
-    "Dionysus.md",
-    "().md",
-    "Calendar",
-    "images/software/Argus Icon.svg",
-    "Revolution.md",
-    "Norns.md",
-    "Pantheon.md",
-    "Kaup.md",
-    "Silver Outpost №1.md",
-    "Yggdrasil.md",
-    "Vár.md",
-    "svg.svg",
-    "Testing.canvas",
-    "banner.svg",
-    "Untitled 1.canvas",
-    "images/software",
-    "images/Yggdrasil Outposts/Silver/№1",
-    "images/Yggdrasil Outposts/Silver",
-    "images/Yggdrasil Outposts",
-    "images",
-    "Pantheon",
-    "CNAME",
-    "Pages/Landing",
-    "Pages"
+    "Untitled 1.canvas"
   ]
 }

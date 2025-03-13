@@ -44,7 +44,7 @@ As one of the goals of the revolution is [anonymity](jobs-project)…
 
 ## Tenets
 
-In fitting with the [13 13s](13-13s) that are [Yggdrasil](Yggdrasil), there are 13 core tenets that practitioners of the faith exercise.
+In fitting with the [13 13s](13-13s.md) that are [Yggdrasil](Yggdrasil.md), there are 13 core tenets that practitioners of the faith exercise.
 
 1. The truth will set you free.
 2. 

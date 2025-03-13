@@ -16,7 +16,7 @@ The Sidereal Zodiac bases the months precisely off the positions of the heavens.
 <iframe src="https://gist.run/embed.html?id=e29f776b9a9b0c3d52251a28c573977c" style="height: 40vh; width: 100%; display: block; margin-inline: auto"></iframe>
 ## Rotated Sidereal Zodiac
 
-The system used in [Yggdrasil](Yggdrasil) uses a line from the sun through the Earth to determine the month. It is not which stars are opposite the sun from us, but which stars are on the same side. It's rotated 180°.
+The system used in [Yggdrasil](Yggdrasil.md) uses a line from the sun through the Earth to determine the month. It is not which stars are opposite the sun from us, but which stars are on the same side. It's rotated 180°.
 ### 0⁄♑⁄0
 
 Coincidentally, the first day of Capricorn on the Sidereal Zodiac, 0⁄♑⁄0, is January, 20 on the Gregorian Calendar. Which is also, Inauguration Day for the U.S. President every four years. The date on the revolution's calendar, then, is currently counting down to the day a President is inaugurated who has the intention of carrying out the revolution.
@@ -35,7 +35,7 @@ In that situation, today is 0⁄♐⁄16.
 
 ## Conspiracy
 
-The date and time is a question you can ask of someone to evaluate their depth of exposure to the revolutionary structure. If they say it's 11ᴘᴍ in 2025, you know they're only professing knowledge of [the Gold Team](Gold%20Team) and are likely not in on the secret.
+The date and time is a question you can ask of someone to evaluate their depth of exposure to the revolutionary structure. If they say it's 11ᴘᴍ in 2025, you know they're only professing knowledge of [the Gold Team](Gold%20Team.md) and are likely not in on the secret.
 
 If they say it's 98ʜ͋ in the 3ʳᵈ, you know they're in pretty deep. If they say it's Pisces instead of Sagittarius *(they're using the Rotated Sidereal)*, they're likely near the top.
 ## Shifted Hijri

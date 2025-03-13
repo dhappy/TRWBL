@@ -4,7 +4,7 @@ tags:
   - couriers
 website: https://par.ygg.army
 ---
-Goods and people are constantly being shuttled around by a set of [couriering](Constant%20Couriering) pairs. The software that is running in the vehicle is called Par.
+Goods and people are constantly being shuttled around by a set of [couriering](Constant%20Couriering.md) pairs. The software that is running in the vehicle is called Par.
 
 Depending on the situation, the two people in the car will fill a variety of roles.
 

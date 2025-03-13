@@ -23,7 +23,7 @@ Users will create ordered lists of content at locations in the directory tree. F
 
 The rankings aren't simply a 1–*n* list. For a given rank, there can be more than one entry. Also, it is possible to have zero entries for a given rank.
 
-These lists are combined to produce a composite ranking recommending content.
+These lists are combined to produce a composite ranking recommending content either through simple weighted averages, or more complex means such as training a neural network.
 ### View Tracking
 
 A very important data set in considering which content to provide will be which pieces has the user been presented with in the past & how did they react to them.
@@ -36,3 +36,6 @@ When working with content, it is often the case that the file format used is les
 Mïmis will allow publishing of source documents and holding incremental conversions to new formats, allowing multiple contributors to go toward producing a new format.
 ### Curation
 
+A current issue facing AI researchers is collecting corpora of high-quality training data.
+
+Mïmis will conglomerate collections of training data and make them generally available.

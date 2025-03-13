@@ -4,7 +4,7 @@ tags:
 ---
 To make it easier for producers to gain access to consumers, there will be a collection of goods that are distributed among groups of cars and short-term  storage locations.
 
-![[banner.svg | center | 500]]
+![[images/software/Vár/svg.svg| center | 500]]
 
 Think of it as a Dollar General, but the products are spread out across the landscape & their storage is private: you shop online & the goods come to you.
 
@@ -13,7 +13,7 @@ Pricewise, there are a variety of factors at play:
 * The couriers will be delivering sold goods, transporting goods between storage houses, ferrying people, and serving as an ad hoc security service.
 * As security service, the pair in a car serve as camerapeople to capture the activities of whoever contracted them.
 
-An important aspect of the couriering system is the software that is managing the activities of the drivers and storekeeps. There are at least two systems at play: [the dashcam](Vár) & the coordinator.
+An important aspect of the couriering system is the software that is managing the activities of the drivers and storekeeps. There are at least two systems at play: [the dashcam](Vár.md) & the coordinator.
 
 The dashcam software is recording *(potentially livestreaming)* their progress & directing their driving.
 
