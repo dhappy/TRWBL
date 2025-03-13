@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teams/by/reveal/Truman Someone.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Truman Someone"
+              "title": "index"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teams/by/reveal/Truman Someone.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Truman Someone"
+              "title": "Outline of index"
             }
           }
         ],
@@ -168,6 +168,13 @@
   },
   "active": "e79cf6b682088864",
   "lastOpenFiles": [
+    "teams/by/logistic/⦲⁄.md",
+    "teams/by/logistic/Norns.md",
+    "teams/by/logistic/Escrow.md",
+    "teams/by/logistic/Calendars.md",
+    "teams/by/crux/Presidency.md",
+    "teams/by/song/Don’t Feed Me No Broccoli.md",
+    "teams/by/reveal/Truman Someone.md",
     "teams/by/logistic/Martyrs’ Corps.md",
     "teams/by/narrative/In the beginning….md",
     "teams/by/narrative/Why It's Called That.md",
@@ -179,9 +186,7 @@
     "teams/by/reveal/Game Someone.md",
     "teams/by/song",
     "teams/by/song.md",
-    "teams/by/reveal/Truman Someone.md",
     "teams/by/fervor/Revolution.md",
-    "teams/by/crux/Presidency.md",
     "teams/by/color/Green Team.md",
     "teams/by/color/Brown Team.md",
     "outpost/Untitled.md",
@@ -201,13 +206,8 @@
     "images/software/Vox Populi",
     "teams/by/incentive",
     "images/software/Untitled.md",
-    "teams/by/software/Týr.md",
     "Testing.canvas",
-    "Proof of Dual Control.md",
     "teams/by/narrative",
-    "teams/by/software/⁄⦲⁄software⁄index.md",
-    "teams/by/software/Yggdrasil.md",
-    "teams/by/software/Pythia.md",
     "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "images/kallisti's apple.svg",
     "Untitled 1.canvas"

@@ -14,9 +14,9 @@ Because who is our Truman? Who will have to wait 13 years from the Inauguration 
 
 The way the game grows is through clusters of 12 plus oneself. So, there's an initial 13 captains, and for the first expansion, each of those 13 creates a new group of 13 that includes themselves. The next round, those, now, 37 *= (13 + 13 * 12)* people each form a new group of 13 containing themselves for: 481 *= (12×(12×2+13)+12×2+13)* people. 6,253 *= (12×(12×(12×2+13)+12×2+13)+ (12×(12×2+13)+12×2+13))* people is the next one. Then, 81,289 *= (12×(12×(12×(12×2+13)+12×2+13)+ (12×(12×2+13)+12×2+13))+(12×(12×(12×2+13)+12×2+13)+ (12×(12×2+13)+12×2+13)))* people. That's about as far as I want to go because the series is expanding as 12ᵏ where ҡ is the number of expansions, so the next'n's 1,056,757 *(= 12 × 81,289 + 81,289)* people.
 
-Definitely that'd be the upper ground: just over a million people across the globe. That's really not all that many, but the nest step is gonna be roughly twelve million since it's powers of 12.
+Definitely that'd be the upper ground: just over a million people across the globe. That's really not all that many, but the next step is gonna be roughly twelve million since it's powers of 12.
 
-Up to the the end of 🍊s term, only a million people will know of anything to be suspicious of. At that point we take the jump to 13,737,841 *= (12 × 1,056,757 + 1,056,757)* people. And the one after that, 178,591,933 *= (12 × 13,737,841 + 13,737,841)*, finally @ iteration #9 2,321,695,129, half the population, is in on it.
+Up to the the end of 🍊s term, only a million people will know of anything to be suspicious of. At that point we take the jump to 13,737,841 *= (12 × 1,056,757 + 1,056,757)* people. And the one after that, 178,591,933 *= (12 × 13,737,841 + 13,737,841)*, finally @ expansion #9 2,321,695,129, roughly half the population, is in on it.
 
 So, *someone* has to be elected President after 🍊 has his second term. Say, Musk, by the end of his first term roughly half the people will know that a person who has been scrubbed from the tapes is responsible for Musk holding the office despite being South African.
 

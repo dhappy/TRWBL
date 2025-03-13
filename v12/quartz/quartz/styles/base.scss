@@ -42,7 +42,6 @@ ul,
   color: var(--darkgray);
   fill: var(--darkgray);
   hyphens: auto;
-  font-size: 150%;
 }
 
 p,
@@ -471,6 +470,7 @@ tbody,
 li,
 p {
   line-height: 1.6rem;
+  font-size: 13.5pt;
 }
 
 .table-container {
