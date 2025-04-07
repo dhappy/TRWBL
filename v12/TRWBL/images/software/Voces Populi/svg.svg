@@ -11,6 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <title>Serial Mobbing</title>
   <defs>
     <style>
       :root {
@@ -24,7 +25,7 @@
         paint-order: stroke fill markers;
         --mix-percent: 50%;
         --mix-color: black;
-        animation: rainbow 1s infinite;
+        animation: rainbow 13s infinite;
         animation-delay: 0.25s;
         animation-direction: alternate;
       }
@@ -37,7 +38,7 @@
       #hat-fill {
         fill: #ec8948;
         --mix-percent: 100%;
-        animation: rainbow 1s infinite;
+        animation: rainbow 10s infinite;
       }
       #hat-brim-shadow {
         mix-blend-mode: hard-light;
@@ -47,7 +48,7 @@
       #face {
         fill: #fcd2af;
         --mix-percent: 40%;
-        animation: rainbow 1s infinite;
+        animation: rainbow 8s infinite;
       }
       #jacket-lapels-shadow {
         mix-blend-mode: hard-light;
@@ -58,11 +59,11 @@
         fill: #ec8948;
         --mix-color: black;
         --mix-percent: 25%;
-        animation: rainbow 1s infinite;
+        animation: rainbow 8.5s infinite;
       }
       #shirt-lapels-inner {
         fill: #090a0c;
-        fill-opacity:0.75;
+        fill-opacity: 0.75;
       }
       #shirt-lapels-outer {
         mix-blend-mode: color-burn;
@@ -73,7 +74,7 @@
         fill: #d1efda;
         --mix-color: green;
         --mix-percent: 75%;
-        animation: rainbow 1s infinite;
+        animation: rainbow 9s infinite;
       }
       #face-shadow {
         mix-blend-mode: hard-light;
@@ -111,6 +112,15 @@
         80% { fill: color-mix(in srgb, blue var(--mix-percent), var(--mix-color)) }
         90% { fill: color-mix(in srgb, indigo var(--mix-percent), var(--mix-color)) }
         100% { fill: color-mix(in srgb, violet var(--mix-percent), var(--mix-color)) }
+      }
+
+      @media (prefers-reduced-motion) {
+        #background,
+        #shirt-lapels, #shirt-front,
+        #jacket, #jacket-lapels,
+        #hat-fill, #face {
+          animation: none;
+        }
       }
     </style>
   </defs>

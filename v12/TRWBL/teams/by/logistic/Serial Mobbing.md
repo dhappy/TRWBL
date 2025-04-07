@@ -3,9 +3,11 @@ tags:
   - software
   - process
 ---
-	![[images/software/Voces%20Populi/svg.svg | center | 300]]
+![Voces Populi](images/software/Voces%20Populi/svg.svg)
 
-Mob programming is a cousin ofpair programming. In pair programming there's a Navigator who describes the program to write and the Driver who operates the UI and does the physical writing.
+
+
+Mob programming is a cousin of pair programming. In pair programming there's a Navigator who describes the program to write and the Driver who operates the UI and does the physical coding.
 
 Often, programming pairs will have a more experienced Navigator & more junior Driver, since it is an excellent way to learn software development.
 
