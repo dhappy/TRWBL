@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teams/by/spaces/Rhinegold.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rhinegold"
+              "title": "index"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teams/by/spaces/Rhinegold.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rhinegold"
+              "title": "Outline of index"
             }
           }
         ],
@@ -168,6 +168,7 @@
   },
   "active": "43f435f470ae27c0",
   "lastOpenFiles": [
+    "teams/by/spaces/Rhinegold.md",
     "teams/by/software/Jörmungandr.md",
     "outpost/Silver Outpost №1.md",
     "teams/by/software/Hestia.md",
@@ -198,7 +199,6 @@
     "index.md",
     "teams/by/logistic/⦲⁄.md",
     "teams/by/logistic/Escrow.md",
-    "teams/by/logistic/Calendars.md",
     "teams/by/song",
     "teams/by/legacies",
     "teams/by/reveal/Untitled",
