@@ -8,12 +8,12 @@ In The Game, the protagonist has unimaginable wealth, but is deeply dissatisfied
 
 Every decision he has made through the course of the last few weeks has been intimately influenced by the people running The Game.
 
-## Jenni’s Induction
+## J’s Induction
 
-I want to script a couple lives like that, starting with my once finacée, Jennifer Lyn Pearson, who absolutely should get a captainship.
+I want to script a couple lives like that, starting with my once finacée, J.L.P., who absolutely should get a captainship.
 
-I'd like to put Jenni through an absolutely bizarre week which culminates with me asking her to marry me with a ring in tow this time.
+I'd like to put J. through an absolutely bizarre week which culminates with me asking her to marry me with a ring in tow this time.
 
 I was very preoccupied with The Revolution throughout much of our relationship & was decidedly distracted.
 
-I want to find out what city she's in & go be homeless there with perhaps occasional flights to stops to organize logistics.
+I want to find out what city she's in & go be homeless there with perhaps occasional flights out to organize logistics.

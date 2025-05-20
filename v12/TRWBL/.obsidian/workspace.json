@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c281d019e79aadb",
+        "id": "3b434fb65a749858",
         "type": "tabs",
         "children": [
           {
-            "id": "43f435f470ae27c0",
+            "id": "60d46d906284f614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           }
         ],
@@ -166,39 +161,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43f435f470ae27c0",
+  "active": "60d46d906284f614",
   "lastOpenFiles": [
-    "teams/by/spaces/Rhinegold.md",
-    "teams/by/software/Jörmungandr.md",
-    "outpost/Silver Outpost №1.md",
-    "teams/by/software/Hestia.md",
-    "teams/by/software/Constant Couriering.md",
-    "teams/by/software/Argus.md",
-    "teams/by/propaganda/Drug War Horrors.md",
-    "teams/by/narrative/Why It's Called That.md",
-    "teams/by/narrative/In the beginning….md",
-    "teams/by/narrative/Bigger Than Jesus.md",
+    "teams/by/color/Yellow Team.md",
+    "teams/by/color/Gold Team.md",
+    "teams/by/color/White Team.md",
+    "teams/by/logistic/Clock.md",
+    "teams/by/logistic/Calendars.md",
+    "teams/by/color/Orange Team.md",
+    "images/team/orange/svg.svg",
+    "images/team/orange",
+    "images/team",
+    "teams/by/color/Silver Team.md",
+    "teams/by/color/Black Team.md",
+    "teams/by/color/Green Team.md",
+    "teams/by/color/Cyan Team.md",
+    "teams/by/color/Brown Team.md",
+    "teams/by/color/Peach Team.md",
     "teams/by/logistic/Serial Mobbing.md",
     "teams/by/logistic/Reputation.md",
     "teams/by/logistic/Norns.md",
-    "outpost/Untitled.md",
-    "images/software/Voces Populi/svg.svg",
-    "images/kallisti's apple.svg",
-    "images/software/Argus/svg.svg",
-    "images/software/Vár/svg.svg",
-    "teams/by/software/⁄⦲⁄software⁄index.md",
-    "Untitled",
-    "teams/by/software/Týr.md",
-    "teams/by/software/Vár.md",
-    "teams/by/software/Pythia.md",
-    "teams/by/software/Par.md",
-    "teams/by/software/Mïmis.md",
-    "teams/by/software/Mammon.md",
-    "teams/by/software/Ladon.md",
-    "teams/by/software/Kaup.md",
-    "index.md",
-    "teams/by/logistic/⦲⁄.md",
+    "teams/by/logistic/Martyrs’ Corps.md",
+    "teams/by/logistic/Gaianism.md",
+    "jobs-project.md",
     "teams/by/logistic/Escrow.md",
+    "teams/by/logistic/13-13s.md",
+    "teams/by/crux/Presidency.md",
+    "images/software/Voces Populi/svg.svg",
+    "images/software/Vár/svg.svg",
+    "images/software/Argus/svg.svg",
+    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
+    "images/kallisti's apple.svg",
+    "teams/by/song/We R Who We R.md",
+    "teams/by/song/Uncle Sam Goddamn.md",
+    "teams/by/song/One Day.md",
+    "teams/by/song/Don’t Feed Me No Broccoli.md",
+    "teams/by/song/Breath.md",
+    "Untitled",
     "teams/by/song",
     "teams/by/legacies",
     "teams/by/reveal/Untitled",
@@ -207,10 +206,7 @@
     "images/software/Vár",
     "teams/by/captain",
     "images/software/Vox Populi/svg.svg",
-    "images/software/Vox Populi",
-    "teams/by/incentive",
     "Testing.canvas",
-    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "Untitled 1.canvas"
   ]
 }

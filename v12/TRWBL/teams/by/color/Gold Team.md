@@ -3,5 +3,6 @@ tags:
   - team
 property: color
 ---
+## The Establishment
 
-The Establishment, specifically the United States law enforcement apparatus.
+Specifically the United States law enforcement apparatus.
