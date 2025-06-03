@@ -1,5 +1,5 @@
 ---
-performer: The Lost Poets
+performers: The Lost Poets
 tags:
   - media
   - song

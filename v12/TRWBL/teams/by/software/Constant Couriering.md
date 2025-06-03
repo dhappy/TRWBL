@@ -2,7 +2,7 @@
 tags:
   - process
 ---
-To make it easier for producers to gain access to consumers, there will be a collection of goods that are distributed among groups of cars and short-term  storage locations.
+To make it easier for producers to gain access to consumers, there will be a collection of goods that are distributed among groups of cars and short-term storage locations.
 
 ![[images/software/Vár/svg.svg| center | 500]]
 

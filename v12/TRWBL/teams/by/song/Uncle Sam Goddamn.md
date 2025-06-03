@@ -1,6 +1,6 @@
 ---
-medium: song
-author: Brother Ali
+performer: Brother Ali
 tags:
   - media
+  - song
 ---

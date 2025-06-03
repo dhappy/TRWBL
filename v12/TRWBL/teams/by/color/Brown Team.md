@@ -4,9 +4,7 @@ tags:
 property:
   - color
 ---
-The Brown team is meant to be over accommodations and, ideally, will end up having a controlling vote on a variety of shelters.
-
-## Control of Space
+## Hearthkeepers
 
 For any given space, “ownership” is through a layering of controls by various teams. The primary consequence of ownership is the ability to have someone else removed at your discretion. Far example:
 

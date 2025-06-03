@@ -24,7 +24,7 @@ The revolution takes advantage that many of our systems contain mechanisms for t
 
 ¿How do you take over the American Executive Branch? Elect a reformist candidate as President. ¿How do you take control of the supply chain? Structure markets to accrue goods over time & essentially buy everything.
 
-One tactic that sounds productive to me is targeting businesses for takeover. We advertize to a company that we want to convert their resources to be controlled by a distributed permissioning network. We offer some buyout price, and then encourage all their customers to cease to be so as quickly as possible. We slash their profits until they bleed enough that they sell.
+One tactic that sounds productive to me is targeting businesses for takeover. We advertize to a company that we want to convert their resources to be controlled by a distributed permissioning network. We offer some buyout price, and then encourage all their customers to leave as quickly as possible. We slash their profits until they bleed enough that they sell.
 
 [Gaianism](Gaianism.md) attacks the ownership of churches in a similar way though there there is a conspiratory aspect to subvert the power structure of a congregation in secret until sufficient support is garnered for a takeover, then the trap is sprung all at once.
 ## World Domination
