@@ -6,5 +6,6 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "img-center"
-  ]
+  ],
+  "theme": "obsidian"
 }

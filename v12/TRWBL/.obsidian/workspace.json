@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b434fb65a749858",
+        "id": "ad920a6aa485ae3f",
         "type": "tabs",
         "children": [
           {
-            "id": "60d46d906284f614",
+            "id": "fb76097a58c68b3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.501522064209
+    "width": 302.501522064209,
+    "collapsed": true
   },
   "right": {
     "id": "e087c10d63d857a7",
@@ -95,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yggdrasil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yggdrasil"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,7 +142,7 @@
               "type": "outline",
               "state": {
                 "file": "teams/by/propaganda/The Technoanarchist Revolution.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -150,8 +150,7 @@
               "title": "Outline of The Technoanarchist Revolution"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60d46d906284f614",
+  "active": "fb76097a58c68b3a",
   "lastOpenFiles": [
     "images/software/Argus/svg.svg",
     "teams/by/propaganda/The Technoanarchist Revolution.md",
@@ -209,8 +208,11 @@
     "teams/by/reveal",
     "images/software/Argus",
     "images/software/Vár",
+    "teams/by/software/Kaup.md",
     "teams/by/captain",
     "images/software/Vox Populi/svg.svg",
+    "images/software/Vox Populi",
+    "teams/by/incentive",
     "Testing.canvas",
     "Untitled 1.canvas"
   ]
