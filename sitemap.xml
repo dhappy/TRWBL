@@ -1,5 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Martyrs%E2%80%99</loc>
+    <loc>https://quartz.jzhao.xyz/Tower-Tops</loc>
     <lastmod>2025-05-11T10:19:45.056Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
@@ -10,6 +10,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/outpost/Silver-Outpost-%E2%84%961</loc>
     <lastmod>2025-01-26T16:43:05.302Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/party/Skyscrapers</loc>
+    <lastmod>2025-06-30T19:16:23.825Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/color/Black-Team</loc>
     <lastmod>2025-05-12T11:10:13.226Z</lastmod>
@@ -89,6 +92,9 @@
     <loc>https://quartz.jzhao.xyz/teams/by/propaganda/Drug-War-Horrors</loc>
     <lastmod>2024-11-27T07:53:15.826Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/teams/by/propaganda/The-Technoanarchist-Revolution</loc>
+    <lastmod>2025-05-27T02:33:00.324Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/reveal/Game-Someone</loc>
     <lastmod>2025-03-13T12:18:18.981Z</lastmod>
   </url><url>
@@ -100,6 +106,18 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/reveal/Truman-Someone</loc>
     <lastmod>2025-03-13T10:41:43.366Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/teams/by/social-segment/Blacks</loc>
+    <lastmod>2025-06-10T01:15:58.882Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/teams/by/social-segment/Children</loc>
+    <lastmod>2025-06-10T01:16:49.395Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/teams/by/social-segment/Elders</loc>
+    <lastmod>2025-06-10T01:16:24.979Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/teams/by/social-segment/Whites</loc>
+    <lastmod>2025-06-10T01:16:15.566Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/software/Argus</loc>
     <lastmod>2024-12-08T01:35:30.766Z</lastmod>
