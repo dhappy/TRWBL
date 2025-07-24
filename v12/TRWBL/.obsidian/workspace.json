@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teams/by/propaganda/The Technoanarchist Revolution.md",
+                "file": "teams/by/logistic/Serial Mobbing.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "The Technoanarchist Revolution"
+              "title": "Serial Mobbing"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:technoanrachist-revolution",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.501522064209,
-    "collapsed": true
+    "width": 302.501522064209
   },
   "right": {
     "id": "e087c10d63d857a7",
@@ -96,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "teams/by/logistic/Serial Mobbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Serial Mobbing"
             }
           },
           {
@@ -168,14 +177,28 @@
   },
   "active": "fb76097a58c68b3a",
   "lastOpenFiles": [
-    "images/software/Argus/svg.svg",
+    "teams/by/logistic/Calendars.md",
+    "teams/by/logistic/Clock.md",
+    "teams/by/logistic/Escrow.md",
+    "teams/by/logistic/Gaianism.md",
+    "teams/by/logistic/Reputation.md",
+    "teams/by/software/Norns.md",
+    "party/Tower Tops.md",
+    "party/Skyscrapers.md",
+    "jobs-project.md",
+    "index.md",
+    "teams/by/social segment/Children.md",
+    "teams/by/social segment/Elders.md",
+    "teams/by/social segment/Whites.md",
+    "teams/by/social segment/Blacks.md",
+    "teams/by/logistic/Serial Mobbing.md",
+    "party",
     "teams/by/propaganda/The Technoanarchist Revolution.md",
+    "images/software/Argus/svg.svg",
     "images/software/Vár/svg.svg",
     "teams/by/color/Yellow Team.md",
     "teams/by/color/Gold Team.md",
     "teams/by/color/White Team.md",
-    "teams/by/logistic/Clock.md",
-    "teams/by/logistic/Calendars.md",
     "teams/by/color/Orange Team.md",
     "images/team/orange/svg.svg",
     "images/team/orange",
@@ -186,33 +209,17 @@
     "teams/by/color/Cyan Team.md",
     "teams/by/color/Brown Team.md",
     "teams/by/color/Peach Team.md",
-    "teams/by/logistic/Serial Mobbing.md",
-    "teams/by/logistic/Reputation.md",
-    "teams/by/logistic/Norns.md",
-    "teams/by/logistic/Martyrs’ Corps.md",
-    "teams/by/logistic/Gaianism.md",
-    "jobs-project.md",
-    "teams/by/logistic/Escrow.md",
-    "teams/by/logistic/13-13s.md",
-    "teams/by/crux/Presidency.md",
     "images/software/Voces Populi/svg.svg",
     "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "images/kallisti's apple.svg",
-    "teams/by/song/We R Who We R.md",
-    "teams/by/song/Uncle Sam Goddamn.md",
-    "teams/by/song/One Day.md",
-    "Untitled",
     "teams/by/song",
     "teams/by/legacies",
     "teams/by/reveal/Untitled",
     "teams/by/reveal",
     "images/software/Argus",
     "images/software/Vár",
-    "teams/by/software/Kaup.md",
     "teams/by/captain",
     "images/software/Vox Populi/svg.svg",
-    "images/software/Vox Populi",
-    "teams/by/incentive",
     "Testing.canvas",
     "Untitled 1.canvas"
   ]

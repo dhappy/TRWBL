@@ -22,9 +22,13 @@ Shift changes are aligned to a [percentage clock](Clock) with 100 hours in a day
 
 Incoming shifts overlap with outgoing shifts for a brief period to allow the new worker to acclimate to the current status of the project and issue priorities.
 
+#### Shift Finalization
+
+An open question is when some should know that they will definitively be the one working a particular shift.
+
 ### Payment
 
-The goal is to have a base rate of ~$15 ⅌ Babylonian *(traditional)* hour, but scaled to the 100 percentage hours *(“ʜ͋”)*, which are 14.4 minutes apiece. That would be $3.⁶⁰ ⅌ ʜ͋.
+The goal is to have a base rate of ~$15 ⅌ Babylonian *(traditional)* hour, but scaled to the 100 percentage hours *(“ʜ͋”)*, which are 14.4 traditional minutes apiece. That would be $3.⁶⁰ ⅌ ʜ͋.
 
 
 

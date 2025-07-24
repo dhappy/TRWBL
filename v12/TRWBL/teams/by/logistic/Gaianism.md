@@ -1,3 +1,8 @@
+---
+tags:
+  - crux
+website: https://gaian.church
+---
 One of the goals of the revolution is to supplant the Judaistic religions with one grounded in science.
 ## Basic Concepts
 

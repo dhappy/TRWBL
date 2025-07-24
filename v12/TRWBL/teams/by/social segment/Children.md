@@ -1,0 +1,1 @@
+Children will have membership in the game, and will be partially aware of the goings on, but there will be aspects, such as access to sex & substances they don't know exists, or, at least, don't have access to.
