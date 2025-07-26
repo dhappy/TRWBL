@@ -6,12 +6,6 @@
       <description>Last 10 notes on ✊🏽 TRWBL 📺️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Skyscrapers</title>
-    <link>https://quartz.jzhao.xyz/party/Skyscrapers</link>
-    <guid>https://quartz.jzhao.xyz/party/Skyscrapers</guid>
-    <description>The top 13 floors of 13 skyscrapers in 13 cities (13² = 169 total floors) will be cordoned off and given over to the 13 teams for entertaining their members. ...</description>
-    <pubDate>Mon, 30 Jun 2025 19:16:23 GMT</pubDate>
-  </item><item>
     <title>Children</title>
     <link>https://quartz.jzhao.xyz/teams/by/social-segment/Children</link>
     <guid>https://quartz.jzhao.xyz/teams/by/social-segment/Children</guid>
@@ -65,6 +59,12 @@
     <guid>https://quartz.jzhao.xyz/teams/by/color/Silver-Team</guid>
     <description>Rules Enforcement.</description>
     <pubDate>Mon, 12 May 2025 11:13:26 GMT</pubDate>
+  </item><item>
+    <title>Black Team</title>
+    <link>https://quartz.jzhao.xyz/teams/by/color/Black-Team</link>
+    <guid>https://quartz.jzhao.xyz/teams/by/color/Black-Team</guid>
+    <description>Black People.</description>
+    <pubDate>Mon, 12 May 2025 11:10:13 GMT</pubDate>
   </item>
     </channel>
   </rss>

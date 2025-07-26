@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Tower-Tops</loc>
-    <lastmod>2025-05-11T10:19:45.056Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2024-11-27T07:01:18.028Z</lastmod>
   </url><url>
@@ -11,8 +8,8 @@
     <loc>https://quartz.jzhao.xyz/outpost/Silver-Outpost-%E2%84%961</loc>
     <lastmod>2025-01-26T16:43:05.302Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/party/Skyscrapers</loc>
-    <lastmod>2025-06-30T19:16:23.825Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/party/Tower-Tops</loc>
+    <lastmod>2025-05-11T10:19:45.056Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/color/Black-Team</loc>
     <lastmod>2025-05-12T11:10:13.226Z</lastmod>
@@ -67,9 +64,6 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/logistic/Martyrs%E2%80%99-Corps</loc>
     <lastmod>2025-03-13T13:03:18.901Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/teams/by/logistic/Norns</loc>
-    <lastmod>2025-02-10T23:51:38.712Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/logistic/Reputation</loc>
     <lastmod>2025-03-13T10:18:05.840Z</lastmod>
@@ -142,6 +136,9 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/software/M%C3%AFmis</loc>
     <lastmod>2024-12-31T12:06:11.638Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/teams/by/software/Norns</loc>
+    <lastmod>2025-02-10T23:51:38.712Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/teams/by/software/Par</loc>
     <lastmod>2025-02-13T08:03:28.656Z</lastmod>
