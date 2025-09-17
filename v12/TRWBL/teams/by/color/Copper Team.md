@@ -4,4 +4,3 @@ class:
 property:
   - color
 ---
-## Therapy

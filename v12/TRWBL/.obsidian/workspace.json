@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teams/by/logistic/Serial Mobbing.md",
+                "file": "party/Tower Tops.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Serial Mobbing"
+              "title": "Tower Tops"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teams/by/logistic/Serial Mobbing.md",
+                "file": "party/Tower Tops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Serial Mobbing"
+              "title": "Backlinks for Tower Tops"
             }
           },
           {
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,6 +178,29 @@
   },
   "active": "fb76097a58c68b3a",
   "lastOpenFiles": [
+    "outpost/Silver Outpost №1.md",
+    "images/kallisti's apple.svg",
+    "images/team/orange/svg.svg",
+    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
+    "images/team/gray/magistrate.svg",
+    "images/software/Voces Populi/svg.svg",
+    "images/software/Vár/svg.svg",
+    "images/software/Argus/svg.svg",
+    "teams/by/color/Pink Team.md",
+    "teams/by/color/Gray Team.md",
+    "teams/by/color/Yellow Team.md",
+    "teams/by/color/White Team.md",
+    "teams/by/color/Silver Team.md",
+    "teams/by/color/Peach Team.md",
+    "teams/by/color/Green Team.md",
+    "images/team/gray",
+    "teams/by/color/Gold Team.md",
+    "teams/by/color/Cyan Team.md",
+    "teams/by/color/Copper Team.md",
+    "teams/by/color/Brown Team.md",
+    "teams/by/color/Black Team.md",
+    "teams/by/color/Orange Team.md",
+    "teams/by/logistic/Serial Mobbing.md",
     "teams/by/logistic/Calendars.md",
     "teams/by/logistic/Clock.md",
     "teams/by/logistic/Escrow.md",
@@ -188,37 +212,15 @@
     "jobs-project.md",
     "index.md",
     "teams/by/social segment/Children.md",
-    "teams/by/social segment/Elders.md",
-    "teams/by/social segment/Whites.md",
-    "teams/by/social segment/Blacks.md",
-    "teams/by/logistic/Serial Mobbing.md",
     "party",
-    "teams/by/propaganda/The Technoanarchist Revolution.md",
-    "images/software/Argus/svg.svg",
-    "images/software/Vár/svg.svg",
-    "teams/by/color/Yellow Team.md",
-    "teams/by/color/Gold Team.md",
-    "teams/by/color/White Team.md",
-    "teams/by/color/Orange Team.md",
-    "images/team/orange/svg.svg",
     "images/team/orange",
     "images/team",
-    "teams/by/color/Silver Team.md",
-    "teams/by/color/Black Team.md",
-    "teams/by/color/Green Team.md",
-    "teams/by/color/Cyan Team.md",
-    "teams/by/color/Brown Team.md",
-    "teams/by/color/Peach Team.md",
-    "images/software/Voces Populi/svg.svg",
-    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
-    "images/kallisti's apple.svg",
     "teams/by/song",
     "teams/by/legacies",
     "teams/by/reveal/Untitled",
     "teams/by/reveal",
     "images/software/Argus",
     "images/software/Vár",
-    "teams/by/captain",
     "images/software/Vox Populi/svg.svg",
     "Testing.canvas",
     "Untitled 1.canvas"

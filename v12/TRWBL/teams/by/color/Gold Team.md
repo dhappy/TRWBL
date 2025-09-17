@@ -1,5 +1,5 @@
 ---
-tags:
+class:
   - team
 property: color
 ---

@@ -1,5 +1,5 @@
 ---
-tags:
+class:
   - team
 property:
   - color
@@ -19,3 +19,8 @@ For any given space, “ownership” is through a layering of controls by variou
 
 ## Crime and Punishment
 
+Trials are distributed. Each side creates a list of witnesses & calls with each are scheduled for a video call with the council for each side & a judge. From this & other footage, each side prepares a video outlining their case which is reviewed by a judge for admissibility and whatnot. A jury pool is convened online with the ability to critique and communicate on the sides' videos.
+
+The question is where to get the judges and pay for everything.
+
+There are Silver *(rules enforcement)* and Orange *(enforcement protection)* teams. There is another one for rules interpretation *(lawyers, judges, etc.)* that provides judges and legal representation for [couriers](Gray%20Team).

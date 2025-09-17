@@ -1,6 +1,9 @@
 ---
-tags:
+class:
   - team
+property:
+  - color
+tags:
   - process
   - software
 website: https://bro.ygg.army

@@ -1,6 +1,8 @@
 ---
-tags:
+class:
   - team
+property:
+  - color
 ---
 ## Enforcement Protection
 
