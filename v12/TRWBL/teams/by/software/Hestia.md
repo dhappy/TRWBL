@@ -16,7 +16,7 @@ One common point of discussion in anarchist circles is how to handle people who 
 
 Control of space is three-tiered via teams. There is a team that controls the land, one for the structures, and one for the rooms.
 
-Cases will be compiled where evidence is presented of various infractions. Modern jurisprudence relies heavily on rules of evidence to structure its arguments. Videos laying out the competing narratives could be compiled & then reviewed by the [teams](13-13s) after which they choose not to rent to the individual for public safety.
+Cases will be compiled where evidence is presented of various infractions. Modern jurisprudence relies heavily on rules of evidence to structure its arguments. Videos laying out the competing narratives could be compiled & then reviewed by the [teams](13-13s.md) after which they choose not to rent to the individual for public safety.
 
 There will be a team of last resort which controls locations that are sparsely furnished & have [Silver](Silver%20Team) members on ready call.
 

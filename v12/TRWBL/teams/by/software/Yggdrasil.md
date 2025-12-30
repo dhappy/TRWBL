@@ -13,7 +13,7 @@ Yggdrasil is a set of related applications that work together to support the rev
 * [Couriering](Constant%20Couriering.md):
 	* [Ladon](Ladon.md)
 	* [Jörmungandr](Jörmungandr.md)
-* [Mïmis](Mïmis.md)
+* [index](software/Mïmis/index.md)
 * [Hestia](Hestia.md)
 * …
 

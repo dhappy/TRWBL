@@ -33,4 +33,4 @@ The revolution takes aim at three primary enemies of freedom in the world: China
 
 A common component to how all three are dealt with is the proliferation of mobile devices capable of accessing a planetary Internet for free.
 
-Software will be developed to aid members of these countries develop conspiracies to enact social change. Hopefully, [Mïmis](Mïmis.md) & [its compatriots](⁄⦲⁄software⁄index.md) will provide a sufficiently vetted source of news that genuine narratives can take hold and the members of that society will strive for healthier and freer structures.
+Software will be developed to aid members of these countries develop conspiracies to enact social change. Hopefully, [index](software/Mïmis/index.md) & [its compatriots](⁄⦲⁄software⁄index.md) will provide a sufficiently vetted source of news that genuine narratives can take hold and the members of that society will strive for healthier and freer structures.

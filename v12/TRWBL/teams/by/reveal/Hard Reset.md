@@ -12,7 +12,7 @@ Those who had been operating unbeknownst within the structure would be faced wit
 
 A hard reset only makes sense if the existence of the revolutionary plot can be kept secret from the general population.
 
-In a situation where, say 🍊 is the first revolutionary President, ideas like [the Martyrs’ Corps](Martyrs’%20Corps) could be implemented with credit given to members of his staff. It would only be years later in the hard reset that footage is released revealing their true origin.
+In a situation where, say 🍊 is the first revolutionary President, ideas like [the Martyrs’ Corps](Martyrs’%20Corps.md) could be implemented with credit given to members of his staff. It would only be years later in the hard reset that footage is released revealing their true origin.
 
 The issue with keeping things a secret is it runs counter to the idea of open-sourcing the development, both from a talent & a financing perspective.
 

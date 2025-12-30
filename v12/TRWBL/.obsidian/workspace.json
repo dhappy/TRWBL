@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34f6e3f53d3f61f1",
+        "id": "2f5f65cf8b513946",
         "type": "tabs",
         "children": [
           {
-            "id": "f45301c9da789f56",
+            "id": "c3b9cb000350057b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenes/An ID Raid.md",
+                "file": "software/Mïmis/replication.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "An ID Raid"
+              "title": "replication"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scenes/An ID Raid.md",
+                "file": "software/Mïmis/replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for An ID Raid"
+              "title": "Backlinks for replication"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yggdrasil.md",
+                "file": "software/Mïmis/replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yggdrasil"
+              "title": "Outgoing links from replication"
             }
           },
           {
@@ -150,16 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teams/by/propaganda/The Technoanarchist Revolution.md",
+                "file": "software/Mïmis/replication.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Technoanarchist Revolution"
+              "title": "Outline of replication"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,51 +177,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f45301c9da789f56",
+  "active": "c3b9cb000350057b",
   "lastOpenFiles": [
-    "images/handcuffs/old/svg.svg",
-    "scenes/An ID Raid.md",
-    "image/handcuff/ols.md",
-    "outpost/Silver Outpost №1.md",
+    "software/Mïmis/index.md",
+    "software/Mïmis/replication.md",
+    "Untitled 5.base",
+    "Untitled 4.base",
     "images/software/Vár/svg.svg",
     "images/software/Argus/svg.svg",
-    "image/handcuff",
-    "image",
-    "images/handcuffs/old",
-    "images/handcuffs",
-    "teams/by/color/Black Team.md",
+    "images/handcuffs/old/svg.svg",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "software/Mïmis/index",
+    "software/Mïmis",
+    "software",
+    "scenes/Couriers.md",
+    "scenes/An ID Raid.md",
+    "scenes/Don't Look Back.md",
+    "teams/by/software/Constant Couriering.md",
+    "teams/by/fervor/Revolution.md",
+    "teams/by/narrative/In the beginning….md",
+    "teams/by/narrative/Bigger Than Jesus.md",
+    "teams/by/crux/Presidency.md",
+    "logistics/Calendars.md",
+    "teams/by/color/⦲⁄.md",
+    "logistics/⦲⁄.md",
+    "teams/by/color.md",
+    "logistics/13-13s.md",
+    "scenes/72 Virgins.md",
+    "logistics/Gaianism.md",
+    "logistics/Martyrs’ Corps.md",
+    "teams/by/reveal/Hard Reset.md",
     "party/Tower Tops.md",
-    "scenes",
+    "outpost/Silver Outpost №1.md",
     "images/kallisti's apple.svg",
-    "images/team/orange/svg.svg",
     "images/Yggdrasil Outposts/Silver/№1/svg.svg",
+    "images/team/orange/svg.svg",
     "images/team/gray/magistrate.svg",
     "images/software/Voces Populi/svg.svg",
-    "teams/by/color/Pink Team.md",
-    "teams/by/color/Gray Team.md",
-    "teams/by/color/Yellow Team.md",
-    "teams/by/color/White Team.md",
     "teams/by/color/Silver Team.md",
-    "teams/by/color/Peach Team.md",
-    "teams/by/color/Green Team.md",
-    "images/team/gray",
-    "teams/by/color/Gold Team.md",
-    "teams/by/color/Cyan Team.md",
-    "teams/by/color/Copper Team.md",
-    "teams/by/color/Brown Team.md",
-    "teams/by/color/Orange Team.md",
-    "teams/by/logistic/Serial Mobbing.md",
-    "teams/by/logistic/Calendars.md",
-    "teams/by/logistic/Clock.md",
-    "teams/by/logistic/Escrow.md",
-    "teams/by/logistic/Gaianism.md",
-    "teams/by/logistic/Reputation.md",
-    "teams/by/software/Norns.md",
-    "party/Skyscrapers.md",
-    "party",
-    "images/team/orange",
-    "images/team",
-    "teams/by/song",
+    "scenes/Shot Cops.md",
+    "scenes/Ground Floor.md",
+    "teams/by/color/Black Team.md",
+    "image/handcuff",
     "images/software/Vox Populi/svg.svg",
     "Testing.canvas",
     "Untitled 1.canvas"

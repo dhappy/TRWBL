@@ -14,6 +14,6 @@ The Pantheon is a set of related applications that work together to support the 
 * [Couriering](Constant%20Couriering.md):
 	* [Ladon](Ladon.md)
 	* 
-* [Mïmis](Mïmis.md)
+* [index](software/Mïmis/index.md)
 * [Hestia](Hestia.md)
 * …

@@ -18,7 +18,7 @@ The comings and goings of the mobsters is staggered so there are always at least
 ---
 ### Shifts
 
-Shift changes are aligned to a [percentage clock](Clock) with 100 hours in a day corresponding to the amount of the day that has passed.
+Shift changes are aligned to a [percentage clock](Clock.md) with 100 hours in a day corresponding to the amount of the day that has passed.
 
 Incoming shifts overlap with outgoing shifts for a brief period to allow the new worker to acclimate to the current status of the project and issue priorities.
 
