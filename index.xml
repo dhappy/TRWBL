@@ -6,6 +6,54 @@
       <description>Last 10 notes on ✊🏽 TRWBL 📺️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>replication</title>
+    <link>https://quartz.jzhao.xyz/software/M%C3%AFmis/replication</link>
+    <guid>https://quartz.jzhao.xyz/software/M%C3%AFmis/replication</guid>
+    <description>Mïmis is an append-only store. The ID of any given node in the graph is the CID of that node in the CBOR-DAG representation of the update. Each node has a link to the PREVIOUS version which points to the update node that was the most current when the update was published.</description>
+    <pubDate>Sun, 14 Dec 2025 23:49:01 GMT</pubDate>
+  </item><item>
+    <title>⦲⁄</title>
+    <link>https://quartz.jzhao.xyz/teams/by/color/%E2%A6%B2%E2%81%84</link>
+    <guid>https://quartz.jzhao.xyz/teams/by/color/%E2%A6%B2%E2%81%84</guid>
+    <description></description>
+    <pubDate>Tue, 04 Nov 2025 07:49:33 GMT</pubDate>
+  </item><item>
+    <title>color</title>
+    <link>https://quartz.jzhao.xyz/teams/by/color</link>
+    <guid>https://quartz.jzhao.xyz/teams/by/color</guid>
+    <description></description>
+    <pubDate>Tue, 04 Nov 2025 07:49:00 GMT</pubDate>
+  </item><item>
+    <title>72 Virgins</title>
+    <link>https://quartz.jzhao.xyz/scenes/72-Virgins</link>
+    <guid>https://quartz.jzhao.xyz/scenes/72-Virgins</guid>
+    <description></description>
+    <pubDate>Tue, 21 Oct 2025 21:32:47 GMT</pubDate>
+  </item><item>
+    <title>Couriers</title>
+    <link>https://quartz.jzhao.xyz/scenes/Couriers</link>
+    <guid>https://quartz.jzhao.xyz/scenes/Couriers</guid>
+    <description>The courier network was launched toward the beginning of the revolution &amp; relied on networks of drivers &amp; custodians that were completely blind to what they were transporting ...</description>
+    <pubDate>Sun, 12 Oct 2025 11:17:26 GMT</pubDate>
+  </item><item>
+    <title>Ground Floor</title>
+    <link>https://quartz.jzhao.xyz/scenes/Ground-Floor</link>
+    <guid>https://quartz.jzhao.xyz/scenes/Ground-Floor</guid>
+    <description>Entry into the first public iterations of the revolution was in part through intake of substances into the Black Team’s control. There were two paths of induction: prescribers &amp; patients.</description>
+    <pubDate>Sat, 11 Oct 2025 04:25:14 GMT</pubDate>
+  </item><item>
+    <title>Shot Cops</title>
+    <link>https://quartz.jzhao.xyz/scenes/Shot-Cops</link>
+    <guid>https://quartz.jzhao.xyz/scenes/Shot-Cops</guid>
+    <description>There was a system for people to report when they planned on firing a gun &amp; where. Areas like shooting ranges were exempt to allow for privacy. When an unannounced shot was reported, Shot Cops would respond.</description>
+    <pubDate>Sat, 11 Oct 2025 03:34:13 GMT</pubDate>
+  </item><item>
+    <title>Don&#039;t Look Back</title>
+    <link>https://quartz.jzhao.xyz/scenes/Don't-Look-Back</link>
+    <guid>https://quartz.jzhao.xyz/scenes/Don't-Look-Back</guid>
+    <description>Prior to the Technoanarchists’ revolution, the most common form of state-sponsored consequence of undesired actions was incarceration. The punishee was housed with other “inmates” in small concrete cells generally for a period of years.</description>
+    <pubDate>Thu, 02 Oct 2025 12:39:26 GMT</pubDate>
+  </item><item>
     <title>The Revolution Will Be Live</title>
     <link>https://quartz.jzhao.xyz/scenes/An-ID-Raid</link>
     <guid>https://quartz.jzhao.xyz/scenes/An-ID-Raid</guid>
@@ -13,58 +61,10 @@
     <pubDate>Wed, 24 Sep 2025 13:57:31 GMT</pubDate>
   </item><item>
     <title>Thirteen Thirteens</title>
-    <link>https://quartz.jzhao.xyz/teams/by/logistic/13-13s</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/logistic/13-13s</guid>
+    <link>https://quartz.jzhao.xyz/logistics/13-13s</link>
+    <guid>https://quartz.jzhao.xyz/logistics/13-13s</guid>
     <description>Thirteen thirteens draws it’s name from an organization of teams that are competing and cooperating to divvy up control of spaces and access to resources ...</description>
     <pubDate>Wed, 17 Sep 2025 11:54:30 GMT</pubDate>
-  </item><item>
-    <title>Pink Team</title>
-    <link>https://quartz.jzhao.xyz/teams/by/color/Pink-Team</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/color/Pink-Team</guid>
-    <description>The legion is the body of the church. It is involved in a massive conspiracy to enforce an alternate standard of behavior while protecting its membership from repercussions within extant systems.</description>
-    <pubDate>Sun, 31 Aug 2025 00:29:44 GMT</pubDate>
-  </item><item>
-    <title>Copper Team</title>
-    <link>https://quartz.jzhao.xyz/teams/by/color/Copper-Team</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/color/Copper-Team</guid>
-    <description></description>
-    <pubDate>Tue, 26 Aug 2025 04:19:42 GMT</pubDate>
-  </item><item>
-    <title>Gray Team</title>
-    <link>https://quartz.jzhao.xyz/teams/by/color/Gray-Team</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/color/Gray-Team</guid>
-    <description>Rules Interpretation .</description>
-    <pubDate>Tue, 26 Aug 2025 04:18:12 GMT</pubDate>
-  </item><item>
-    <title>Children</title>
-    <link>https://quartz.jzhao.xyz/teams/by/social-segment/Children</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/social-segment/Children</guid>
-    <description>Children will have membership in the game, and will be partially aware of the goings on, but there will be aspects, such as access to sex &amp; substances they don’t know exists, or, ...</description>
-    <pubDate>Tue, 10 Jun 2025 01:16:49 GMT</pubDate>
-  </item><item>
-    <title>Elders</title>
-    <link>https://quartz.jzhao.xyz/teams/by/social-segment/Elders</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/social-segment/Elders</guid>
-    <description></description>
-    <pubDate>Tue, 10 Jun 2025 01:16:24 GMT</pubDate>
-  </item><item>
-    <title>Whites</title>
-    <link>https://quartz.jzhao.xyz/teams/by/social-segment/Whites</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/social-segment/Whites</guid>
-    <description></description>
-    <pubDate>Tue, 10 Jun 2025 01:16:15 GMT</pubDate>
-  </item><item>
-    <title>Blacks</title>
-    <link>https://quartz.jzhao.xyz/teams/by/social-segment/Blacks</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/social-segment/Blacks</guid>
-    <description></description>
-    <pubDate>Tue, 10 Jun 2025 01:15:58 GMT</pubDate>
-  </item><item>
-    <title>The Technoanarchist Revolution</title>
-    <link>https://quartz.jzhao.xyz/teams/by/propaganda/The-Technoanarchist-Revolution</link>
-    <guid>https://quartz.jzhao.xyz/teams/by/propaganda/The-Technoanarchist-Revolution</guid>
-    <description>The American Journey Chapter ＃25꞉ 2026–2045 ©️ 2062: Prentice Hall The Technoanarchist Revolution 2011: @dysbulic has a quasi-psychotic break &amp; sets out to write The Technoanarchist ...</description>
-    <pubDate>Tue, 27 May 2025 02:33:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
