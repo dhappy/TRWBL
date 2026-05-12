@@ -4,11 +4,13 @@ tags:
   - planning
   - politics
 ---
-The Martyr's Corps is a mechanism for marked social change. Initially, bringing an open internet to China.
+The Martyr's Corps is a mechanism for marked social change. Initially, bringing an open internet to China. With the real targets being Russia and Islam.
 
-The mechanism is an occupying incursion 100m wide. Sort of like The Line 
+The mechanism is an occupying incursion 100m wide. Sort of like The Line in Saudi Arabia, but instead land used to provide uncensored telecommunications infrastructure.
 
-Unarmed and live-streaming people create a high-bandwidth & as uninterruptible  as possible of an Internet connection.
+Unarmed and live-streaming people live above a high-capacity data line. They serve as both protection for the cable & provide resources to the adjacent *(or even occupied land)*. Other than the specific areas necessary for physically housing equipment, there isn't any reason the current residents couldn't continue using the space as it was before.
+
+
 
 Imagine thousands of people arrayed along the path of a newly laid data transmission line. Meeting up with one another and registering their contacts with each other.
 

@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Martyrs’ Corps"
             }
+          },
+          {
+            "id": "97b5a0bd647e25c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teams/Softwares.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Softwares"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logistics/Martyrs’ Corps.md",
+                "file": "teams/Softwares.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Martyrs’ Corps"
+              "title": "Outline of Softwares"
             }
           }
         ],
@@ -177,12 +202,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3b9cb000350057b",
+  "active": "97b5a0bd647e25c6",
   "lastOpenFiles": [
+    "Polis.md",
+    "teams/Softwares.md",
+    "logistics/13-13s.md",
+    "teams/tenets.md",
+    "teams/cultures.md",
+    "teams/by/color 1.md",
+    "teams/by/color.md",
+    "propaganda/13 Software Systems.md",
+    "software/⁄⦲⁄software⁄index.md",
+    "benefits/Content Authentication.md",
+    "logistics/Martyrs’ Corps.md",
+    "benefits",
     "logistics/Vanover Letter.md",
     "logistics/Gaianism.md",
     "logistics/Calendars.md",
-    "logistics/13-13s.md",
     "teams/by/captain/PotUSA.md",
     "logistics/Clock.md",
     "teams/by/song/We R Who We R.md",
@@ -194,18 +230,8 @@
     "index.md",
     "jobs-project.md",
     "teams/by/spaces/Rhinegold.md",
-    "software/⁄⦲⁄software⁄index.md",
     "propaganda/The Technoanarchist Revolution.md",
     "propaganda/Drug War Horrors.md",
-    "fervor/Revolution.md",
-    "crux/Presidency.md",
-    "teams/by/color/White Team.md",
-    "teams/by/color/Green Team.md",
-    "teams/by/color/Gold Team.md",
-    "teams/by/color/Cyan Team.md",
-    "teams/by/color/Copper Team.md",
-    "teams/by/color/Brown Team.md",
-    "teams/by/color/Black Team.md",
     "images/Kallisti's apple.svg",
     "Untitled 5.base",
     "Untitled 4.base",
@@ -224,7 +250,6 @@
     "images/team/orange/svg.svg",
     "images/team/gray/magistrate.svg",
     "images/software/Voces Populi/svg.svg",
-    "image/handcuff",
     "images/software/Vox Populi/svg.svg",
     "Untitled 1.canvas"
   ]
