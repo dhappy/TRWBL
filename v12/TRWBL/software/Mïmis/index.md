@@ -4,7 +4,7 @@ tags:
 website: https://mimis.dhappy.org
 repository: https://github.com/MetaFam/mimis/
 ---
-## Structure
+		## Structure
 
 Mïmis is backed by a set of graphs stored in a Neo4j instance. Initially, it is simply a set of directory trees which contextualize blobs stored in IPFS.
 
