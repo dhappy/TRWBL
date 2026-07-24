@@ -809,7 +809,7 @@ const SINGLETON_EXTERNALS = ["preact", "@jackyzha0/quartz", "vfile", "unified"]
  * Scope prefixes whose packages are always treated as shared externals.
  * Plugins under these scopes are co-installed siblings, not bundled deps.
  */
-const SHARED_SCOPES = ["@quartz-community/"]
+const SHARED_SCOPES = ["@quartz-community/", "@quartz-themes/"]
 
 /**
  * Build the full shared externals list by combining:
