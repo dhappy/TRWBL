@@ -113,6 +113,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: its-theme
+      variation: ttrpg-dnd
+      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -266,14 +272,6 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: its-theme
-      variation: ttrpg-dnd
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
