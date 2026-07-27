@@ -4,7 +4,7 @@ import { execSync } from "child_process"
 import git from "isomorphic-git"
 import http from "isomorphic-git/http/node"
 import { styleText } from "util"
-import { createRequire } from "module"
+import { fileURLToPath } from "node:url"
 import { pathToFileURL } from "url"
 import { PluginSource } from "./types"
 
@@ -990,8 +990,7 @@ export async function regeneratePluginIndex(
   for (const npmPkg of options.npmPackages ?? []) {
     let distIndex: string | undefined
     try {
-      const esmRequire = createRequire(import.meta.url)
-      const pkgJsonPath = esmRequire.resolve(`${npmPkg}/package.json`)
+      const pkgJsonPath = fileURLToPath(import.meta.resolve(`${npmPkg}/package.json`))
       distIndex = path.join(path.dirname(pkgJsonPath), "dist", "index.d.ts")
     } catch {
       if (options.verbose) {

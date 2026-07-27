@@ -2,7 +2,7 @@ import fs from "fs"
 import path from "path"
 import YAML from "yaml"
 import { styleText } from "util"
-import { createRequire } from "node:module"
+import { fileURLToPath } from "node:url"
 import { QuartzConfig, GlobalConfiguration, FullPageLayout } from "../../cfg"
 import { QuartzComponent, QuartzComponentConstructor } from "../../components/types"
 import { PluginTypes } from "../types"
@@ -205,10 +205,9 @@ async function resolvePluginManifest(source: PluginSource): Promise<PluginManife
 async function readManifestFromPackageJson(source: PluginSource): Promise<PluginManifest | null> {
   try {
     const gitSpec = parsePluginSource(source)
-    const require = createRequire(import.meta.url)
     let pkgPath: string
     if (gitSpec.npmPackage) {
-      pkgPath = require.resolve(`${gitSpec.name}/package.json`, { paths: [process.cwd()] })
+      pkgPath = fileURLToPath(import.meta.resolve(`${gitSpec.name}/package.json`))
     } else {
       const pluginDir = path.join(process.cwd(), ".quartz", "plugins", gitSpec.name)
       pkgPath = path.join(pluginDir, "package.json")
