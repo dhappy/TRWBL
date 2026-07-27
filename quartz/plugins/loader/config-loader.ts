@@ -644,7 +644,7 @@ export async function loadQuartzLayout(layoutOverrides?: {
     return oldLayout.layout
   }
 
-  const enabledWithLayout = json.plugins.filter((e) => e.enabled && e.layout)
+  const enabledWithLayout = json.plugins.filter((e) => e.enabled)
   const layoutConfig = json.layout ?? {}
 
   // Build default layout for all page types
@@ -672,7 +672,7 @@ export async function loadQuartzLayout(layoutOverrides?: {
           if (Array.isArray(components) && components.length === 0) {
             const key = pos as keyof Pick<
               FullPageLayout,
-              "left" | "right" | "beforeBody" | "afterBody"
+              "header" | "left" | "right" | "beforeBody" | "afterBody" | "footer"
             >
             if (key in ptLayout) {
               ;(ptLayout as Record<string, unknown>)[key] = []
@@ -690,46 +690,20 @@ export async function loadQuartzLayout(layoutOverrides?: {
     }
   }
 
-  // Add Head (built-in) and Footer (plugin)
   const HeadModule = await import("../../components/Head")
   const head = HeadModule.default()
-
-  // Find footer from component registry (loaded during plugin instantiation)
-  const footerEntry = json.plugins.find(
-    (e) => e.enabled && extractPluginName(e.source) === "footer",
-  )
-  let footer: QuartzComponent | undefined
-  if (footerEntry) {
-    // Try registry lookup: plugin name ("footer") or export name ("Footer")
-    const footerReg = componentRegistry.get("footer") ?? componentRegistry.get("Footer")
-    if (footerReg) {
-      if (typeof footerReg.component === "function" && !("displayName" in footerReg.component)) {
-        // It's a constructor — use registry cache for consistent instances
-        const footerOverrides = componentRegistry.getOptionOverrides("footer")
-        const opts = { ...footerEntry.options, ...footerOverrides }
-        footer = componentRegistry.instantiate(
-          footerReg.component as QuartzComponentConstructor,
-          Object.keys(opts).length > 0 ? opts : undefined,
-        )
-      } else {
-        footer = footerReg.component as QuartzComponent
-      }
-    }
-  }
 
   // Apply structural defaults
   defaultLayout.head = head
   defaultLayout.header = defaultLayout.header ?? []
-  if (footer) {
-    defaultLayout.footer = footer
-  }
+  defaultLayout.footer = defaultLayout.footer ?? []
 
   // Ensure all byPageType entries inherit structural slots
   for (const pageType of Object.keys(byPageType)) {
     const pt = byPageType[pageType]
     if (!pt.head) pt.head = head
-    if (!pt.header) pt.header = []
-    if (footer && !pt.footer) pt.footer = footer
+    if (!pt.header) pt.header = defaultLayout.header
+    if (!pt.footer) pt.footer = defaultLayout.footer
   }
 
   const mergedDefaults = { ...defaultLayout, ...layoutOverrides?.defaults }
@@ -756,10 +730,12 @@ function buildLayoutForEntries(
       groupOptions?: PluginLayoutDeclaration["groupOptions"]
     }[]
   > = {
+    header: [],
     left: [],
     right: [],
     beforeBody: [],
     afterBody: [],
+    footer: [],
   }
 
   for (const entry of entries) {
@@ -828,6 +804,48 @@ function buildLayoutForEntries(
     }
   }
 
+  for (const entry of entries) {
+    if (!entry.enabled || entry.layout) continue
+
+    const name = extractPluginName(entry.source)
+    const registered =
+      componentRegistry.get(name) ??
+      componentRegistry.get(`${formatSourceDisplay(entry.source)}/${name}`)
+    const pascalName = name
+      .split("-")
+      .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
+      .join("")
+    const reg = registered ?? componentRegistry.get(pascalName)
+    if (!reg) continue
+
+    const layoutDefaults = reg.manifest
+    const defaultPosition = layoutDefaults?.defaultPosition
+    if (!defaultPosition) continue
+
+    const posArray = positions[defaultPosition]
+    if (!posArray) {
+      continue
+    }
+
+    let component: QuartzComponent
+    if (typeof reg.component === "function" && !("displayName" in reg.component)) {
+      const tsOverrides = componentRegistry.getOptionOverrides(name)
+      const opts = { ...entry.options, ...tsOverrides }
+      const optsArg = Object.keys(opts).length > 0 ? opts : undefined
+      component = componentRegistry.instantiate(
+        reg.component as QuartzComponentConstructor,
+        optsArg,
+      )
+    } else {
+      component = reg.component as QuartzComponent
+    }
+
+    posArray.push({
+      component,
+      priority: layoutDefaults?.defaultPriority ?? 50,
+    })
+  }
+
   // Sort by priority and resolve groups
   const result: Partial<FullPageLayout> = {}
 
@@ -837,7 +855,7 @@ function buildLayoutForEntries(
     const resolved = resolveGroups(items, layoutConfig.groups ?? {})
     const key = position as keyof Pick<
       FullPageLayout,
-      "left" | "right" | "beforeBody" | "afterBody"
+      "header" | "left" | "right" | "beforeBody" | "afterBody" | "footer"
     >
     ;(result as Record<string, QuartzComponent[]>)[key] = resolved
   }

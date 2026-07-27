@@ -8,6 +8,8 @@ export interface ComponentManifest {
   quartzVersion?: string
   author?: string
   homepage?: string
+  defaultPosition?: string
+  defaultPriority?: number
 }
 
 export interface RegisteredComponent {
