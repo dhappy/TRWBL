@@ -37,7 +37,8 @@ export function resolveLayout(
   }
 }
 
-function collectComponents(
+/** @internal Exported for testing only. */
+export function collectComponents(
   pageTypes: QuartzPageTypePluginInstance[],
   sharedDefaults: Partial<FullPageLayout>,
   byPageType: Record<string, Partial<FullPageLayout>>,

@@ -18,7 +18,8 @@ export interface RegisteredComponent {
   manifest?: ComponentManifest
 }
 
-class ComponentRegistry {
+/** @internal Exported for testing only. */
+export class ComponentRegistry {
   private components = new Map<string, RegisteredComponent>()
   private instanceCache = new Map<string, QuartzComponent>()
   private optionOverrides = new Map<string, Record<string, unknown>>()
@@ -109,6 +110,13 @@ class ComponentRegistry {
       }
     }
     return results
+  }
+
+  /** @internal For testing only — resets all registry state. */
+  clear(): void {
+    this.components.clear()
+    this.instanceCache.clear()
+    this.optionOverrides.clear()
   }
 
   private findCachedInstance(
