@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logistics/Edicts.md",
+                "file": "software/Mïmis/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Edicts"
+              "title": "index"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logistics/Edicts.md",
+                "file": "software/Mïmis/index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Edicts"
+              "title": "Outline of index"
             }
           }
         ],
@@ -179,39 +179,40 @@
   },
   "active": "673b530abb4919a0",
   "lastOpenFiles": [
+    "software/Yggdrasil.md",
+    "software/Týr.md",
+    "software/Jörmungandr.md",
+    "software/Hestia.md",
+    "teams/by/color/Green Team.md",
+    "teams/by/color/Yellow Team.md",
+    "teams/by/color/White Team.md",
+    "teams/by/color/Pink Team.md",
+    "teams/by/color/Peach Team.md",
+    "teams/by/color/Orange Team.md",
+    "teams/by/color/Gray Team.md",
+    "teams/by/color/Gold Team.md",
+    "teams/by/color/Cyan Team.md",
+    "teams/by/color/Copper Team.md",
+    "teams/by/color/Brown Team.md",
+    "teams/by/color/Black Team.md",
+    "teams/Softwares.md",
+    "teams/cultures.md",
+    "teams/tenets.md",
+    "teams/cultures 1.md",
+    "13 Edicts.md",
+    "scenes/Couriers.md",
+    "scenes/An ID Raid.md",
+    "scenes/72 Virgins.md",
     "reveal/Truman Someone.md",
-    "logistics/Edicts.md",
     "reveal/To The Seas.md",
-    "reveal/Hard Reset.md",
-    "reveal/Game Someone.md",
-    "narrative/Why It's Called That.md",
-    "narrative/In the beginning….md",
-    "narrative/Bigger Than Jesus.md",
-    "logistics/Tokenomics.md",
-    "images/team/gray/magistrate.svg",
-    "images/Kallisti's apple.svg",
-    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
     "images/software/Voces Populi/svg.svg",
+    "images/Kallisti's apple.svg",
+    "images/team/orange/svg.svg",
+    "images/Yggdrasil Outposts/Silver/№1/svg.svg",
+    "images/team/gray/magistrate.svg",
     "images/software/Vár/svg.svg",
     "images/software/Argus/svg.svg",
     "images/handcuffs/old/svg.svg",
-    "crux/Presidency.md",
-    "fervor/Revolution.md",
-    "logistics/Vanover Letter.md",
-    "logistics/Serial Mobbing.md",
-    "logistics/Reputation.md",
-    "logistics/Martyrs’ Corps.md",
-    "logistics/Gaianism.md",
-    "logistics/Escrow.md",
-    "logistics/Calendars.md",
-    "logistics/13-13s.md",
-    "teams/tenets.md",
-    "teams/by/social segment/Children.md",
-    "teams/by/social segment/Elders.md",
-    "teams/by/social segment/Whites.md",
-    "teams/by/song/We R Who We R.md",
-    "teams/by/song/Breath.md",
-    "teams/by/song/Don’t Feed Me No Broccoli.md",
     "benefits",
     "Testing.canvas",
     "Untitled 5.base",
@@ -224,7 +225,6 @@
     "software/Mïmis/index",
     "software/Mïmis",
     "software",
-    "images/team/orange/svg.svg",
     "images/software/Vox Populi/svg.svg",
     "Untitled 1.canvas"
   ]
