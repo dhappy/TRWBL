@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb410a5a7b0e621",
+        "id": "2e70b4c21fac1df4",
         "type": "tabs",
         "children": [
           {
-            "id": "673b530abb4919a0",
+            "id": "051425702b20c2b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/Mïmis/index.md",
+                "file": "software/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -150,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/Mïmis/index.md",
+                "file": "software/index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           }
         ],
@@ -177,8 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "673b530abb4919a0",
+  "active": "051425702b20c2b3",
   "lastOpenFiles": [
+    "Testing.canvas",
+    "propaganda/Drug War Horrors.md",
+    "Untitled.base",
+    "software/Mïmis/index.md",
     "software/Yggdrasil.md",
     "software/Týr.md",
     "software/Jörmungandr.md",
@@ -202,9 +208,6 @@
     "13 Edicts.md",
     "scenes/Couriers.md",
     "scenes/An ID Raid.md",
-    "scenes/72 Virgins.md",
-    "reveal/Truman Someone.md",
-    "reveal/To The Seas.md",
     "images/software/Voces Populi/svg.svg",
     "images/Kallisti's apple.svg",
     "images/team/orange/svg.svg",
@@ -214,13 +217,11 @@
     "images/software/Argus/svg.svg",
     "images/handcuffs/old/svg.svg",
     "benefits",
-    "Testing.canvas",
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "Untitled.canvas",
     "software/Mïmis/index",
     "software/Mïmis",

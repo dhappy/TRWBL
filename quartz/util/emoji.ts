@@ -37,10 +37,10 @@ export async function loadEmoji(code: string) {
     emojimap = data
   }
 
-  const name = emojimap.codePointToName[`${code.toUpperCase()}`]
+  const name = emojimap.codePointToName[`${code.toUpperCase()}`] || '㐃'
   if (!name) throw new Error(`codepoint ${code} not found in map`)
 
-  const b64 = emojimap.nameToBase64[name]
+  const b64 = emojimap.nameToBase64[name] || '0xDEADBEEF'
   if (!b64) throw new Error(`name ${name} not found in map`)
 
   return b64
