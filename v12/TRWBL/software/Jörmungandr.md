@@ -6,6 +6,6 @@ The goal is to abolish traditional physical goods markets in favor of a “fract
 
 Each item in the system has a NFC tag with a unique identifier on it for tracking.
 
-Jörmungandr is the system that is “aware” of all the parcels as well as NFC tags used to mark locations. It coordinates with [Par](Par.md) to move packages around in response to customer demands and likely consumption patterns.
+Jörmungandr is the system that is “aware” of all the parcels as well as NFC tags used to mark locations. It coordinates with [[Par]] to move packages around in response to customer demands and likely consumption patterns.
 
-Holding stations may be [electronic lockers](Rhinegold.md) or [human-managed spaces](Ladon.md).
+Holding stations may be [[Constant Couriering|mobile]] or [[Ladon|ad-hoc stationary]] spaces.

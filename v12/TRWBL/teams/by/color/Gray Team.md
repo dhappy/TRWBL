@@ -6,4 +6,4 @@ property:
 ---
 ## Rules Interpretation
 
-![Magistrate](../../../images/team/gray/magistrate.svg)
+![Magistrate|607](../../../images/team/gray/magistrate.svg)

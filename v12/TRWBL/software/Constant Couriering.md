@@ -13,7 +13,7 @@ Pricewise, there are a variety of factors at play:
 * The couriers will be delivering sold goods, transporting goods between storage houses, ferrying people, and serving as an ad hoc security service.
 * As security service, the pair in a car serve as camerapeople to capture the activities of whoever contracted them.
 
-An important aspect of the couriering system is the software that is managing the activities of the drivers and storekeeps. There are at least two systems at play: [the dashcam](Vár.md) & the coordinator.
+An important aspect of the couriering system is the software that is managing the activities of the drivers and storekeeps. There are at least two systems at play: [[Vár|the dashcam]] & the coordinator.
 
 The dashcam software is recording *(potentially livestreaming)* their progress & directing their driving.
 

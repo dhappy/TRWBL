@@ -1,0 +1,1 @@
+The graph that is [[software/Mïmis/index|Mïmis]], there are `MARKS` edges between `User` nodes & content `Spot`s. These `MARKS`s have a `descriptor` phrase & -1 ≤ `weight` ≤ 1.

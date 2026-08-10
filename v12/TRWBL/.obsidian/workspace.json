@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e70b4c21fac1df4",
+        "id": "95b6e052b90c2429",
         "type": "tabs",
         "children": [
           {
-            "id": "051425702b20c2b3",
+            "id": "28a18e27f6747ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/index.md",
+                "file": "teams/by/spaces/Rhinegold.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Rhinegold"
             }
           }
         ]
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/index.md",
+                "file": "teams/by/spaces/Rhinegold.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,35 +179,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "051425702b20c2b3",
+  "active": "28a18e27f6747ac0",
   "lastOpenFiles": [
-    "Testing.canvas",
-    "propaganda/Drug War Horrors.md",
-    "Untitled.base",
-    "software/Mïmis/index.md",
-    "software/Yggdrasil.md",
-    "software/Týr.md",
-    "software/Jörmungandr.md",
-    "software/Hestia.md",
-    "teams/by/color/Green Team.md",
-    "teams/by/color/Yellow Team.md",
-    "teams/by/color/White Team.md",
-    "teams/by/color/Pink Team.md",
-    "teams/by/color/Peach Team.md",
-    "teams/by/color/Orange Team.md",
-    "teams/by/color/Gray Team.md",
-    "teams/by/color/Gold Team.md",
-    "teams/by/color/Cyan Team.md",
-    "teams/by/color/Copper Team.md",
-    "teams/by/color/Brown Team.md",
-    "teams/by/color/Black Team.md",
-    "teams/Softwares.md",
+    "teams/by/song/We R Who We R.md",
+    "teams/by/song/Uncle Sam Goddamn.md",
+    "teams/by/song/Don’t Feed Me No Broccoli.md",
+    "teams/by/song/One Day.md",
+    "teams/by/song/Breath.md",
     "teams/cultures.md",
+    "teams/by/captain/PotUSA.md",
     "teams/tenets.md",
-    "teams/cultures 1.md",
-    "13 Edicts.md",
-    "scenes/Couriers.md",
-    "scenes/An ID Raid.md",
+    "software/index.md",
+    "reveal/Truman Someone.md",
+    "reveal/To The Seas.md",
+    "reveal/Hard Reset.md",
+    "reveal/Game Someone.md",
+    "propaganda/The Technoanarchist Revolution.md",
+    "propaganda/Drug War Horrors.md",
+    "propaganda/13 Software Systems.md",
+    "images/handcuffs/old/svg.svg",
+    "index.md",
+    "jobs-project.md",
+    "Media.md",
+    "Testing.canvas",
+    "logistics/Gaianism.md",
+    "teams/by/color.md",
+    "logistics/Edicts.md",
+    "software/concept/union graph.md",
+    "software/concept/weighted descriptors.md",
+    "softwares/Media 1.md",
+    "softwares/Media.md",
+    "software/concept",
+    "softwares",
+    "Untitled.base",
     "images/software/Voces Populi/svg.svg",
     "images/Kallisti's apple.svg",
     "images/team/orange/svg.svg",
@@ -215,7 +219,6 @@
     "images/team/gray/magistrate.svg",
     "images/software/Vár/svg.svg",
     "images/software/Argus/svg.svg",
-    "images/handcuffs/old/svg.svg",
     "benefits",
     "Untitled 5.base",
     "Untitled 4.base",
@@ -224,8 +227,6 @@
     "Untitled 1.base",
     "Untitled.canvas",
     "software/Mïmis/index",
-    "software/Mïmis",
-    "software",
     "images/software/Vox Populi/svg.svg",
     "Untitled 1.canvas"
   ]

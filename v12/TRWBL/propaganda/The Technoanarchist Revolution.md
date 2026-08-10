@@ -3,8 +3,8 @@ copyright: "2062"
 tags:
   - propaganda
 ---
-# The American Journey
-## Chapter ＃25꞉ 2026–2045
+# _The American Journey_
+## Chapter ＃25꞉ 2010–2040
 ## ©️ 2062: Prentice Hall
 
 

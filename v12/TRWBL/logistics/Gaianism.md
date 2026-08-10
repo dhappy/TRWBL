@@ -44,20 +44,15 @@ It requires humility and an absolute commitment to having the clearest perceptio
 
 ## Process
 
-As one of the goals of the revolution is [anonymity](jobs-project)…
+As one of the goals of the revolution is [[jobs-project|anonymity]]…
 
 
 ## Tenets
 
-In fitting with the [13 13s](13-13s.md) that are [Yggdrasil](Yggdrasil.md), there are 13 core tenets that practitioners of the faith exercise.
+In fitting with the [[13 13s]] that are [[Yggdrasil]], there are 13 core tenets that practitioners of the faith exercise.
 
 1. The truth will set you free.
 2. 
-## Strictures
+## Edicts
 
-Another set of 13 is the list of proscribed behaviors.
-
-1. Never break glass.
-2. Always get consent.
-3. No thievery.
-4. 
+Another set of 13 is the [[Edicts|list of prescribed behaviors]].

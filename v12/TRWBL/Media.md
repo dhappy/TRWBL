@@ -1,0 +1,3 @@
+Users of [[Mïmis/index|Mïmis]] are able to create weighted tags between `Spot`s. For example, a tag from `/users/0xDEADBEEF…` to `/newspaper/entitled/New York Times/published/2026⁄4⁄21/cartoon/by/Patrick Chappatte/entitled/Clinton at the DNC` with a `descriptor` of `funny` & a `weight` of `0.75` means the user with that signing key found that editorial cartoon reasonably entertaining.
+
+Page rank is run growing from the accounts that are verifiable using [Human Passport](https://passport.human.tech) and using the weighted `MARKS` edges to connect content spaces. Based on this ranking *(combined with information about what has already been seen)* content recommendations can be made.

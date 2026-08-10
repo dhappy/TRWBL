@@ -1,17 +1,15 @@
 {
-  "name": "v12",
+  "name": "TRWBL.v12",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cd quartz/ && npx quartz build",
-    "gh:publish": "gh-pages --dist quartz/public/ --nojekyll"
+    "build": "cd ../ && npx quartz build",
+    "gh:publish": "npx gh-pages --dist ../public/ --message '¿What’ll it be? ¡Live!' --nojekyll"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^6.2.0"
-  },
-  "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee"
+  "devDependencies": {},
+  "packageManager": "pnpm@12.0.0-beta.2+sha512.bfe5bc4de6852a91e1f2b982adae34646838648f6f35e3e0ba873009a517d1f09e60105c4ab17d8c2349aa2dfb9e0e260eea6604a902ce6aa945b7945c75b473"
 }

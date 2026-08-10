@@ -10,7 +10,7 @@ tags:
 5. Done is done.
 6. Party hearty.
 7. No thievery.
-8. Everyone's people.
+8. Everyone's folx.
 9. Don’t fuck kids.
 10. You make mistakes.
 11. It's what it's.

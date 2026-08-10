@@ -53,7 +53,7 @@ In that situation, today, 2025⁄5⁄11, is 0⁄♎⁄10 — the eleventh day si
 
 ## Conspiracy
 
-The date and time is a question you can ask of someone to evaluate their depth of exposure to the revolutionary structure. If they say it's 11ᴘᴍ in 2025, you know they're only professing knowledge of [the Gold Team](Gold%20Team.md) and are likely not in on the secret.
+The date and time is a question you can ask of someone to evaluate their depth of exposure to the revolutionary structure. If they say it's 11ᴘᴍ in 2025, you know they're only professing knowledge of [[Gold Team|the Gold Team]] and are likely not in on the secret.
 
 If they say it's 98ʜ͋ of the 3ʳᵈ, you know they're in pretty deep. If they say it's Pisces instead of Sagittarius *(they're using the Rotated Sidereal)*, they're likely near the top.
 ## Shifted Hijri

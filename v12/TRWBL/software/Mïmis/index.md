@@ -4,7 +4,7 @@ tags:
 website: https://mimis.dhappy.org
 repository: https://github.com/MetaFam/mimis/
 ---
-		## Structure
+## Structure
 
 Mïmis is backed by a set of graphs stored in a [Tinkerpop](https://tinkerpop.apache.org/)-comaptible instance. Initially, it is simply a set of directory trees which contextualize blobs stored in IPFS.
 
@@ -12,10 +12,14 @@ It's a little different than the traditional folder and file idiom for a couple 
 
 The path information is stored on the edges of the graph rather than in the nodes, so that the `path` property on `CONTAINS` edges is what drives a deterministic finite automata to find some terminal node with a label of `Spot`.
 
+There are also `rank`ed `MOUNT` edges between `Spot`s. `rank` is processed in descending numeric order with later additions being checked first for resources *(after a copy-on-write layer)*.
+
+Each node and edge has a user-defined UUID set at the point of creation.
+
 From that node, the system can check for adjoining edges:
 * `REPRESENTATION` edges have a `mimetype` property which must be unique for that node. At any given time there is one particular representation that is considered best for a given Spot in the enöosphere.
 * `PREVIOUS`: The property graph is built by unioning together graph fragments. Each user has some unioned set of devices that they may or may not control to produce their feed. Each device will publish under a unique key, and an aggregate feed will be produced from them. Some types of reads take the first instance of a node & use it. Others will union the properties of the nodes so that any property appearing anywhere will have the most recent value shown. A `PREVIOUS` edge is a link to the instance that was in place when this one was introduced.
-* `EQUALS`: Each node and edge has a user-defined UUID at the point of creation. An `EQUALS` edge represents that this node and another have the same UUID & represent the same conceptual Spot. It essentially lets one build hypergraphs by allowing an edge to connect to many nodes. It could be used to let users connect their graphs together and annotate each others' spaces.
+* `EQUALS` represents that this node and another signify the same conceptual Spot. It essentially lets one build hypergraphs by allowing an edge to connect to many nodes. `EQUALS` can be used to let users connect their graphs together and annotate each others' spaces. When this type of edge is serialized, it isn't saved like most nodes in a graph fragment with the CID of a representation of the destination, rather the `owner` of the destination node, it's `uuid`, `path`, & optional `rank` are saved.
 
 Unlike a traditional file system which generally has a single location for a file, the files in Mïmis are represented by their IPFS CID and will frequently have many directory paths which resolve to a file.
 
