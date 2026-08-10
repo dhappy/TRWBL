@@ -1,6 +1,0 @@
----
-class:
-  - team
-property:
-  - color
----
