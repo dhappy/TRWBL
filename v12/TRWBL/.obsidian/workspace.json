@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teams/by/spaces/Rhinegold.md",
+                "file": "teams/by/color/Green Team.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rhinegold"
+              "title": "Green Team"
             }
           }
         ]
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teams/by/spaces/Rhinegold.md",
+                "file": "teams/by/color/Green Team.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,6 +181,16 @@
   },
   "active": "28a18e27f6747ac0",
   "lastOpenFiles": [
+    "teams/by/color/Brown Team.md",
+    "teams/by/color/Gray Team.md",
+    "teams/by/color/Pink Team.md",
+    "teams/by/social segment/Whites.md",
+    "teams/by/social segment/Elders.md",
+    "teams/by/social segment/Children.md",
+    "teams/by/social segment/Blacks.md",
+    "teams/by/social segment/Elderly.md",
+    "teams/by/color/index.md",
+    "teams/by/spaces/Rhinegold.md",
     "teams/by/song/We R Who We R.md",
     "teams/by/song/Uncle Sam Goddamn.md",
     "teams/by/song/Don’t Feed Me No Broccoli.md",
@@ -198,17 +208,7 @@
     "propaganda/Drug War Horrors.md",
     "propaganda/13 Software Systems.md",
     "images/handcuffs/old/svg.svg",
-    "index.md",
-    "jobs-project.md",
-    "Media.md",
     "Testing.canvas",
-    "logistics/Gaianism.md",
-    "teams/by/color.md",
-    "logistics/Edicts.md",
-    "software/concept/union graph.md",
-    "software/concept/weighted descriptors.md",
-    "softwares/Media 1.md",
-    "softwares/Media.md",
     "software/concept",
     "softwares",
     "Untitled.base",
